@@ -1,0 +1,123 @@
+Hi,
+
+I have read the job description and will be able to assist you on your blockchain project.
+
+My Experience
+============
+I’ve been developing NFT, Defi, Smart contract, smart auditing, Wallets integration, and development from the very beginning and would like to set up a quick Upork call for the next step and will make sure you'll get great business values.
+
+ETHEREUM
+============
+
+Ethereum is one of our core expertise. Our recent work done in Ethereum Blockchain is below mentioned
+https://bnbvault.finance/
+
+BINANCE
+==========
+
+Please check our work done in Binance Smart Chain
+https://admantium.finance/
+
+SOLIDITY
+==========
+
+Please check a few samples of solidity based smart contracts that I have developed:
+
+https://ropsten.etherscan.io/tx/0x5e777133551881be5eab2e9a0500090fba9f825fe594e7bbbc65fc6d482c71ec
+
+https://ropsten.etherscan.io/address/0xD5c92cb5565a7404c2880DCca1256BfcDd3E4b5b
+
+Key-Skills
+============
+- Smart Contract Development,
+- Smart Contract Audit,
+- ICO and Token Implementation,
+- ERC20 and ERC721 Token Standards,
+- Smart Contract Consulting,
+- General Smart Contract Implementation,
+- Consulting in the area of Ethereum Blockchain,
+- Project and Product Management.
+
+Can also help you in:
+=================
+- Token Creation
+- Token Distribution
+- Hosting and Administration
+- ICO Landing Page
+- Custom Token Rules
+- Multi-Sig Wallets
+- Multi-Currency Funding
+- Multi-Currency Payment Processing
+- Exchange Trading
+
+Wallet App Development Experience
+================================
+In past, I have done wallets app with
+- Ability to transfer any currency
+- Option to keep track of the values of all cryptocurrency wallets
+- Option to check cryptocurrency prices
+- App will show the latest news about cryptocurrencies
+- Option for cryptocurrencies price alerts
+
+Wallet features
+============
+Wallet apps feature that I have developed in the above live sample:
+
+- User authentication and Authorization (Signup, Sign in, Forgot password, Logout)
+- 2 Factor Authentication
+- Passphrase and Recovery
+- Profile
+- Wallet Settings
+- Multi-wallet management (Manage multiple accounts)
+- QR Code integration
+- Wallet balances (Multiple filter options)
+- Transaction History
+- Send Cryptos
+- FAQ / Knowledgebase
+- RESTFul web services API Integration
+
+About Us
+========
+We have many Top-rated full-stack senior Blockchain experts having prior experience with various blockchains and can handle high-level project tasks and complexities without any assistance. Our Blockchain Expertise include
+
+- Smart Contract
+- Ethereum
+- Dapp Development
+- Token Wallet Development,
+- Lending Bot Development for Cryptocurrency Exchange Market Places
+- AWS DevOps, Machine Learning.
+- Worked on Protocols like Ethereum, IBM Hyperledger, Stellar
+- DApp implementation in Philanthropy
+- Implementation of Private, Public and Permission-based network
+- DApp for Anti-Counterfeiting in the Pharmaceutical Industry
+- SetUp of a Permission-based Consortium Network
+- DApp for Supply Chain Management for Food Industry
+
+Our NFT Work
+============
+Recently we have started working on an NFT development.
+A small portion of work had been already completed that you can see here:
+https://www.buying.com/index.php?route=common/token
+
+Other Cryptocurrency and wallet application
+===================================
+•My Bitcard – Bitcoin Gift card buy/Redeem - https://www.mybitcards.com/
+•Vertex - https://vertex.market/ (ICO & Core exchange)
+
+Cryptocurrency Wallet App
+=======================
+•https://montex-wallet.com
+•Android - https://play.google.com/store/apps/details?id=com.montex_wallet&hl=ja
+•IOS App - https://apps.apple.com/us/app/montex-wallet/id1444709285
+
+Edge Crypto Wallet
+================
+•Android - https://play.google.com/store/apps/details?id=co.edgesecure.app&hl=en
+•iOS App - https://apps.apple.com/us/app/edge-crypto-bitcoin-wallet/id1344400091
+
+Let's connect over a chat, to discuss this further.
+
+Looking forward to hearing back from you soon.
+
+Thanks and regards,
+Utkarsh K.

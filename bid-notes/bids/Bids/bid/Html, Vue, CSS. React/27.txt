@@ -1,0 +1,71 @@
+Hi, nice to meet you. I consider myself a top-notch front-end developer and here are the proofs.
+
+My latest React-based engagement
+https://www.verida.io/ - personal data management tool with a dozen 3rd-party services integrated. Supports several blockchains as well.
+Latest Vue-based release https://allianceblock.io/ - a blockchain-based platform built to conduct an ICO securely. I was performing both front-end and back-end development as well as connecting all the smart contracts.
+
+As you can see from my profile I have Vue contracts done with 5* feedback which is one more proof of proficiency I believe.
+
+Also, you can see some of my code below. Check the attachments and don't hesitate to ask for more samples or live products if needed.
+
+Keen to see more of prior works? Here are they https://drive.google.com/file/d/1nl0ZBujFw2LJ8AoT8bnylDimnuMlZrfC/view
+
+Being sure of my skills I'm ready for a technical interview, test task, or anything else that is set up by your hiring process.
+
+Let's discuss the details more precisely in chat. Will be happy to share the relevant experience and enhance your team.
+What time works best for you to get in touch?
+
+Sincerely,
+Sergei
+
+ExampleReactJS.zip (58 KB)
+ExampleVueJS.zip (44 KB)
+
+
+Hello there, I've spent the greater part of the last 6 years building React and Vue apps and I think we make a great fit. I specialize in architecting web projects from scratch and have strength in app state management in React using redux and react APIs, I'm well versed in React top-level API like hooks, memo, context, portal and etc, how to test components using Jest.
+
+I'm also fully aware of Vue.js core features like Vuex, mixin, router middleware, slots, dynamic components, etc.
+
+If you'd like to schedule a meeting, I'd love to learn more about your project and how I can use my skills to help you attain your goals.
+
+Cheers,
+Thomas
+
+
+Dear. Sir
+
+I'd really like to work with you on this one if possible!
+I do have a couple of questions, but first I'd like to make you an offer and some background so you can ckeck my work out.
+
+My name is Jay and I am a designer with 5 years of experience. Many sites I have designed are React and VueJs, so I am pretty familiar with what you need doing.
+
+
+If you take a look at my work and feel that I could help you, I'll do it for big discount.
+
+You'll get all the expected stuff like a great professional service and a fast turn around, at a bite less, and I get a bit more exposure.
+
+You can have a look at my portfolio here: http://kasanova.com.
+
+If the above offer sounds like something you would be interested in, I'd love to hear from you.
+
+Regards.
+
+
+👋🏼Hi!
+
+I am a senior React Engineer, I will be able to develop a website for you. Let’s set up a call and discuss more details of your project.
+
+Here are examples of my previous work:
+
+- Healthcare app - https://collectivehealth.com/
+Project Idea: Health insurance for employees platform.
+Technologies: React, Redux, SCSS, TypeScript.
+Responsibilities: Demo creating; Creating a friendly and adaptive user interface; Authorisation(in cooperation with a back-end team).
+
+- Fintech - https://bopp.io/
+Project Idea: to make the payment process easier, using the bank app on the phone.
+Technologies: React, Redux, SCSS, TypeScript.
+Responsibilities: Developing and Styling pages; Receiving data from Back End endpoints and implementing it on the client-side.
+
+Best Regards,
+Oleksandr

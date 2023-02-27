@@ -1,0 +1,58 @@
+Hi, I'm ready to help you. Can you specify the task so I can understand the work objectives?
+I have been working as a full-stack developer and have experience in React with Redux for over 6 years. I'm a typescript specialist, so I'm well-versed in Vue.js as well.
+
+Moreover;
+* Pretty good enough at customizing and implementing third-party APIs and Rest API. Also worked on JSON, SOAP.
+* Experience in AWS, Azure, etc.
+* Write robust & extensible code architecture
+* Experienced in frontend technologies like HTML, CSS, JavaScript, jQuery, Bootstrap, Tailwind CSS, Less, and Sass. Experienced in front-end tools like Webpack and Babel.
+* Use Jest and Enzyme for unit testing.
+* Have experience in Agile methodology.
+* Have implemented CI/CD
+* Familiar with project management tools like Jira, Basecamp, Asana, Mantis & TFS.
+
+To review the code standards I'll recommend visiting the git repo-
+
+◼ React: https://git.sentientgeeks.us/SentientGeeks/react-architecture.git
+
+some work examples:
+
+- https://sheroes.com/ [Community web app using MERN stack]
+- https://makepassportphoto.com/ [ Photo printing websites using React/Node.js]
+- https://www.bluebridge.co.nz/ [Booking application using React]
+- https://www.perksweet.com/ [Perk Sweet is a SaaS-based Employee Engagement & Rewards Platform. The technology used: Laravel 8.0, jetstream, livewire, Blade, alpine.js, Vue.js.]
+
+
+If you like to know more please specify your queries. I'm ready to showcase and discuss.
+
+Hopefully, the above-mentioned information is informative for you.
+Let's connect to discuss the scope further. I'm looking forward to hearing back from you.
+
+Cheers!
+Krish
+
+Hi Client,
+Being an expert developer with excellent skills in React, CSS, HTML, JQuery and Javascript, I can develop Great Websites.
+
+For reference attaching my work below:
+https://www.shineriteco.com/
+https://audiocardio.com/
+https://www.officersurvey.com/
+
+Let me know your availability to further discuss the details on a short call.
+
+Regards
+
+
+
+Hello
+
+I'm experienced React developer. I want to know the details of the project.
+
+Examples of my past works:
+https://getpin.com - SaaS platform
+https://www.pagerewriter.com/ - web application for generating unique text
+
+Thank you for your attention to my candidacy.
+Best
+Vladymyr

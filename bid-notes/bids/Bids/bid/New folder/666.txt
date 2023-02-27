@@ -1,0 +1,40 @@
+Hello.
+I am confident that I can understand the whole process of your project and deliver it successfully on time.
+For the first, I rewrite your requirements as my understanding.
+If there are two individuals ready, one (A) who want to sell his NFT and the other (B) who want to buy NFT, an escrow contract will be initialized.
+Then B would transfer reasonable funds to the contract and A would transfer ownership of his NFT.
+If B not receive any NFT in a week, will be refunded from contract.
+
+Listing my experiences with Ethereum, Ethereum Classic, BSC, Polygon, Tron and Solana.
+
+https://metatron.biz/ investment site on TRON
+I have developed all of the smart contract, frontend and backend alone.
+
+https://etczunks.com/ NFT minting site on Ethereum Classic
+I also developed all of the contract and frontend alone.
+
+https://exchange.mglcoin.io/
+http://defi.mglcoin.io/
+
+MGL sites on BSC and Polygon
+I played an important part in developing it with our team.
+
+Like this, you can review my experience and skill in blockchain field.
+I have never failed blockchain projects so far.
+Hope to work with you.
+
+Hello
+I am a Full-stack and Smart Contract developer, who has 7 years of strong experience on Blockchain|NodeJS|ReactJS|VueJS|AngularJS|. Always be hungry for learning new technology & improving myself. especially on blockchain scope. Have been developing lots of programming languages, frameworks, libraries, platforms. Over the last 2 years, mainly focusing on blockchain technology, Solidity | Web3 | Ether | Polka | Solana | Solana-Web3. Even also good at both of JavaScript and typescript, have experience on
+|Android|PHP|MySQL|Laravel|YII2|Phaser|Drupal|Django|Olympus DAO|WordPress|UnityGame|, so hopefully it would be helpful for you.
+
+Please check some of my past projects :
+http://blockstarter.co/ for such companies:
+https://tokensale.snov.io/
+https://exmo.com/
+https://covesting.io/
+https://jobeum.com/
+https://flyp.me/
+
+From these above experiences, it would be great if we can build relationship and can make things together.
+Best
+

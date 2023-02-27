@@ -1,0 +1,73 @@
+Hi,
+
+As i understood you want to hire react web app developer right? Can you share me more details of work so i can understand more, Can you share design of Application? Please revert in Chat Box.
+
+I have more than 1.5+ year of experience in React JS web technology. Also good knowledge of integration of API, Firebase, and many more DB. I have good knowledge of React JS and JavaScript. Please share more details for better understanding.
+
+Happy to hear you soon, Waiting for your revert :)
+
+Thanks you,
+Regards,
+React Developer, Nayan.
+
+Resume1.pdf (83 KB)
+
+
+
+Hello,
+
+I am a full-stack web developer with 6 years of experience as a professional Frontend & Backend developer. I don't just code to make it work, I code to make my code simple, easily readable, testable and scalable. I would be happy to assist in developing a complete PHP web application and deliver it as per expectations.
+
+I can assist with the skills like:
+Front end :
+- Responsive layouts
+- BootStrap, Foundation
+- Less CSS, Angular4.x, 9.x, jQuery, React, Vue, Zurb
+- React/Flux/Isomorphic architecture
+- HTML5/CSS3/SASS/SCSS
+- Stylus/Vanilla/bulma CSS
+
+Back End :
+- Symfony, Yii, CakePHP, Laravel, Smarty, CI, Python
+- NodeJS, Gulp, Apollo Stack, PhantomJS, ExpressJS, Meteor
+- consuming/building RESTful APIs, SOAP, OAUTH, JSON etc
+- CMS based development.
+- Docker, VM, Redux, CircleCI
+- Gulp or Webpack and other production environments
+- Version controlling using GIT, Heroku, Bitbucket, etc.
+
+Databases :
+- Mysql, PostGresql, MongoDB, MariaDB, MSAccess, SQlite
+
+Please have a look at my previous work:
+
+1) https://www.sell4bids.com/
+
+2) www.thesalespontoon.co.uk - The Sales Pontoon is a Classified website for Buying and Selling Narrowboats. Bespoke Build Laravel, My SQL Database Bootstrap Responsive.
+
+3) Online-platform for Distance Learning and Courses
+https://miras.edu.kz/start/index_en.html
+
+4) Landing For Calculating when changing wire internet to wireless
+https://wirelessmatch.com/
+
+and many more..
+
+Kindly get connected as I am available for interview to proceed ahead.
+
+I look forward to hearing from you.
+
+Warm regards,
+Varun
+
+
+
+Hello, my name is Erona and I am a fullctack web developer. I am new to upwork and currently available to start working on a new project.
+
+I have been working in the web development area for over six years now. I started as a frontend develper and website designer. As a website designer I have used Adobe XD, Photoshop and Figma in the past and still use them to this day. I have excellent knowledge of the following frontend technologies (knowledge that I have gained through practice, online and college courses): HTML, CSS, Javascript, React JS. I also have knowledge of node.js and vue.js.
+As a backend developer I have been using the PHP programming language and the following PHP frameworks: CodeIgniter, OpenCart and Laravel, to mainly develop ecommerce websites. I also use WordPress (as required by clients) and I can write plugins. I have knowledge of databases and AWS.
+
+This website that you need to be developed, is it already in the development phase or do I need to start from scratch?
+Please contact me so that we can discuss details further, I need to know details in order to know which technologies should be used.
+
+Hope to hear from you soon!

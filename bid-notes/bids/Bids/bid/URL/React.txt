@@ -1,0 +1,27 @@
+💎 https://piedwork.com
+It's a SaaS solution that shows the team workload, financial KPI of the company, calculates revenue and reflects indexes of the monthly company work.
+In the attached files, you can see the screens of how the system works and React code sample.
+
+💎 https://knowi.com
+Its a complex Enterprise BI platform that unifies analytics across unstructured and structured data.
+
+💎 https://www.toornament.com
+The idea of the startup was to build a platform that will bring value for gamers, spectators and event organisers.
+
+Xeniapp - (https://xeniapp.com/) - React
+Leadschool - (https://leadschool.in/)- React
+Hotpoint Media ( https://www.hotpointapp.com/) - Angular 5
+Wet-Ink (https://wet.ink/) - AngularJS1.4
+Edison-Watz (https://www.watz.be/) - AngularJS Angular 6 Angular10
+Republic of Chicken (https://republicofchicken.in/) - AngularJS1.4
+Oelement (https://dash.oelement.net/ ) - React
+Music Traveler (https://www.musictraveler.com/en/) - React
+BuildWithFrame (http://buildwithframe.com/) - React, Redux, Saga, Gatsby, Next.JS, GraphQL
+Digital Platform (https://stage.digitalplattform.se/) - React, Redux, GraphQL
+
+
+
+- https://sheroes.com/ [Community web app using MERN stack]
+- https://makepassportphoto.com/ [ Photo printing websites using React/Node.js]
+- https://www.bluebridge.co.nz/ [Booking application using React]
+- https://www.perksweet.com/ [Perk Sweet is a SaaS-based Employee Engagement & Rewards Platform. The technology used: Laravel 8.0, jetstream, livewire, Blade, alpine.js, Vue.js.]

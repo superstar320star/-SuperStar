@@ -1,0 +1,65 @@
+This is my first experience in Company after graduation.
+Built the back-end, WebSocket server, API, and front-end for a collaborative
+Agile board app with a GitHub integration using Python, Node.js, React, and
+Redux.
+Thanks for David and Richard.
+In this company, I worked as a backend developer using Node.js and Python
+for an e-commerce websites like Wish.
+
+
+I have extensive expertise working on native and hybrid platforms, as well as web services, spanning over 6 years. I'll try my best to produce a high-quality software that fulfils your requirements. I am excited to collaborate with you.
+
+Business Models: Social, Dating, Health, Taxi Booking, On-demand Service Booking, Payment & Wallet, Buy & Sell, E-commerce, Live Streaming, Food Ordering, GPS tracking, Travel, Task Management, Religious, Real Estate, Event Booking etc.
+
+Technologies(Languages & Frameworks):
+- iPhone, iPod, iPad, Android, Ionic, React native Web, XMPP
+- Objective C, Swift, Java, Kotlin, Angular js, Node js
+- Web Service, APIs, Ajax, XML, JSON, RSS, SOAP, WSDL
+- Cocos2d,Unity3d, Box2d, cocoa-touch, objective-c
+- In-App purchase and Push Notification
+- Social Media - Facebook, Twitter, Google+
+- Google Map Service, Geo Location
+- Wordpress, Zend, Codeignitor, Joomla, PHP, Ruby on Rails, Python
+- MySQL, SQLite, HTML5, PHP, JSON
+
+My skill set includes:
+Developing front end architecture.
+Designing user interactions on web pages.
+Developing back-end website applications.
+Creating servers and databases for functionality.
+Ensuring cross-platform optimization for mobile phones.
+Ensuring responsiveness of applications.
+
+My 6+ years experience in this field has taught me the value of professionalism, empathy and customer satisfaction.
+
+Greetings!!
+My name is Abdullah and I am a Senior Full-stack JS developer with extensive experience of 6 years in Front-End and Back-End development particularly in MERN stack.
+
+:white_check_mark: Technologies I am using:
+● Front-end development: JavaScript, React.js, Next.js, Redux, HTML5, CSS3, Bootstrap
+● Back-end development: Node, Express, REST API, GraphQL, MySQL, MongoDB, PostgreSQL.
+● Cloud Platform: AWS, Google Cloud Platform, Firebase
+● API Integrations: Stripe, Google Map, Twilio, Send Grid, Aramex etc.
+● Strong experience with Version controls GIT, GitHub, Bit Bucket.
+
+:white_check_mark: Domains I have worked in:
+● eCommerce Marketplaces
+● Crowdfunding
+● Hotel booking systems
+● Healthcare
+● Social Media apps
+● Cloud-based applications
+● CRMs
+
+:white_check_mark: What I offer to my clients:
+● I work as an independent freelancer
+● Clean, maintainable code and valid, semantic markup
+● Precise attention to details and project requirements.
+● Available to discuss on video calling
+● Good English Communication Skills
+● Very Responsive
+● Always meet deadlines
+● Work on client preferred time zone
+
+:trophy: I have worked for many clients, and more than 95% of my clients were satisfied.
+I am happy to discuss projects, ideas, and things so we can arrange together to assure your success. Feel free to message me with any questions. Thanks

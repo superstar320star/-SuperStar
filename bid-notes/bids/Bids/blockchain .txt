@@ -1,0 +1,64 @@
+H
+Rust
+JavaScript
+React
+Truffle
+Openzeppelin
+Ganache
+Ethers.JS
+Brownie
+
+Apart from designing a high-quality blockchain program (token, coin, Dapp, Defi. etc.), safety and security would be the next critical point in my designs. Because smart contracts (blockchain apps generally) are immutable, that means developers CANNOT fix any bugs/vulnerabilities after releasing the smart contract on a target blockchain.
+
+Accordingly, introducing a reliable and successful smart contract project requires sufficient programming knowledge and extensive knowledge and experience of security audit/fuzzing and understanding various security threats in this emerging ecosystem. In this regard, I always perform the following security vulnerabilities testing during my blockchain developments:
+
+Integer Overflow and Underflow
+Reentrancy
+Timestamp Dependencei,
+I have read your project description carefully. I think I still need more details. I have a Ph.D. degree in Software Engineering, and I have done commercial and free open-source projects in the blockchain ecosystem and its security audits, but just recently, I have signed in to Upwork.
+
+I should state that I have in-depth experience in blockchain programming as well, particularly with Solidity for the smart contract ecosystem. I am also fully aware of blockchain-associated concepts, such as the pros and cons of various blockchain architectures, designing ERC20/721/1155 tokens, Binance Smart Chain, trusted execution environment (TEE), the MEV inspection, and performing security audit and exploitation of various blockchain codes.
+
+
+I often use the Openzeppelin library in terms of smart contract tokens, which results in more secure tokens.
+Moreover, I have been working as a full-stack web developer for several companies such as Berlin Digital Career Institute for few years. I have developed many commercial web applications via React and Node.js for different individuals startups. Thus, I can contribute to your project in both programmings.
+
+In terms of smart contract programming, I have created some blockchain projects based on Solidity and even Rust (you can find the details on my CV, website, and GitHub profile) using full-stack technologies and protocols as follows:
+Solidity
+DoS with (Unexpected) revert
+Block Gas Limit Bug
+Sandwich Attack
+Front-running
+
+you can also check my security service startup at the following link:
+https://securecontract.io
+
+Furthermore, I always leverage the CI/CD tools to enhance my projects' quality.
+Thus, in addition to conventional CI/CD tools (e.g., GitLab and Jenkins), I use Ganache and Docker (https://hub.docker.com/r/trufflesuite/ganache-cli/) for running tests on my smart contracts.
+
+
+In terms of code documentation, smart contract documentation is a critical part of a blockchain development lifecycle. It must be carried out
+in order to create a full-fledged and highly reputable piece of code. Note that in the absence of proper code documentation,
+if you hire a new developer who joins your team in the future, she won't be able to peak into the system and understand how it works efficiently.
+For my smart-contract projects, I often use solidity-docgen, which introduces one of the best forms for smart contract documentation, i.e., the Ethereum Natural Language Specification Format (NatSpec).
+
+For further information, please browse my cv (blockchain projects for more details) and check out the following links:
+
+
+https://securecontract.io (blockchain security consultation and penetration testing)
+https://dl.acm.org/doi/abs/10.1145/3341105.3374226?casa_token=g425J-iVtXEAAAAA:gNadBgqYJ49AzyMefMzh6ZIctoHFd74aEXflIgkZ0kC-Ilz7Zry0U6XW6JVbejhEt8CS99UTeqvm
+https://2019.splashcon.org/details/splash-2019-Posters/2/Etherolic-A-Concolic-Execution-System-for-Security-Analysis-of-Smart-Contracts
+https://sessionize.com/mohammadreza-ashouri
+https://2020.ecoop.org/profile/mohammadrezaashouri
+https://www.acsac.org/2019/files/web/acsac2019_thu_poster_ashouri.pdf
+https://hacktivity.com/index.php/speakers/dr-mohammadreza-ashouri/
+https://blog.deepsec.net/deepsec-2020-talk-taintspot-practical-taint-analysis-and-exploit-generation-for-java-dr-ing-mohammadreza-ashouri/
+https://www.youtube.com/channel/UCp2VCfFn13kXwJd1HFBCa7Q (this is my youtube channel I often talk about security testing in Java)
+https://www.udemy.com/course/how-to-make-a-cross-platform-ransomware-in-java-step-by-step/learn/lecture/25174574#overview (Here is my Udemy new course in the context of ransomware protection)
+https://stackoverflow.com/users/5341528/ashouri
+https://youtu.be/42ZNnB2Z1-A {my minimalistic Tezos NFT marketplace}
+
+I'd like to hear the details of the project and potentially start good cooperation together to achieve the project goals
+Looking forward to your reply.
+
+Kind regards

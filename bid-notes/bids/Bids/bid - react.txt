@@ -1,0 +1,8 @@
+React has been one of my front-end frameworks for the last 5+ years and used to build the various SPAs. I mainly focus on the front-end development using React, but my experience is a great deal with back-end work as well. Actually the back-end framework that works best with React is the Express(in my opinion) and with the server-side rendering feature enabled you can deliver the app with the best performance and great user experience. You can use webpack's dev server and hot reloader to reload apps automatically during the development, which will save time and cost and make the developers' life enjoyable and easy. Regarding the Redux, I think it is already because the de facto standard library for state management in React applications. Talking about CSS and styling, I use SASS/LESS and Bootstrap or Material Design to deliver the consistent look and feel and implement the responsive UI. I usually build the back-end with node. Due to the asynchronous, non-blocking feature of node, it is by nature the application (if not the best) solution to load data from 3rd party APIs, convert and store them into local DB, and generate analytical reports. Most of the web services and APIs available support node and provide wrappers and client libraries for node as well. Because the only requirement by node is the node package and V8 engine, the same script written in node can be used as back-end APIs or as the cron-job scripts that run in background and retrieve data periodically.
+Also, I am familiar with other Javascript frameworks such as Angular and Vue and versed in Git.
+I am Chinese, but I moved to Moscow, Russia from Dalian, China in Feb 2020.
+I think we can discuss more via a chat or call.
+Looking forward to hearing from you.
+
+Regards,
+Wang

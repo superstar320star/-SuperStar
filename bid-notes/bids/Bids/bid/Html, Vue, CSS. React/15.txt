@@ -1,0 +1,46 @@
+Hello. I am Roman. Your job post for an expert website developer caught my eye immediately as it describes a position for which our developers’ qualifications are ideal.
+We are the Londons' peculiar digital development studio, Web-Ai Studio. We can provide you with website developers who are experts at your all requirements (React, CSS, Javascript, HTML, jQuery, and other skills) with their 8+ years of experience.
+We can handle your tasks in time and appropriately with your requirements. We are ready to start your project.
+The quality of our work is our promise.
+Let’s make a call and discuss things in more detail.
+Thank you!
+
+
+
+Hello!
+
+I am a project manager at ZUZEX - a company with more than 13 years of development history. We have a large experience in developing complex web and mobile applications.
+
+The project can be supplied by a technical manager, mobile developer, QC specialist, DevOps developer, or designer if needed.
+
+We have a team of advanced web developers with strong skills in the following technologies:
+- Back-end development: PHP, Node.js, Python, Golang, Java,.NET.
+- Front-end development: React, Vue.js, Angular, HTML5/CSS, Bootstrap, etc.
+- Relational (PostgreSQL, MySQL, MSSQL) and non-relational (MongoDB, ScyllaDB, Redis, Cassandra, ClickHouse, etc.) databases.
+- API development, any 3-rd party service integration.
+- Cloud services: AWS, Google Cloud, Digital Ocean.
+- Git for code version tracking, Jira for task management.
+
+Our style is making pixel-perfect responsive layouts.
+All results of our developers pass multi-stage testing sessions, executed by our internal Quality Assurance team.
+
+https://www.zuzex.com/portfolio/services/web
+
+Here are a couple of examples of our work with Vue, React, and JS:
+
+https://www.zuzex.com/portfolio/services/web/vue
+https://www.zuzex.com/portfolio/services/web/react
+https://www.zuzex.com/portfolio/services/web/javascript
+
+https://www.knowledgetreetraining.com/ (Vue.js, PHP Laravel)
+https://dominternet.ru/ (Vue)
+https://therundown.io/ (React.js/Redux, Golang, Django)
+https://mypwd.io/ (React.js/Redux, API)
+https://app.planmoretrips.com/ (React.js/Redux, Firebase, Node.js service for authentification)
+
+The average rate is $30/hour (it includes the Upwork fee).
+
+If you are interested please contact me to discuss details.
+
+Regards,
+Dana.

@@ -1,0 +1,92 @@
+We are an ISO 9001:2008 certified & RAR+ recommended Software development firm based in Kolkata, India with service offices in USA, UK & Australia. Recent company achievements.
+
+1) Winner of FCCI BAF Awards-2018 (Special Jury Award; Virtual & Augmented Reality Game Indian).
+
+1) Company of the Month - December, Silicon India
+
+2) “Fastest Growing Indian Company Excellence Award” at the 8th International Achievers Summit, Bangkok
+
+3) CIO Review of top company lists
+
+4) India Top 5000
+
+We are an award winning web design and IT Solutions Company that builds custom websites, mobile applications and games for clients across India and across the world. We help build different kind of WEB, MOBILE APP Solutions. The technology stack we work with:
+Back end development
+- LAMP
+- PHP
+- Laravel
+- Codeigniter
+- Wordpress
+- WooCommerce
+- Magento
+- OpenCart
+- Prestashop
+- Dotnet
+- Python
+- Django
+- Flask
+- MEAN stack
+- Node.JS
+- MongoDB
+- MySQL
+- MS SQL Server 2000 / SQL 2005 / SQL 2008
+
+Front end development Technologies:
+- HTML5
+- CSS/CSS3
+- Ajax
+- Javascript
+- Angular.Js
+
+Graphic Designs 2D/3D:
+- GUI Designing
+- Photoshop
+- Illustrator
+- Max/Maya
+
+MOBILE APP:
+✅ IOS, Android Native App(Java, Object-C, Swift3): Xcode, Android Studio, Eclipse, Cocoa, Cocoa Touch Frameworks.
+✅ Website & Mobile Backend: Magento, Laravel, ASP.Net, PHP/MySQL, AngularJS, Node.js
+✅ Hybrid App Dev with Ionic / PhoneGap / Cordova
+✅ Web service: XML/JSON, REST/SOAP, PHP, HTML5, ASP, JSP
+✅ Cloud backend: Parse, Amazon, FireBase, Quickblox, Twilio, MongoDB
+✅ Map Kit, GPS based real-time user navigation and Tracking
+✅ Photo Sharing, Editor, Filter, Flexible UI App Design
+✅ Chat & Messaging Engine: XMPP, OpenFire, OpenTok WebRTC, Ejabberd
+✅ Media Streaming: Wowza, SoundCloud, Red5, Icecast
+✅ VOIP, Cloud Communication: Twilio, Heroku, Tokbox
+✅ Social Media Integration: Facebook, Twitter, Linkedin, Instagram, Youtube, Vimeo
+✅ Google Map, Foursquare, Geolocation, GPS, Open Street Maps
+✅ Online Payment Gateway: PayPal, Stripe, Venmo, Braintree integration
+✅ Push notification: APNS(iOS), GCM(Android)
+✅ Social API integration: Facebook, Twitter, Instagram, Google+
+
+Game Development:
+✅ Unity 2D
+✅ Unity 3D
+✅ Cocos 2D/ 2.5D
+✅ Microsoft DirectX, SGI OpenGL. and other Game engines and libraries
+
+My expertise area and experience include good understanding wide number of business domains like:
+
+
+Ecommerce website & mobile app
+Service/Product Marketplace website & mobile app
+Social Network website & mobile app
+Realestate website & mobile app
+Çrowdfunding website & mobile app
+Food ordering website & mobile app
+Hotel/Flight/Holiday Booking website & mobile app
+Classified/Directory website & mobile app
+E-learning website & mobile app
+Finance based web portal & mobile app
+Auction website & mobile app
+Online Booking/Reservation website & mobile app
+Dating website & mobile app
+Taxi booking app/Uber app
+Airbnb Clone
+Photo sharing app
+Magento/Wordpress theme development
+Magento/Wordpress modules development and customizations
+
+Apart from these, DAPL offers content writing services, works on SEO, SMO, PPC and allied areas that are seeing formidable growth the world over. The firm differentiates from the rest by dint of human touch where the client executives are always available to sort queries. Quality of work and constant evolution keeps the firm ahead of the rest and the in-house account specialists are always offering a value proposition.

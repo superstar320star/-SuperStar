@@ -1,0 +1,19 @@
+
+I have 10+ years of experience with proficiency in NFT Marketplace |Smart Contract Development & Audits | Blockhain Development | ICO | Cryptocurrency | Public & Private Blockchain | dApps.
+
+I evaluate, develop and maintain blockchain and Cryptocurrency related products.
+
+My Expertise :
+• NFT (Non Fungible Token) Marketplace Development
+• Crypto Coins Exchange Development
+• ICO & IDO Development with Created Token ( Coin )
+• Smart-Contracts (Solidity, Truffle framework)
+• Smart Contracts Audits
+• Token development based on Ethereum and Binance (ERC20, ERC721, ERC 1155, BEP20, BEP721, BEP1155)
+• DLT Apps & Private Blockchain Development
+• Cryptocurrency Wallet Development for Linux, windows, Mac, Web.
+
+I also provide a marketplace where NFT's will be pre-designed and integrated to blockchain i.e 999 unique NFTs , which will be available for customers to mint.
+Sign-in using crypto wallet like metamask will be integrated.
+The marketplace will have a details about the events , airdrops , community forum. Below you can see the work we had done as NFT Marketplace.
+https://richbullsclub.io/

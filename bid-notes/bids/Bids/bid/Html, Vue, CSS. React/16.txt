@@ -1,0 +1,59 @@
+Hello
+
+I’ve looked through the job description and I am interested to help you with your website but before that could you clarify some points about the website implementation which I need to work with:
+
+1. To provide you with reasonable solutions during the process it is necessary to have a clear understanding of business logic and analytics, could you describe it to me in detail?
+2. When do you want me to start and what about the deadlines to be aware of?
+
+Just a few words about me and my experience on projects I worked with:
+I’ve been working as a full-stack developer for more than five years and took part in the development of various projects from scratch, implementing features and functionality of high-loaded complex systems, improving code architecture and infrastructure, creating scalable and flowing UI and UX, experienced in MERN/MEAN stacks, JS, Vue.js, jQuery, HTML/CSS and more as well.
+
+https://zooky.ca - The Canadian project Zooky is a real estate network and portal for realtors. The aim of the project is to unite the disparate databases in one place and provide users with convenient tools to expand their capabilities and effective marketing. Used React, Next.js and more.
+
+Another one is https://www.elephantstock.com/ - Main web app with many modules and features, used by the art team, customer support, custom designer, operations, finance, marketing and more. Used MEAN stacks there.
+
+I’d be glad to discuss the details, the scope of your project and so on during a short intro call this week, and start the cooperation. What day and time better works for you? Waiting for your soonest reply.
+
+Best regards,
+Artem
+
+
+
+
+Hello,
+We are glad to help you with creating a website. Being involved in JavaScript, VueJS, ReactJS technologies for years, we have built a lot of websites from scratch in the past. So, our team could provide you with good software solutions. We used to work with Canadian partners, so time zone differences wouldn't be an issue.
+
+You can check our works here:
+https://springsapps.com/development/react
+https://springsapps.com/development/vue
+
+Let me know when would be a good time for you to talk?
+
+Looking forward to hearing from you,
+
+Best regards, Alex
+
+
+
+Hi there.
+You mentioned Vue, js. React. js etc in the name of the job post. As far as I understand you haven't chosen the tech stack, correct?
+But anyway, we are fine with any of them.
+
+Some examples of our work:
+=>Mr b&b, the biggest Airbnb-like platform for the LGBT community, we built it and continue working already 7+ years. This app is the world's largest LGBT home-sharing marketplace. It has a booking feature.
+web => https://www.misterbandb.com/ (tech stack: ROR,ios and android native apps, AWS, React.js, HTML5)
+=>Hotel4box Self-Serve - a cloud based software for physical and virtual mailbox operators, drop-ship operators, international package/shipment forwarders.
+web =>https://new.hotel4box.com/ - hotel4box The best way to get your international parcel. (tech stack: Vue.js, PHP/Laravel, MySQL)
+
+Is the design ready or to be created? Just in case I have real pros UI/UX designers in my team who can create a stunning design for the app.
+What main features do you require for the website? Please describe them in detail
+What are your main competitors? Share with me 2-3 of them and describe the difference between yours and their websites.
+Please provide all the supporting materials on the project along with the detailed specs, target audience, competitors, advantages, etc. Surely ready to sign NDA.
+
+More examples of our work you can find here =>https://works.onix-systems.com/
+and also check our design portfolio=> https://design.onix-systems.com/.
+Our corporate website => https://onix-systems.com/
+
+Text me if you're interested.
+Best regards,
+- Marina

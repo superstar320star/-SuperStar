@@ -1,0 +1,66 @@
+Hi,
+I am Rajnish and currently working as full stack developer. I am a experienced NodeJS and Blockchain developer and did many projects using these technologies. I would like to assist you in this project. Please accept this letter and the attached resume as my interest in this position. I have knowledge of database concepts and able to write simple to complex queries. I have deep knowledge of React and NodeJS practices and commonly used modules based on extensive work experience.
+I reviewed the requirements of the job opening and I believe my candidacy is an excellent fit for this position. Some of the key requirements that I have extensive experience with my technical skills (HTML5, Javascript, Node.JS, Blockchain developer) has been perfectly matched with your skills requirements. In addition I have Software development experience with Node.js, RESTful API, MySQL, and/or NoSQL..Blockchain Development: Expert and experienced
+
+Some of my skiils are :
+API
+Blockchain
+Blockchain Architecture
+Blockchain Development
+Smart Contract
+JavaScript
+
+In my previous project , I was responsible for technical leadership in the analysis and review of proposed system features and integration, security, scalability and performance requirements with users, business analysts, architects, and team members.
+
+Thank you in advance for taking the time to read my cover letter and to review my resume.
+Sincerely,
+Rajnish
+
+Hi, After carefully looking at your website https://redbutton.wtf where you need to implement the NFT
+mint function, I noticed that your project is very similar to the NFT mint project I have already
+developed.
+First of all, please take a look at this video showing my project of randomly minting NFTs from a
+collection of 10000 arts and the screenshot where can see the NFTs minted from the wallet. Added the
+attachments below.
+In this project, I realized the following functions.
+- Write a contract for NFT minting using Rust in the Solana blockchain
+- use React and Typescript to build a frontend for the NFT mint function and wallet connection
+- used web3 to interact with the contract
+I am a Blockchain expert in developing NFT minting and NFT marketplace with full stack technology.
+As a senior blockchain developer, in addition to projects like the above, I have already participated in
+many innovative NFT projects that are technically flawless (ERC721/1155 Contract, Mint WebSite, NFT
+Market Place). So, there is no problem with seamlessly meeting your requirements.
+- My recent works
+https://cryptoetsnft.io/
+https://desertedzebras.com/
+https://www.thekittybutts.com/
+https://faraland.io/
+https://themekaverse.com/
+- My services
+* upload arts to IPFS and get metadata, tokenURI
+* create ERC721 smart contract or Rust program for NFT mint
+* create a frontend for mint NFT and show minted NFT - with React, Typescript
+* wallet connection(Metamask, binance wallet, Phantom, wallet connect, and trust wallet) and web3
+integration with web3.js and ether.js
+-buy and sell minted NFT on this frontend directly or secondary marketplace like opensea.io
+So I can even deploy your project on testnet in which you don't have to pay for gas fees and then if you
+are satisfied, you can safely deploy it on Mainnet.
+I will do my best for you to provide High Quality and High Speed.
+Best Regards
+
+
+Hello
+I am full stack Blockchain developer with great expertise of Solidity, Rust and Web Development.
+I am experienced NFT developer, and developed NFTs like LazyLions bungalow and LoopyLandLeprechauns.
+As a full stack developer I have developed all project from scratch, including:
+- smart contract development
+- minting site
+- image generation by combining traits
+- ipfs and metadata upload
+- marketing strategy research, like reveal timestamp or staking
+
+So I can manage all aspects of your project, including smart contract, web app and deliver best results.
+I am really experienced, though I am newbie here on Upwork, and don't have any work history.
+Please let me know your interests.
+Best Regards.
+Arthur.

@@ -1,0 +1,151 @@
+
+I am Magento 1&2 Expert developer.
+
+I have Knowledge in Web layout designing, XHTML/CSS Conversion, template development and CMS template design. I provide efficient and creative work in web designing and am well versed with latest designing trends, expert with Photoshop, Illustrator with excellent html, css, Javascript and Jquery skills. As I have good eye in designing, I will provide you and sleek and high quality design with modern look and feel.
+
+My Magento Work Samples
+
+http://studioannecarltongames.com/
+http://st.kentdigital.agency/
+http://www.fieldsupply.com/
+https://www.smartturnout.com/
+https://www.calranch.com/
+https://www.gigaparts.com/
+
+My skills in Magento:
+
+-- Install and configure premium magento templates as per specifications
+-- Installation and configuration of Magento Community,Magento Enterprise and Magento Go.-- Create/modify custom templates according to need
+-- Migrate Magento 1 to Magento 2
+-- Can install extensions.
+-- Can add products and categories Sub categories,Filters,Sorting, and Quick search, user logins, etc.
+-- Also can customize the Magento commerce functionality.
+-- Complete Magento development like custom Magento development,e-commerce stores,Blogs,Communities, etc.
+-- Integrate different Payment Gateways like PayPal, Google Checkout, Autorize.net etc.
+-- different Shipping Modules (UPS,FedEx,USPS,DHL,etc.),MailChimp,GoogleMap,Google Analytics,and Social Media API, etc.
+-- Custom modules/extensions development/modification and installation 
+
+
+
+----------------------------
+Hi,
+
+I am a Senior Magento developer and  excited for this job opportunity. I have worked extensively in PHP, MySQL, jQuery/JS, HTML/CSS, PHP platforms/frameworks and third-party API integration on both Linux and Windows platforms.
+
+I know all ins/outs of Magento 2 and will surely help you to guide through managing the Magento store and also on how to set up a development environment there. I will be available to provide you ongoing help during development.
+Kindly share the URL address of your store and list of all tasks to accomplish.
+
+I have expertise to design, develop & maintain large scale Magento websites. I have 5 years of expertise in :
+- Custom Responsive Magento Theme Development with Core Upgrade Safe.
+- Custom extension development for Front End / backend / Payment Gateway / Shipping gateway etc
+- Utilizing APIs for Inventory Management Applications
+- Performance optimization with a goal to load website under 2 secs.
+- Integrated with third party platforms for Search, Fraud Detection etc.
+- Successfully upgrading magento websites to latest version 1.9 & 2
+
+Here is list of few of my top works :
+- Successfully migrated www.primescuba.com website with all products and customers from Yahoo! Store to Magento
+
+- Integrated www.supemo.com with ApacheSolr search engine for better & fast search results
+
+- worked on popular Plugins like custom Amazon Payments, Cart2Quote, Cart2Cart, Aria Connector, Smartturn connector etc
+
+- integrated Magento with custom developed product/stock management platform. Primescuba.com is integrated with custom developed product management system on MySellerCentral.com. MySellerCentral.com is central inventory to multiple websites / platforms.
+
+- custom developed Magento plugin for independent attribute selection for pricing. Magento default has attribute dependency. Check http://sandbox.diamondgardens.com/diamond-eternity-bands-c-10/round-diamond-eternity-bands-c-10-29/4-80-ct-round-cut-diamond-eternity-wedding-band-0-30-ct-each-test-product.html
+
+- imported large databases (around 70k products) from United & SPR into Magento and integrated their price / stock platform (EDI based) which updates Magento on daily basis. You can check this on Supemo.com.
+
+Following are few Magento extensions developed by me :
+http://www.primescuba.com/
+Extension Description:
+Payment gateway Amazon checkout - customized creation
+Instructor backend Plugin
+Rest API for Magneto Converting simple products to Configurable products
+
+http://www.rentthelooks.com/
+Extension Description:
+Extension creation for rent product functionality for jewelry products.
+
+
+---------------
+I am a Web development expert with over 6+ years experience in complex customization of Magento, Codeigniter and Core Php. I am also compatible with other platforms. My aim has always been to produce websites that look beautiful and professional, are highly functional, load quickly, and are Search Engine optimized. If this is what you want, then get in touch with me.
+
+Expertise Area :
+
+# Marketplace Customization
+# Shipping Customization
+# Checkout Customization
+# CRM integration
+# Customize Report
+# Speed Optimization
+# API Integration
+# Data Sync
+# Multi Store with Multi Domain
+
+Why Choose Me?
+
+# 6+ Years of Experience
+# Good Knowledge of OOPs and Other PHP Framework
+# Work with Linux (shell)
+# Full Time Available
+# Good Communication
+# Delivery on Time
+# For any Emergency, available in weekend also
+# Get More, Pay Less :) 
+
+--------------
+Hi,
+
+I am a professional Magento expert with Magento certification with 4.5+ years of experience. My Magento expert will dedicatedly work for you and will guide you through managing the Magento store and also on how to set up a development environment there.
+
+I  work on all the versions of Magento. I do all kind of Magento works such as Version migration, Extension development, Theme installation and customization, Plugins installations, Products & categories import, Cart management, Website building start from scratch or customize the existing site, Bug fixing, E-commerce development, Third party integration, website SEO and much more.
+
+I am  working on different platforms like Magento, Laravel, Codeigniter, Wordpress, PHP, Odoo, Graphics design, SEO, Digital marketing, Linux server management, Amazon and Google Cloud services.
+
+Looking for discuss with you
+
+Regards,
+Dennis
+
+
+Hello.
+I am Senior Magento developer as well as Blockchain full-stack developer.
+I have more than 5 years of experiences with Magento and I am excited for this job opportunity.
+I have worked extensively in PHP, MySQL, jQuery/JS, HTML/CSS, PHP platforms/frameworks and third-party API integration on both Linux and Windows platforms.
+
+I know all ins/outs of Magento 2 and will surely help you to guide through managing the Magento store and also on how to set up a development environment there. I will be available to provide you ongoing help during development.
+Kindly share the project of your store and list of all tasks to accomplish.
+
+I have expertise to design, develop & maintain large scale Magento websites. I have 5 years of expertise in :
+- Custom Responsive Magento Theme Development with Core Upgrade Safe.
+- Custom extension development for Front End / backend / Payment Gateway / Shipping gateway etc
+- Utilizing APIs for Inventory Management Applications
+- Performance optimization with a goal to load website under 2 secs.
+- Integrated with third party platforms for Search, Fraud Detection etc.
+- Successfully upgrading magento websites to latest version 1.9 & 2
+
+Here is list of few of my top works :
+- Successfully migrated primescuba website with all products and customers! Store to Magento
+- Integrated supemo with ApacheSolr search engine for better & fast search results
+
+- worked on popular Plugins like custom Amazon Payments, Cart2Quote, Cart2Cart, Aria Connector, Smartturn connector etc
+
+- integrated Magento with custom developed product/stock management platform. Primescuba.com is integrated with custom developed product management system on MySellerCentral. MySellerCentral is central inventory to multiple websites / platforms.
+
+- imported large databases (around 70k products) from United & SPR into Magento and integrated their price / stock platform (EDI based) which updates Magento on daily basis. You can check this on Supemo.com.
+
+Following are few Magento extensions developed by me :
+Extension Description:
+Payment gateway Amazon checkout - customized creation
+Instructor backend Plugin
+Rest API for Magneto Converting simple products to Configurable products
+
+Extension Description:
+Extension creation for rent product functionality for jewelry products.
+
+I always see the world through clients' eyes and give the first priority to the success on their businesses.
+And I work closely with project stack holders and end customers to provide an effective, visually appealing, and intuitive implementation.
+I am thankful to your eyeballs for viewing my profile and excited to collaborate with you for commencing our healthy business relations.
+
+Best regards.

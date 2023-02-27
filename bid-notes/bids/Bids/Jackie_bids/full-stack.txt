@@ -1,0 +1,21 @@
+------angular, laravel
+I am a full-stack developer with excellent expertise in both front-end (AngularJS/ReactJS) and back-end (Laravel/Node.js) programming.
+
+Let me list the whole my area of expertise:
+- AngularJS 2+ ;
+- native JavaScript; JS-frameworks and libraries: ReactJS, ext.js, Express.js, JQuery;
+- PHP 5~7 custom development; LARAVEL 4~5 and YII 1~2 frameworks;
+- Node.js;
+- Bootstrap 2/3; HTML5/CSS3 on default;
+- technology web-socket (Socket.io), WebGL, Cordova (Ionic).
+- DB: MySQL, MongoDB, PostgreSQL
+- version control systems: Git, SVN;
+- tracking tools: JIRA; Trello; Asana; RedMine;
+
+About me as a developer, I could say that my code is clean, I'm a highly reliable, flexible and professional programmer.
+I am highly experienced in data modeling, building APIs, and front-end development. I have proven track record of delivering successful CRM and ERP systems. My experience of work as a developer provides high-fidelity and stylish design and workflow management;
+
+Looking forward to hearing from you!
+Kind regards!
+
+--------------

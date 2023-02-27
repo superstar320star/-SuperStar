@@ -1,0 +1,48 @@
+Hello,
+I’m Val from Profiterole.
+We are a globally distributed group of blockchain enthusiasts that are all about bespoke Blockchain, NFT and crypto-based solutions. We have been providing businesses with our expertise in Solidity, ERC 20, ERC 721, ERC 1155, Python, React and Web3. Our principles helped us deliver high-quality products. You are welcome to look at our projects of ours.
+
+Profiterole built Throne (https://thr.one), a brand new NFT ecosystem for the next generation of creators and collectors. It uses ERC-721 to sell, purchase, list for auction, make offers, and bid on digital art represented on an NFT-based token. Over the course of the development, we solved a lot of issues such as over-reliance on the 3rd party services, low fault tolerance and effectiveness of the systems, slow downloading of pictures and videos, high gas prices. I would be more than happy to share with you our approaches
+
+We also created USDT DAO (https://www.usdtdao.org/), which is an internet-native, global collective that shares resources, builds products, and works together towards common goals. USDT DAO uses UDAO as its governance token. UDAO is a powerful new initiative to organize the largest stablecoin community and align incentives to reach an impactful outcome. We used ERC-20h to build USDT DAO and make claiming UDAO tokens possible for crypto enthusiasts.
+
+Furthermore, we are a game economy and NFT partner of MASD GAMES (https://masd.games/index.html). It is the first multiplayer 3D shooter for a global audience built with blockchain. Profiterole is currently developing the game's NFT marketplace, which will help gamers easily buy, sell and exchange all in-game assets.
+
+Thank you for your time. Should you have any questions, please, don’t hesitate to contact me directly.
+It would be great to get in touch and discuss your project in detail. What is your availability for the next few days?
+Kindly,
+Val
+
+
+
+Hello,
+
+I've been working as a smart contract developer for over 5 years. I write in Solidity and Solana/Rust, use standard OpenZeppelin templates and Metaplex framework, Candy Machine.
+For testing, I use Truffle/Waffle/Hardhat. Unit-test coverage of my contracts is always 100%.
+
+In general, I develop crypto wallets, DEXes, AMMs, NFT products, and other DeFi projects.
+
+I also have worked on live projects with Aave, Compound, Yearn, Curve, 1Inch, Uniswap, Sushiswap, Pancakeswap protocols.
+
+My previous projects:
+1. Decentralized platform based on Solana - https://www.degenape.academy
+2. The ecosystem of dApps - https://kuailiandp.com
+3. European crowdsale project - https://eurxb.finance
+
+My GitHub: http://github.com/integralteam
+
+Could you please tell me more about your project? Looking forward to discussing it!
+
+Best regards,
+Maxim
+
+Hi there!
+
+My name is Vitaliy, and I am a CTO and Founder of Upplabs - a software development company. I saw in your requirements that you are looking for experienced solana Developer.
+
+We will be glad to allocate one of our devs and help with project development. We have a strong engineering team, with 8+ years of experience in JavaScript, solana , Blockchain Architecture, Blockchain Development, Smart Contract and API.
+
+Adding our portfolio for your reference - https://upplabs.com/portfolio/
+And here is our Clutch profile - https://clutch.co/profile/upplabs
+
+I would be glad to discuss in more details your project and help you out. Do you have free time to chat this week?

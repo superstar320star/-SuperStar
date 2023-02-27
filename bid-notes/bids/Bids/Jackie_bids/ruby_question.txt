@@ -1,0 +1,60 @@
+---------------------
+What are your preferred technical books (rails, testing, oop etc).
+- Clean code by robert c. martin
+- Clean Code.
+- I do not reed books, I'm learning through programming, looking in the code of other programmers, finding solutions in the internet ...
+- Here are my favorite books: Building Microservices by Sam Newman and Practical Object-Oriented Design in Ruby by Sandi Metz. What about yours?
+- Din't read any books about programming, self-educated in real world projects
+- My all time favorite book is "Clean Code", recently I am reading Site Reliability Engineering
+- The Well-Grounded Rubyist, The Ruby Way, The Rails Way, Clean Code, Practical Object-Oriented Design in Ruby, Scrum: the art of doing twice the work in half the time
+- RailsTutorial.org
+- My preferred technical books are OOP, TDD(Test-Driven Development), Agile Software Development, Ruby on Rails 5.0 and React / Redux.
+- The best technical books for ROR that I prefer are: Practical Object-Oriented Design in Ruby: An Agile Primer & Metaprogramming Ruby 2: Program Like the Ruby Pros
+- There are so many books or other professional resources influenced me the most as a developer such as stackoverflow.com, books like Learning Rails 5, Ruby on Rails Tutorial Book, Agile Web Development with Rails 5, Novice to Ninja etc.
+--------------------------------
+Please descibe pros and cons of RoR, mentioning examples in your previous work experience.
+- Pros of Ruby on Rails : Rapid development within budget Strong ecosystem and high compatibility Symbol of startup culture Efficient in terms of time Allows a high level of interaction Rapid development Robust framework Standards Quick & affordable development Easy to modify and deploy Faster Development Higher Productivity Cons of Ruby on Rails : Forgiving syntax Multiple programming paradigms Shared mutable state Runtime Speed Scalability issues, Scaffolding is too basic to be very useful other than for learning and basic testing Boot Speed – Working in Rails is the boot speed of the Rails framework. Depending on the number of gem dependencies and files, it can take a significant amount of time to start. It consumes more system resources and if you are developing a new product, finding a free hosting could be a problem (openshift and heroku can do as of now)
+- Pros: it abstracts and simplifies common repetitive tasks. Cons: When compared to other languages, ruby is new to the system and has its own coding languages.
+- Pros Speed of Development Cons Runtime Speed and Performance Keeping Previous work this things I said
+- Please ready my comments below : ADVANTAGES : - Tooling - Rails provides fantastic tooling that helps you to deliver more features in less time. It provides a standard structure for web apps, where all the common patterns are taken care of for you. - Code Quality - Generally, we find the quality of third-party Ruby code to be significantly higher than their PHP or NodeJS equivalents. - Test Automation - The Ruby community is big on testing and test automation. We believe this is incredibly valuable in helping to deliver good quality software and is one of the reasons the Ruby libraries are so great. DISADVANTAGES : Runtime Speed - The most cited argument against Ruby on Rails is that it's "slow". We would agree, certainly when compared to the runtime speed of NodeJS or GoLang. Though in reality, the performance of a Ruby application is incredibly unlikely to be a bottleneck for a business. Boot Speed - The main frustration we hear from developers working in Rails is the boot speed of the Rails framework. Depending on the number of gem dependencies and files, it can take a significant amount of time to start, which can hinder developer performance. Documentation - It can be hard to find good documentation. Particularly for the less popular gems and for libraries which make heavy use of mixins (which is most of the Rails).
+- https://scarpawine.com I was a full-stack developer behind this project. At that time, I tried to server-side rendering with rails-react gem and webpack 3.0. That was good to implement the some parts of the project, but that was difficult to scale on all of the front-end. Finally, we separated the back-end and front-end. After this project, I focused on solving this problem with rails-react gem and bower. The pros of RoR is to clear the structure and easy to scale the project. In RoR, the MVC framework is implementing perfectly. And code base is smart, clean and readable.
+- [Advantage] - Speed of Development Rails ships with a default ORM system (ActiveRecord), which helps developers quickly put application and data logic together and deploy a fully functional prototype to be expanded with new features later. - Vibrant RoR Community it means to support by rich community [Disadvantage] - Runtime Speed and Performance - Lack of Flexibility I can details more here but would like to discuss further regarding RoR via chat or call.
+- The advantages: Development speed Culture and standards Security great RoR community a large number of ready-made libraries and solutions The disadvantage is the complexity of deploying on the server
+- Pro of RoR: 1- Rapid Development 2- Easy and maintainable code Cons: 1- Performance Issue as application grow, I experience some critical issue when application grow to million records and in some cases I have to move active record query to native sql
+- http://static.edugator.ru here is VueJs form builder for one company to aggregate leads from multiple websites into one with API and custom small CRM
+- Toolings, libraries, code quality as pros. Runtime speed, Boot speed and documentation as cons.
+- Many gems are there waiting just to pick them and to use , Very fast development , many things out of the box (Convection over Configuration), elegant language , fun programming - They told that RoR can be slow (or slower then others) when traffic go very high , I haven't experienced that yet. Bloated for some very simple web services
+- I prefer working with RoR. Its cons - yes, it needs some time to build a project, it`s not so simple, as Wordpress. But if you are a pro in RoR, it guarantee you a fast development of complex projects, great community and perfect syntax.
+
+----------------------------------------
+How do you refactor code? Show me how you think thru the process.
+- From View to Model .
+- We go through the complete codebase and see if Rails best practices and standard conventions are been followed properly and if needed we make improvements wherever needed. We also go through the current Gemfile and make sure all the latest and correct gems are being used and if any of them needs to be updated/changed. Finally for performance we through all the logs and also the DB queries to identify any performance related bottlenecks and fix them.
+- First of all, I I seek weak places and eliminate them, then I rewrite the logic of small partitions if this is required.
+- Defining the goals of refactoring analysis the speed of work of certain parts of the site, methods, work with the database. Study of code compliance with writing standards. Setting up specific tasks based on analysis   Before the refactoring process, you need to write a reliable test system for part of the refactoring code refactoring is performed over a small part of the code for quick error detection
+
+------------------------------------
+What part of this project most appeals to you?
+- I feel that with my passion and skill set I can help your company achieve its goal through this job. I am very eager to work on projects like this and think I would be very helpful to you. I have many years of experience and I find this type of work to be enjoyable, so not applying to this job would be a disservice to myself and potentially to your company. I hope we can connect and see if we can work on this project together.
+- we can not determine what for our site is a priority without having to analyze the code and not having dealt with it.
+- Most appealing part of project idea itself. Infact I am searching similar application from last two weeks to use to motivate my peers. It would be great if I work on it
+- Here the two parts of this project appeal me very much, one is that all the requirements are in favor of me and the second one is I like do do these kind of job. These kind of project and job give me mental satisfaction.
+-all, CI/server optimization, backend and frontend
+- I see, that recognizeapp.com is an interesting app with a lot of functions, so I am eager to make it better. As I understand, it`s a CRM for HR. I am experienced in CRM building. I`ve developed a SaaS for truck dealers for http://dealerpoint.ru on Ruby on Rails. Now the CRM is used as a SaaS service and more than 85 car dealerships use it now, including Ford, KIA, BMW, Hyundai and Mercedes-Benz. The main requirement was to organize maintenance of: - the customer base - management of managers - sales control - calendar - system of communications between the departments - reporting
+
+--------------------------------
+Share 2 links to your recently launched projects. Let me know what role you played in the launched projects. Also, show me 3 organizations that uses donorbox. Pick 3 orgs that are NOT in our homepage.
+
+- My most recent projects are https://app.corpman.net https://voicerules.com Organizations that uses donorbox https://logosdor.com/ http://gradresources.org/ https://letsencrypt.org/
+- Below you can see a portfolio of my recent Ruby on rails projects. http://www.punchbowl.com http://lenoxapts.com https://www.homebinder.com https://lllooch.ru http://www.kiip.me/
+- Recently launched projects Bizly(https://bizly.com) 
+- a hotel room rental service for meeting planners Doxly(https://doxly.com) 
+- a legal transaction automation tool for lawyers 
+- 3 organizations that uses donorbox "Let's Encrypt", "Grad Resources", "Logosdor"
+------------------
+Please attach some sample mvc and spec code that you have wrote.
+
+- def view_request if Request.find(params[:id]).nil? flash[:error] = 'There is no relevant request. Please check link you received.' redirect_to root_path end begin @request = Request.find params[:id] @supplier = Supplier.find crypt.decrypt_and_verify(params[:token]) rescue => detail flash[:error] = 'You typed invalid token. Please check link you received.' redirect_to root_path end end
+
+
+- I attached sample spec code I have written. https://www.dropbox.com/s/uiqmcyqq1pcjyv8/tests.zip?dl=0

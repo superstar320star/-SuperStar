@@ -1,0 +1,124 @@
+Hello,
+
+I'm very interested in your job posting. Please consider our agency application. We specialize in the complex development of web projects. We design and develop web applications from scratch, launch and continue to develop them throughout their lifecycle.
+
+Thank you and I'm looking forward to working with you.
+
+Best regards,
+Dmitriy, CTO of abz agency
+
+
+
+
+Hi, I am a Full-Stack JavaScript/React/Vue/Node developer who has been focusing on React-based website development.
+
+💪 Front-end 💪💪
+✔️ ReactJS/Redux/NextJS/Material UI/Tailwind CSS/Styled Component/Storybook
+✔️ Vue/Vuex/Nuxt/Vuetify
+✔️ Typescript
+✔️ Vanilla JS/HTML5/SCSS/JQuery/Bootstrap
+
+💪 Back-end 💪
+✔️ NodeJS/ExpressJS/Nest/GraphQL
+✔️ PHP/Laravel
+✔️ Spring, Spring Boot, and Spring MVC Testing framework
+
+👋 Other skills:
+✔️ AWS Lambda, S3
+✔️ Data Visualization, D3, Three.
+✔️ Smart Contract/Ethereum/Solidity/Web3
+✔️ Git/Github/Bitbucket
+
+Let's schedule an interview to discuss more details for your project!
+
+Best Regards,
+
+Algert
+
+
+Cover letter
+I am a full stack developer with 4+ years of experience in development of websites and applications of healthcare, real estate and ERP. I've created different custom web applications and websites for various projects, and I'm proud that most of them have become successful businesses. I've been working with small and big teams, with different management approaches, and with companies with other cultures.I am willing to be a part of your project and provide you a greater end results
+
+My focus is not only on writing the code but working on a complete application to go live. I'm practicing the Agile approach in management. That means I'm willing to provide the well-tested features that matter for the app users reasonably for your business iterations, so we can step by step head to the successful product.
+
+Please let me know the next steps to take things forward from here and suggest your availability to connect for a call.
+
+**Highlights:
+I enjoy helping entrepreneurs bring their ideas to life in the digital space. I have worked with different startups and organizations worldwide and provided them with innovative and resourceful ideas and solutions to transform their business. Some of my works include Ed-tech, Travel booking, and Crowdfunding platforms.
+
+Please have a look at my projects:
+
+#E-commerce:
+https://urstore.net/store/signup
+https://apparelnow.com/#modal
+
+#LMS and Ed-tech:
+https://www.techrow.org/
+https://simplestudy.ie/
+https://www.exam.ptfinalexam.com/
+
+(SaaS/Cloud) WEB APPLICATION FOR LMS/ EDUCATION INDUSTRY
+Website: https://analystprep.com/ &
+https://app.analystprep.com/questionbank -- The application is built with the purpose of Exam preparation for students preparing for CFA and FRM exams.
+
+Please take a look at a quick view of the application- https://www.loom.com/share/f1b88bead2c54813aabf55137bce2b78
+
+#Real Estate:
+http://urban.realtor/
+https://www.homeonline.com/
+
+# TOUR & TRAVEL PORTAL DESIGN AND DEVELOPMENT
+https://www.virail.com/
+https://thetixs.com/
+
+# Project Management Web Portal
+http://www.hogwork.com/
+
+#Crowdfunding Platform
+https://www.gofundher.com
+
+**Key Accomplishments:
+
+Software experience developing scalable, client/server enterprise applications
+
+Skilled in object-oriented design methodology and techniques
+
+Experience with Cloud platforms, AWS
+
+Experience building APIs from scratch and debugging cross-browser compatibility issues
+
+Build a strong understanding of common innovation discovery and production techniques such as human centered design, design thinking and lean startup
+
+Skilled in communicating technical information with both technical and non-technical peers and maintain and improve existing applications with a strong focus on growth
+
+Experience building or using a REST API and GRAPHQL API-- ability to define clear & concise interfaces
+
+Experience with relational databases (MySQL or PostgreSQL)
+
+TECHNICAL SKILL:
+- UI Web Technologies: HTML/HTML5, CSS/CSS3, SASS, LESS, X HTML, XML, JavaScript, ES6, AJAX, JQuery, WordPress, Typescript JSON, Bootstrap, OAuth, React.js, Backbone JS, Express JS, D3.JS, Node.js, Require JS, Common JS.
+- IDE Editor: Eclipse6.0.1, JBuilder05/06, RAD, WSAD, Eclipse, Notepad++, Dream weaver, Sublime Text3, NetBeans, WebMatrix, WebStorm, Visual Studio Code, Bonita.
+- Databases: Oracle DB, MySQL Server, Mongo DB.
+- Version Controls: Git, GitHub, Bit Bucket, SVN
+- Frameworks: Node JS, Backbone JS
+- Methodologies: Agile, UML Waterfall.
+
+Here is what I can do for you:
+
+- Develop websites from scratch of any complexity.
+- Develop data management dashboards.
+-Provide business solutions
+- Upgrade & Redesign your current website to a new, modern, fast, and secure website.
+- Add custom functionality to an existing website.
+- Integrate 3rd party scripts like Google scripts, Chat, etc.
+- Provide long-term support.
+And many more!
+
+I would like the opportunity to discuss the project. Please let me know if you have any questions or would you like to see more sample works.
+
+Feel free to contact me.
+
+I am always here to help you.
+
+Best Regards
+Rishab

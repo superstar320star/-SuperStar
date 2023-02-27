@@ -1,0 +1,185 @@
+My Car Bath SG App ||  Mobile
+
+Apple Mobile Development Frameworks
+FlutterReact Native
+Full Stack Development Skills
+React
+UX/UI Design Deliverables
+Mobile App
+Website Builders & CMS Platforms
+Shopify
+Project description
+My Car Bath SG offers Monthly Packages and Single Services at carpark locations.
+
+
+My Car Bath SG is a company that offers top-notch carwash services all over Singapore multi-storey car park. Since 2018, we have been driven by a desire to provide you with excellent services that enhance your comfort. We take a lot of pride in always being able to provide what our customers need when they
+
+less
+https://apps.apple.com/us/app/my-car-bath-sg/id1571291379
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+A simple, yet elegant Activewear store
+
+Business Size Experience
+Business with 1-9 Employees
+eCommerce Development Deliverables
+Website CustomizationWeb DesignLanding PageTheme DevelopmentDesign EnhancementTheme CustomizationResponsive DesignEcommerce Website
+eCommerce Development Skills
+JavaScriptLiquidCSS 3HTMLHTML5CSS
+Payment Systems
+2CheckoutWorldpayBraintreeWePayPayoneerStripeAuthorize.NetPayPalOpayo
+Project description
+This client wanted a minimalist theme for her Activewear store, and was extremely happy with the outcome. Can't wait to work more with her in the future with her development needs!
+https://lelaactivewear.com/
+
+++++++++++++++
+
+Shopify Plus Development
+
+Project description
+Another wonderful client with whom I have founded a hopefully long-term relationship! I continue to do ongoing Shopify Development needs for this Shopify Plus store on an as needed basis. Including but not limited to Custom theme editing in Liquid files, app integration and maintenance, conversion rate optimization, and much more.
+
+less
+https://seelbachs.com/
+++++++++++++++
+Shopify Expert for everyday needs
+Business Size Experience
+Business with 1-9 EmployeesStartup CompanyBusiness with 100-999 EmployeesBusiness with 1000+ EmployeesBusiness with 10-99 EmployeesFortune 500 Company
+eCommerce Development Deliverables
+Website CustomizationWeb DesignBug FixDesign EnhancementTemplatesResponsive DesignSoftware MaintenanceLanding PageTheme DevelopmentTheme CustomizationWebsite OptimizationEcommerce Website
+eCommerce Development Skills
+LiquidCSS 3HTML5JavaScriptHTMLCSS
+Payment Systems
+PayPal
+Project description
+My client's goal here was to have continual hotfixes and custom edits for anything they might need for their Shopify store. That is exactly what I provide to them! I have successfully implemented many changes on their store and will continue to do so for as long as they need me.
+https://eye-lights.com/en
+++++++++++++++++
+
+Ongoing Shopify Plus Customization
+eCommerce Development Deliverables
+Software MaintenanceBug FixTheme DevelopmentDesign EnhancementTemplatesApp DevelopmentTheme CustomizationResponsive DesignWebsite OptimizationEcommerce Website
+eCommerce Development Skills
+JavaScriptLiquidCSS 3HTMLHTML5CSSAngularJS
+Payment Systems
+PayPal
+Project description
+This is an on-going client to dev relationship that I hope is long lasting! I have enabled many fixes for this Shopify Plus store, and the client has always been more than happy. Being the go-to Shopify Developer for this project, I have fixed many custom coding integrations, video editing fixes, and app integrations.
+https://joshessentials.com/
++++++++++++++++++
+
+Wonderful optimization and custom theme edits
+
+Business Size Experience
+Business with 1000+ EmployeesBusiness with 1-9 EmployeesBusiness with 10-99 EmployeesStartup CompanyBusiness with 100-999 Employees
+Databases
+MySQL
+eCommerce Development Deliverables
+Software MaintenanceWebsite CustomizationWeb DesignBug FixDesign EnhancementTheme CustomizationResponsive DesignWebsite OptimizationEcommerce Website
+eCommerce Development Skills
+JavaScriptLiquidNode.jsCSS 3HTMLHTML5CSS
+Payment Systems
+PayPal
+Project description
+This project was all about bug fixes and optimization. I received all the needed fixes and worked on them, while looking for additional code implementation that was needed. I made sure everything was mobile-responsive for the client, who ended up being very happy. All's well that ends well!
+https://gencrafts.com/
++++++++++++++++++++
+
+A beautiful website from the Shella Theme
+
+Business Size Experience
+Business with 1-9 Employees
+Databases
+MySQL
+eCommerce Development Deliverables
+Theme CustomizationResponsive DesignEcommerce WebsiteSoftware MaintenanceBug FixWebsite OptimizationWebsite MigrationWebsite Customization
+eCommerce Development Skills
+LiquidJavaScriptHTML5CSS 3
+Payment Systems
+PayPal
+Project description
+My client's goal for the project was to be taught how to use the basics of Shopify to be able to get her Etsy store up and running on her own. After implementing a few custom-coded additions and set hours of her walkthrough, she left the experience fully confident in her ability to maintain the site on her own, and it looks beautiful!
+
+less
+https://knitswag.myshopify.com
++++++++++++++++
+Shopify Set-Up from Scratch for Surf Fashion Brand
+
+Business Size Experience
+Business with 10-99 Employees
+eCommerce Development Deliverables
+Platform PluginTemplatesTheme CustomizationWeb DesignResponsive DesignEcommerce Website
+eCommerce Development Skills
+Liquid
+Payment Systems
+PayPal
+Project description
+A minimal Shopify Store Set-Up from scratch, with POS integration (automatic inventory synchronization between offline retail store system and online store inventory). A custom font was installed as well.
+https://southernsaintvi.com/
+++++++++++++++
+
+usiness Size Experience
+Business with 1-9 Employees
+eCommerce Development Deliverables
+Design EnhancementTemplatesTheme CustomizationWeb DesignResponsive DesignEcommerce Website
+eCommerce Development Skills
+HTMLCSSLiquid
+Payment Systems
+StripePayPal
+Project description
+Shopify Store Set-Up from scratch to match existing homepage:
+- Homepage Design
+- Product Page Design
+- Collection Page Design
+- Product and Content Upload
+- Print-On-Demand Service Integration
+
+Features:
+- Option to tag products on homepage banners
+- Interactive Search, option to feature search terms and products
+
+less
+https://shop.allaboutgreens.co.uk/
+++++++++++++++++++
+
+
+Kid's Fashion Shopify Store Redesign
+Business Size Experience
+Business with 1-9 Employees
+eCommerce Development Deliverables
+Theme CustomizationWeb DesignLanding PageResponsive DesignTheme DevelopmentWebsite OptimizationEcommerce Website
+eCommerce Development Skills
+HTMLCSSLiquid
+Project description
+A complete redesign for an existing children's fashion store, improving cohesive aesthetic and conversion rates.
+
+Redesign of:
+- Homepage
+- Product Pages
+- Collection Pages
+- Contact Us Page
+- Become a Wholesaler Page
+
+Feature Integrations:
+- Store Locator Map
+- Cross-Sell: Bundle Creator
+
+less
+https://www.simplychickieclothing.com/
+++++++++++++++
+
+Custom Landing Page Design for Christmas Special
+
+Business Size Experience
+Business with 1-9 Employees
+eCommerce Development Deliverables
+Web DesignLanding PageResponsive DesignEcommerce Website
+eCommerce Development Skills
+HTMLCSSLiquid
+Project description
+A custom landing page design and matching custom product page designs for Christmas food & wine boxes.
+Additional integration of an online booking system/time slots for either a pick-up or local delivery option, since boxes were limited.
+
+less
+https://zollamtbingen.de/pages/meinegans

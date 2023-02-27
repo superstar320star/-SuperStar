@@ -1,0 +1,63 @@
+My goal as the senior developer tasked with integrating the team on this greenfield project is to construct interfaces for our new product using NextJs + Sass and Mobx as our state management system. The major goal is to produce reusable components that the team may reuse in future projects.
+
+It's one of my favourite companies, and it's where I learned a lot about front-end development. I was interacting with other developers and clients at the time.
+My goal is to use VueJS Sass to develop interfaces for our new product, with Vuex as our state management system. app.statmetrix.co/
+The main goal is to create reusable ReactJS and VueJS components that the team may use in future projects.
+
+Bramerz is one of Pakistan's premier digital firms, with a staff of over 100 people with extensive expertise working on products, projects, and campaigns across a wide range of industries and sizes.
+Create web applications for well-known news outlets and e-commerce sites.
+I learned about Angular 6 and how to deal with big data.
+
+Your Idea = My Solution, which I will be proud of and earn money for your business.
+
+📌 If Quality is not just a word for you
+I've been building advanced PHP, JavaScript-driven websites and apps for more than 10+ years and working with MEAN and LAMP stack based applications using React.js, MongoDB, Node.js, Vue.js, Express, sails, Laravel, Angular.js, Backbone.js, ExtJS, JavaScript, jquery, and CouchDb since last 5+ years. For frontend development, I use Angular11 or React/React Native, ionic, Flutter.
+
+📌 What tools I use to make your project perfect.
+
+⚡Web Technologies:
+✿ React.js, Next.js, Redux, Redux-Saga, React Bootstrap
+✿ Node.js, Express.js, MongoDB
+✿ Docker, Sequilize
+✿ JavaScript, TypeScript
+✿ Vue.js, Vuetify, Vuex
+✿ Angular.js. Angular 7,8
+✿ HTML 5, Bootstrap, CSS 3 and preprocessors (Sass or Less)
+✿ ECMAScript 6, ES2015
+✿ API Integrations (Context API)
+✿ Verion Contol Systems ( Git/ GitHub/ Bitbucket)
+✿ Task Management System (Jira/ Trello/ Clickup/ $lack and etc. )
+✿ Laravel, Zend, Symphony, Yii, CodeIgniter, CakePHP, Phalcon, Ruby on Rails
+✿Wordpress, Shopify, Magento, Prestashop, Drupal
+✿ ZOHO CRM, Podio CRM, Bitrix
+
+⚡ Mobile Application Development:
+✿ React Native, IBM Worklight
+✿ Flutter
+✿ IOS Native, Xcode / Swift
+✿ Android Native
+✿ Hybrid App, Ionic / Phonegap / Framework 7
+
+💪 MY SPECIALIZATIONS:
+— UX/UI: Web design
+— UI/UX: Mobile design
+— E-commerce design
+— Landing page design
+— Web application / Mobile app (iOS and Android)
+— SaaS product design
+— Dashboard design
+
+🏭 Industries I worked for:
+E-commerce-B2C, B2B, C2B, C2C, Bitclout Blockchain, SaaS platforms, ERP / SCM/ CRM/ HRM including Point of Sale applications - custom development, Marketplaces, Appointment and Scheduling, BMS/IoT, API oriented project development - Real-time data exchange, Logistics and Transportation, Real Estate, Digital Enterprise platforms, E-Retail, Mobile Commerce, Data Aggregators and Analytics, Event Planning and Listing Marketplaces, Healthcare Suite of application following US compliances, Finance / Cryptocurrencies / Banking, Beauty products (for men and women), Education / Services, Food (cafes, restaurants, etc.), Travel, Gym/Fitness
+
+📌 Well versed with:
+Amazon Web Services - Amazon EC2, S3, SES, SNS, DynamoDB, CloudFront, Swagger, Loadbalancing
+3rd party - GIT, SVN, BitBucket, Facebook, LinkedIn, Google APIs, Twitter, Twillio, Plivo, Chat Integrations, Payment Gateways.
+
+I work till your project success. I’m aware of challenges faced by clients during project execution and try extremely hard to overcome those challenges to make it efficient, smooth, and successful. To see me in action, allow me a chance, and you won't regret your decision ever.
+
+MY Goal!!!!!
+I am passionate about providing innovative solutions to my clients.
+I guarantee “QUALITY” in the work which I do. I have a passionate mind to do work. I can assure you my task will not let you down, and you will be willing to do work with me in the future.
+
+I'm thankful to your eyeballs for viewing my profile and excited to collaborate with you for commencing our healthy business relations.

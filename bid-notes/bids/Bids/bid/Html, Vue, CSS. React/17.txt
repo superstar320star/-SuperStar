@@ -1,0 +1,51 @@
+Hello there!
+I have over 7 years of experience in developing web applications for a large number of businesses. I’m familiar with advanced JS frameworks (Vue, React, Angular) and UX/UI design. Take a look at some of my previous works: https://budu.jobs/ , https://atlas-stars.ru , https://malevichspb.ru
+
+Tell me more about your project please.
+Have you got a design concept?
+Do you have any developments?
+What you prefer to use on backend?
+
+Chat me to discuss all details!
+
+
+
+Hi,
+
+I see you are looking for a Vue.js, React developer, and I have a candidate who is a perfect match for your needs.
+
+Let's discuss your requirements further. When would you have time to speak about it?
+
+Thanks,
+Dmitriy
+
+
+Hi!
+
+I'm Danila, I have 7+ years extensive experience using JavaScript (front-end) technologies. I specialize in the frontend development and I'm a person who will turn the design of any complexity into amazing work using LESS/SAAS, CSS/HTML and build the web project using React/Redux, JS, Firebase/React-Redux-Firebase, Angular, Vue.js, Typescript.
+
+My recent React project was Zirra https://www.zirra.com/ - AI-powered market intelligence platform for researching and analyzing companies. Here I used React.js, React-admin, React-apollo, Immutable.js, Less and Meteor.
+
+My recent Vue project was ENC http://energicos.de/ - CRM system for the energy supplier company. It’s based on the serverless backend and Vue.js 2.6.10, and here I worked with Vuetify 1.5.14 to create UI-controls, and Vuex 3.1.1 to keep information about current user. The app is hosted on AWS and uses Aws amplify components for Vue 0.2.11.
+
+I am interested in collaboration and although I'm with mentalstack.com, there is still an option of direct communication. Let's schedule a call to discuss the details. When are you available?
+
+Hope to talk to you soon.
+
+Best,
+Danila
+
+
+Hey, JS expert is here to help you! Vue.js & React are my main frameworks. So I'm very interested in discussing your project, let's create something outstanding together! You can check some of my previous works here:
+
+1) https://packwire.com/ (custom box creator with memorable UI)
+2) https://www.istitutomarangoni.com/en (a platform for a popular Italian fashion school with booking features)
+3) https://trasko.ru/en/ (a web app for a logistics firm)
+4) https://www.zentreasury.com/ (cloud-based accounting software)
+
+What's the niche of your project?
+What functionalities are you planning to implement?
+I'm all ears.
+
+Thanks
+Artem

@@ -1,0 +1,73 @@
+--------node, lambda , firebase
+
+Greetings!
+
+I am a Javascript Developer I have been working in the industry for 6 years.
+I believe that my expertise and experience as a software engineer would fit well to the job description that is why I'm very much interested to apply.
+
+Since 2012, I have served as a software engineer for a local company where I have been involved in large projects that is heavy in Javascript and Ruby on Rails . Experienced in using Serverless Framework for developing AWS Lambda. Experienced in creating UI with React. Experienced Git Version Control, Knowledge with Testing using Mocha/Chai. Some experience in integrating GraphQL to an API. Knowledge in deploying apps to AWS, Heroku and Digital Ocean. Familiarity also in building REST Services(API's) with Express and Sails. Experienced in Integrating API from Google Docs, Google Search and Social Media sites(Facebook, Twitter, Instagram)
+
+To be honest, I find it hard to market myself but I'm really confident with my skills, experience and expertise as a software engineer. I'm a very dedicated developer that is why I am very strict with my deadlines and make sure that my deadlines are met. I am very professional when it comes to work, easy to work with and get along easily with others. I'm very conscious with my work meaning I want to be my work to be as good as possible and make sure that in everything I do I do my best.
+
+----------------
+Hello,
+
+Node.js is my focus that's why I'm interested in your job, but also I have experience with developing Bitсoin Merchant System - it's scalable and extremely secured bitcoin front office solution for cash exchange. Allows users to easily trade bitcoins for a number of foreign currencies. Modular architecture makes it easy to integrate the system with different crypto currency exchanges.
+
+Here are also some recent examples of Node.js-based projects:
+
+1. www.unreel.me - this is a large platform with the main goal to become a tool for content owners to distribute and monetize their media and to become a convenient and flexible tool for the media consumers. Using MEAN stack - MongoDB, Express.js, AngularJS, and Node.js, Java.
+2. lincolncenter.org/video - video portal, admin area and CMS for Lincoln Center portal. Using - Node.js and Less.
+
+I'm open for communication so feel free to contact me for any details.
+
+Thanks for your time and hope to hear you soon,
+
+-------------
+My expertise will be good addition to your project because of 3 reasons. And while the first one (my experience) is obvious, other ones differ me from other applicants.
+
+Ok so the first and foremost - I have expertise with Blockchain. My Bitcoin related project as an example for you => https://goo.gl/Fjxzv5
+I know ins and outs of this field and therefore do work fast and clean.
+
+The second - I'm coding since 2011 andwhich means I can have experience comminicating with clients and definitely not make them wait for responce. And of course I can guarantee proper quality of the code, since I know pitfalls to avoid, approaches and techniques.
+My code samples are available upon your request.
+
+And the third but far not least - my experience with particular technologies:
+JavaScript - 5,5 years
+Node.js – 5 years
+
+I hope information above is sufficient to consider my candidacy and interview me.
+
+I'd really like to become a part of your team and looking forward to your reply!
+Kind regards, 
+
+--------------
+Dear Hiring Manager,
+
+I am an expert JS developer who plays with Node.js, Angular.js, React.js, Backbone.js, Express.js, Underscore.js and MongoDB etc.
+So, I think it would be a cake walk for me to work on your project using above technologies.
+
+Please let me know the complete task details, So that I can start working on your project ASAP.
+
+This is my experience with Node.js for your kind review:
+- http://learningtool.morganintl.com/
+This is one of my biggest project and I am working on it since 2 years. I am very confident about its potential for success.
+I have used these technologies in this project :- Node.js, Express.js used as backend framework, for frontend backbone.js,require.js,underscore.js.
+
+- http://www.cityloque.com
+A fashion-industry portal, implemented from scratch:
+- Created data schemas with Mongoose, and set up MongoDB for persistence.
+- Implemented controllers and routing with Express.js.
+- Implemented (pre-delivered) templates in Jade.
+- Implemented the Angular.JS front-end app, directives, and controllers.
+- Implemented infinite scroll in Angular.JS.
+- Implemented the real-time notific0ation with Socket.IO.
+- Session storage with Redis.
+- Deployed to Heroku / MongoLab / RedisTogo stack.
+
+- http://toplevel.ceo/
+Stream - a new social media platform for the CEO community. Responsible for the Node.js API layer and client side integration.
+Technology: Node.js / Mongo DB / Redis / HTML5 / Heavy duty JavaScript.
+
+Hope the samples above were able to give a clear picture of my experience with Node.JS in particular. 
+

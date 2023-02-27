@@ -1,0 +1,53 @@
+Hello
+What is the start date of your project? Do you have any technical specifications/wireframes/designs of your project?
+Please, share the links to websites that you like most to better understand your preferences, if you don't have design.
+Do you have a logo for your brand?
+Do you have any technology preferences for back-end part?
+
+I represent Ukrainian development company DevIT - https://bit.ly/3EqHdp3
+We have over 8 years of experience in web development including React and Vue.js.
+Examples of our work:
+
+https://ven.vc/
+Ven is a global digital currency from Hub Culture
+The world's oldest digital currency is stable, fast,
+and efficient, with carbon and other elements of nature at its heart.
+
+https://americasvoice.news/
+AmericasVoice is a highly-loaded news portal with elements of social interaction (live chat, user-profile, forum).
+
+https://relica.world/
+Relica allows anyone in the world with a phone and internet connection to start generating income from their pictures with just a few taps and a touch of creativity.
+
+We are waiting for the answers to our questions. Let's make a plan for our cooperation.
+
+King regard
+Daria
+
+
+Hello!
+I hope you are doing well.
+
+I have understood your requirement. With my 9+ years of experience as a front-end web developer, I can surely develop a high-quality and fully-functional website for you. Kindly share more details and I can start the work right away.
+
+My technical skills are:-
+- Solid knowledge of PHP, HTML5, CSS3, and JavaScript.
+- I have expertise with front-end frameworks/libraries like React.js and Vue.js.
+- I also have knowledge of back-end languages, databases, and APIs.
+
+I can dedicate 40+ hours/week to your project, and my daily hours and the cost are negotiable. Please feel free to contact me directly to discuss further.
+
+Kindly have a look at some of my previous projects:-
+⤷ http://fsits.com/
+⤷ https://wickedgear.net.au/
+⤷ http://www.townendfarm.co.uk/
+⤷ http://www.e4s.co.uk/
+⤷ http://www.friscomovingsystems.com/
+⤷ http://jillhelena.com/
+⤷ http://toplinelighting.com/
+⤷ http://www.casadelavista.org/
+
+I’m looking forward to hearing from you.
+
+Regards,
+Deep.

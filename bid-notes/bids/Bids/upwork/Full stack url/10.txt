@@ -1,0 +1,110 @@
+Hello,
+
+I reviewed your job details and found out that you need a Full stack Developer.
+
+I have a Experience on up to date advance web development technologies NodeJS, ExpressJS, MongoDB, GIT, Heroku, Web Sockets, Socket.io,ES6, JavaScript, Core JAVA, Bootstrap, CSS3, HTML5, Ajax, MVC, JSON, Amazon Web Services etc.
+
+Below are some Website that I have Developed Using React js, Node js, Mongodb:
+------------------------------------------------------------------------------------------------
+1. https://store.optum.com/ ( Optum )
+2. http://afectoo.nugen.co.in/ ( Afecto Homepathy)
+3. https://moversly.com/ (Moversly )
+4. https://farahsanjana.in/ (Farah Sanjana )
+5. http://ganpatis.in/ ( Ganpatis )
+
+My Skills Relevant To The Job Post :
+--------------------------------------------
+Databases: - MySQL, MongoDB
+
+Languages, Frameworks and Tools:
+- NodeJS, React js, Mongodb.
+
+DevOps:
+- Setting up EC2 instances, RouteS3, Load Balancers, S3 bucket and policy, Nginx.
+
+* Very good knowledge of SEO principles.
+* Implementation of Google Analytics (Using Google Tag Manager)
+* Integration with AWS APIs and Social Platforms like Facebook, Twitter, Linkedin etc.
+* Integration with telephony APIs Twilio and Plivo
+* Ability to translate Wireframes and PSD Designs into functional web apps using HTML5, AngularJS, Node.js, and - Mongo
+* Binding of UI elements to JavaScript object models
+* Creating RESTful services with Node.js
+==============================================================
+
+Please let me know when we can start together as I am ready to start work from now and make everything done as soon as possible.
+
+Waiting to hear back from you soon.
+
+Thanks!
+Greetings!
+
+Thanks for reviewing my application. I have analyzed your project requirements and I can provide you the best solution based on the scope of work defined by you.
+
+I have extensive experience in React.js, Typescript, Javascript, Node.js, MongoDB, Laravel, AWS, PHP, MySQL, UI/UX, jquery, Ajax Graphics, HTML5, CSS, Mobile responsive, twitter-bootstrap, Web Services (REST).
+
+I am a Full stack developer for full time job..
+
+Some of my portfolio of sites is available for your review at:-
+
+✓ Calendar and scheduling system: CloudRent (Book items on Rental)
+https://www.rentalezy.com/
+https://broadview.invisionapp.com/console/share/V7350T8DRS/814772286
+Tech Stack: React JS, Node JS, Kendo UI
+
+✓React. js Redux : Pick your ride and make an offer
+https://www.autobyoffer.com/
+Tech Stack: React JS, Redux, HTML, Javascript
+
+✓BrownEagle
+Website: https://www.brown-eagle.com/
+Ecommerce online market place for B2B
+Tech Stack: React JS, Node JS, Express JS, MongoDB, Stripe, AWS
+
+✓React.js, Node.js:
+https://trainerworkout.com/
+Complex and diversified application for different user types (trainees, trainers, managers etc) allowing users to feel themselves in a real gym!
+Tech Stack: React JS, Node JS, HTML, Javascript, MongoDB, Stripe, AWS
+
+✓React.js, Redux-Ecommerce:
+https://materialorderdesk.com/
+Tech Stack: React JS, Redux, HTML, HTML5, Javascript, MongoDB, Stripe, AWS
+
+✓Marketplace
+https://www.stylelend.com
+Tech Stack: React JS, Node JS, HTML, Javascript, Stripe
+
+✓Versured
+https://versured.com/
+Tech Stack : React, Node.js, Material-UI, Next.js
+
+✓Bitclout, Blockchain
+https://bitclout.com/
+Tech Stack: React JS, Typescript, HTML, Javascript
+
+✓A socially profitable financial technology company
+https://www.incuto.com/
+SaaS banking technology platform for Credit Unions, Community Banks and CDFIs
+Tech Stack : React.js, Webpack, a Bootstrap 3.3, Node.js
+
+✓React.js, Node.js:
+https://www.vouch.com
+Tech Stack: React JS, Next.js, Node JS, Express JS, MongoDB, Stripe, AWS
+
+✓React.js, Node.js:
+https://chriscortazzo.com/
+Tech Stack: Node.js, Next.js, HTML5, PHP, MySQL Programming, Website Development, ColdFusion, React, CSS3, JavaScript
+
+✓Saas:
+https://www.openbom.com/ -
+Tech Stack: ReactJS, NodeJS, Apollo Server (GraphQL), SQL. Hosted on GCP with help of GKE (Kubernetes) + Docker. Platforms: Web, Mobile Web, Chrome Extension. Key challenges were: Survey infrastructure, chrome extension, rich insights & ranking, a design system reused across all the platforms.
+
+✓React.js Sample code on Github:-
+https://github.com/Techguybi/
+
+
+You will get fast delivery of the project for sure..👍
+Looking forward to hearing from you!
+
+Sincerely,
+Vinod
+Broadview Innovations

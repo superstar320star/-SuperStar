@@ -1,0 +1,68 @@
+I’m Biplab Mondal, a full stack javascript developer with 5+ years of professional working experience.
+
+I am having working experience with React.js, Node js JavaScript, and TypeScript. I have also worked on real-time projects where the firebase database, Mongo DB has been used so I have an understanding of it as well.
+
+Having already worked on projects where I had to play with redux, react hooks, RESTful APIs, Material UI, Isomorphic React, and Next js. I will most definitely help you with this.
+This is some sample code from that project
+For react-redux Serverside rendering
+https://github.com/bip5050/reat-redux
+
+My Previous works
+Adult Dating Site, Online Music Competition site, Health care site, Online
+food delivery system
+1.https://www.wearenaughty.com
+2.https://musicisvivid.com/
+3.https://wt-healthcare-ui.worktrim.com/
+4.https://www.foodjets.com
+5.https://foodjetsexpress.com/
+6.https://catering.foodjets.com/
+
+
+As an individual developer, I am always looking for work so I would love the opportunity for a long-term arrangement. However, to show my skills and to gauge our fir together I am willing to go through the interviewing process and give some coding tests.
+
+Some of my recent works are done by NodeJS
+React
+GraphQL
+SQL, relational databases
+Automated testing
+Sequelize:
+
+
+
+I’m interested in this project and can start immediately, kindly let me know how to proceed.
+Thanks
+
+
+
+Hi there,
+
+It’s great to see you’re looking for a Web Developer to assist with your project!
+
+Delivering a top-notch product within the set timeline is my main priority as I understand that it usually becomes crucial to business development as well as setting a proper tone in consumer relations.
+
+Here are some relevant work examples which will help to strengthen your confidence in my skills & experience: http://bit.ly/vasylportfolio and https://bit.ly/devasyl
+
+Working with the different SaaS, complex web platforms, and MVPs usually involves the following steps, which I can cover A-Z:
+🔎 Outlining the business model, monetization system, defining personas, and preparing the user flows to describe the path a user takes when using a product;
+💡 Building a sitemap – an architecture and hierarchy of the website/application pages;
+📝 Transferring that vision into wireframes, a high-fidelity layout of web pages with a clickable system to test on users;
+🧩 Defining the look and feel of the digital solution along with the UI Components for the pages;
+🖼 Metamorphosing into UI design – an aesthetic and intuitive way to increase user loyalty along with the responsive versions to cover different resolutions.
+
+Then it comes to the actual development process, where I can help you prepare the technical requirements, platform architecture, WBS, and select the APIs required for the project.
+
+My tech stack covers the following technologies:
+🖥 Layout: HTML5, CSS3, Sass/Less, Bootstrap, Material UI, Angular Material, Kendo UI, Ionic UI;
+👨‍💻 Front-end: Javascript (ES6), Typescript;
+⚡Frameworks: React.js, Vue.js;
+🧱Back-end: PHP (Laravel, Symfony), Node.js, Python, WordPress, RESTful API;
+🗄 Databases: MySQL, MongoDB, NoSQL;
+⚙Supporting tools: Git (flow), Webpack/Gulp, npm/yarn, Docker;
+✔Version control systems: Github, Gitlab, Bitbucket, Azure.
+
+It would be great if you can devote your time for a quick chat to discuss your project in more detail so that I can see how I can help you and define the proper product strategy.
+
+Hope to hear from you soon!
+
+Respectfully,
+Vasyl

@@ -1,0 +1,84 @@
+Hi. Thank you for interesting job post.
+
+My name is Oleksii and I am a blockchain developer with strong experience in NFT development. I already have worked on many successful NFT projects in which I developed smart contracts or fully managed the tech side.
+
+https://finalbosu.com/ (Unique hand drawn NFTs with play-to-learn game)
+https://alienfrens.io/ (Generative NFT with large community)
+https://www.dinobabies.io/ (Generative NFT to be used future film)
+https://atopia.xyz/ (100% on-chain vector art NFT and P2E game)
+...
+
+Excluding the NFT projects, I also developed several complex DeFi smart contract including lending, swap, staking and yield aggregation platforms etc. So I have full confident that I can quickly get on the project and build the product in a short period time. I will provide full tech solution and manage the development process from very brief to end.
+
+I can provide all necessary things for your NFT launch and selling including
+- Smart contract implementing your idea and minting feature according to sale strategy.
+- Random traits and art generation according to the rarity percentages
+- Setup IPFS or server to serve metadata and images
+- NFT sale site with all the necessary functionalities like wallet connect, max available items, minting etc.
+- Integration with NFT marketplaces like Opensea, LooksRare and more
+- If you have other gamifying logic or utility tokenomics in your project, it will be provided all together.
+
+I'd like to hear the details of the project and potentially start good cooperation together to achieve the project goals
+Looking forward to your reply.
+
+Kind regards
+
+**We are Solana & Blockchain Experts.**
+
+Hello,
+
+With our expertise in Software Development Industry and extensive experience in building various **NFT/Cryptocurrency based Apps**, we are glad to share ourselves as THE BEST FIT for this particular project. We have both frontend and backend development skills. We are well known and have prior experience with following things:-
+
+⁃ NFT Smart Contract Development/Deployment (Ethereum)
+⁃ Custom NFT functionality and Utility for Metaverse & IRL use cases
+⁃ Metadata storage through IPFS
+⁃ Integrate NFT minting and purchases directly on independent website
+- Advanced Token Search
+- Filters: allow users to freely choose assets by category, payment method, due time, and listing status.
+- Bid and Buy functionality
+- Users can create Listings that will allow consumers to create and send digital collectables.
+- Listing Status to help execute collectable verification
+- Admin console with reports, analytics & users/process management features
+
+**Let's schedule a meeting to have a quick call to discuss your requirements in detail so we can come up with our feedback, recommendations, & estimated time along with the detailed proposal.**
+
+NFT/Crypto based project:
+====================
+We are currently working on an NFT Marketplace and have built various NFT transaction features using blockchain. The purpose of the potential app is to solve traditional issues of security, transparency and fraud, build a dynamic blockchain solution for the future of digital advertising.
+
+PS: Let’s get on a quick call so that we can explain our work over the screen share.
+
+OTHER TOP RELEVANT WORK REFERENCES ARE:
+=========================================
+> https://simplyseal.com/ (Tendering and Bidding Marketplace App)
+> https://www.freelancer.nl/ (Online Marketplace Application similar to freelancer.com)
+> https://jobkeeper.dk/ (Multilingual Job Marketplace application)
+> https://www.birdcurrent.com/ (Fintech Application)
+> https://easywebinar.com/ (SaaS-based Webinar and Video Conferencing Application)
+> https://www.pnfp.com/ (Fintech App)
+> https://www.clientpoint.net/ (SaaS-based Multimedia Proposal creation, presentation and tracking solution)
+> https://boomcaster.com/ (Podcast, Vodcast, and Livestream Platform)
+> https://agentalive.tech/ (Insurance Application Software with Real-time Solution)
+> https://datiuminsights.com.au/ (Data Science and Analytics Application)
+> https://www.rhemito.com/ (Fintech application)
+> https://www.vendortrax.com/ (Cloud-based Marketplace Application for Home Services)
+
+We follow a well-documented development process starting with a hybrid approach in which we gather requirements, document them, work on UI/UX, and finally moving to development, test planning & execution, and deployment. Here is a detailed breakdown of our deployment process:
+
+- Requirement Gathering & Documentation: Hosting brainstorming sessions to understand your idea and prepared detailed documentation based on this understanding.
+
+- User Experience & Design Thinking: Using the user experience and design thinking to bring innovative solutions and the best customer experience onboard.
+
+- Development: Following an agile approach consisting of bi-weekly sprint planning, well-defined tasks, weekly reviews, sprint retrospectives.
+
+- Test Planning & Execution: Using Sonar Cube to enhance code quality, writing unit test cases to reduce issues, and ship a stable product into the market.
+
+- Deployment: Building an end-to-end DevOps strategy. Creating the whole infrastructure as the script using Terraform. We follow the CI/CD approach to achieve continuous integration & deployment.
+
+We use tools like Azure DevOps, Jira, MS Team, and Confluence, and Bitbucket to plan smarter, collaborate better, and ensure continuity throughout the entire project. We also have expert teams working with cloud providers like Azure, AWS, and GCP.
+
+We look forward to working with you and build a long-lasting working relationship.
+
+
+Warm Regards,
+Gagan

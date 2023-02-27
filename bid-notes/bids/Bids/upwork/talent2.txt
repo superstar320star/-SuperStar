@@ -1,0 +1,46 @@
+I am based in Los Angesles, California.
+
+7
+I have worked on multiple coding and business start-up projects related to blockchains and crypto assets/coins, gaining experience covering blockchain, consensus algorithms, Hyperledger, bitcoind, geth, ethminer, ethash, ERC20 tokens, JSON RPC, transactions, testnets, on-chain atomic swaps, cryptocurrency mining, coin trading, exchanges (both centralized and decentralized), and 'crypto ecosystem' modelling. I run my own full nodes for BTC, ETH and ETC. I have contributed to multiple whitepapers, and been involved in several completed ICOs.
+
+I have developed 120+ Crypto Exchange and ICO Platform and helped several clients raise and earn million of dollars worth of Crypto.
+
+I have worked with all the popular blockchains like EOS, Stellar, Waves, Ripple, Bitcoin, NEO, Ethereum and Steem etc
+
+I am also expert in all cryptocurrency exchange APIs (BitMEX, Bittrex, Binance, Bitfinex, Kraken, Poloniex, Gdax etc.). I have also worked with multiple Forex broker APIs.
+
+I use Python to extract pricing data from different exchanges: Bitfinex, Bitmex, Binance, Bittrex, Binance, Huobi and others.
+
+Also using Python to test and implement different trading strategies, using all sort if indicators: RSI, StochRSI, Bollinger Bands, Moving Averages, etc
+
+I am experienced with the ICO process as the founder of a blockchain solution and understand the process of technical development, building community, staying compliant, and the many aspects of bringing a blockchain solution successfully to market.
+
+I handle technology in-house and have platforms built in the USA for token distribution including:
+-ERC20 or ERC223 smart contracts
+-Smart contract audits
+-Creation of API's to link your native token to a web platform
+-Secure node development
+-Sales platform services
+-KYC/AML integration
+-On-platform wallet creations
+
+For content I have experience in production of:
+-Full and optimized White Paper creation (busy currently so only consulting for WP's)
+-Tokenomics adjustments or creation
+-Game theory integrations
+-Social media channels and bots where appropriate
+
+
+Since the start of 2013, I have investigated cryptocurrency technology in depth:
+
+- I have studied parts of the bitcoin, peercoin, memorycoin and bytecoin (cryptonote) source code.
+- I have studied the bitcoin, litecoin (scrypt) and primecoin PoW algorithms in great detail. I have developed an OpenCL/GPU implementation of the bitcoin and litecoin hashing algorithms from scratch.
+- I have developed an automated trader for the BTC-E exchange. I have also implemented interfaces to ripple, bter and mtgox in order to gather market data.
+- I have experimented with setting up p2pools for altcoins.
+- One of my last completed jobs involved establishing communication through the RPC-JSON interface to monitor withdrawals and deposits of bitcoin and other compatible altcoins, as well as the equivalent for NXT (which has a unique interface).
+
+As for blockchain technologies, experience programming a hardware bitcoin/litecoin miner, Truffle, Solidity, Ethereum smart contracts and using Ethereum ecosystem is available.
+
+I enjoy working in multicultural environments as well as in client-facing roles.
+
+Skills: Python, Java, AWS, PHP, Truffle, Solidity, Angular, Angular Materials, Ionic, NodeJS, VueJS, Laravel, Yii and all the related technology stack.

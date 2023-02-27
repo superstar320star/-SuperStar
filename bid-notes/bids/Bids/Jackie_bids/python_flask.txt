@@ -1,0 +1,171 @@
+Hi
+
+I am a talented python expert. with 6 years of experience in developing web program using Flask and Django.
+I've found I am a right person for your job because I have all skills you job required.
+
+I have lots of experience of development and management website as a full stack developer by using django and flask.
+I have rich experience of mongodb, postgresql, mysql and sqlite and have a good sense in using the Global API.
+
+My python experience:
+
+- Developing ecommerce web site using Django and Flask which is based on python
+- Django Rest Framework
+- Selenium for testing django project
+- Web scrapping using python scrapy1.5.0 and lxml python package
+- Network programming using python
+- multi-thread and multi-processing programming using python
+- image and video processing using python opencv
+- get computer resource info like cpu speed and the status of network.
+
+I am fast worker and fulfilling customer's request is my first concern.
+I am ready to start your project and I am looking forward to hearing from you.
+Best Regards.
+
+Looking for someone very familiar with HTML/CSS, Carousal and especially in making website responsive for different devices (iphone and Android).  Our website theyoungsocratics.com requires redesign. Will give access to git code and they can check docker tools to see how the website works locally.
+-------------------
+I am a full-stack Python developer with more than 11 years of experience in a wide range of application development using Flask, PostgreSQL, MySQL, SOAP, XML-RPC services, stores, portals and other.
+
+I have in-depth technical knowledge of Python, Flask, JavaScript, PostgreSQL Administration, Django, MySQL, MongoDB, XML-RPC services, stores, ERP/CRM portals and implement fully innovative and creative strategy to deliver with outstanding functionalities and user experiences.
+
+I can also manage Linux servers, AWS hosting server, DB-Engines, Odoo servers and most well known Linux tools and services. All my developments run on Linux and Unix environment. Other areas of expertise are Website development, Client servicing, and experienced in both front-end as well as back-end development, Resource Management.
+
+My Technical expertise in Python:
+----------------------------------------
+1. Web Programming: Django, Pyramid, Tornado, Flask, web2py
+2. GUI Development: wxPython, Angular, Tkinter, PyGTK, PyGObject, PyQt
+3. Scientific and Numeric: SciPy, Pandas, IPython
+4. Software Development: Buildbot, Trac, Roundup
+5. System Administration: Ansible, Salt, OpenStack
+6. Database: Postgresql, Mongo DB, NoSQL, SQLAlchemwy
+
+
+--------------
+
+I am an experienced Python/Django developer with strong background of Python/Django/Flask/JavaScript/HTML/CSS/AJAX/Angular/Git. am addicted to writing clean, properly structured code, easy for further maintenance and understanding.
+
+Check a couple of my past projects:
+
+https://officecanvass.com/ - a service that helps to get information about colleagues and office quickly - suitable for new employees or just the ones who need quickly find a colleague's name and sit in big company.
+
+Technologies used: Python 2.7, Flask 0.12, SQLAlchemy 1.1.6, MySQL, Stormpath (Identity and User Management API), Stripe, Docker
+AngularJS 1.2, Elastic Beanstalk (with single Docker container), SES (email system), Route53, Certificate Manager
+
+http://gotapway.com/ - this is Malaysian startup that handles processing of Bid data. It collects data about buyers in trading malls based on wifi access points and builds metrics based on these data and sells to clients.
+Technologies used: Python, Flask, Sqlalchemy, Celery, Postgres, DynamoDb, AWS
+
+http://mycamunity.co.uk/ - a photographers community
+Technologies: Pythona
+
+https://www.credibase.com/ - Social portal for the companies and organizations
+Technologies: Python, Django 1.8, PostgreSQL, ElasticSearch, Redis, AmazonS3, RQ, Pillow, Django
+
+http://profileyou.com/ - a reputation management service offering automated username registrations to hundreds of websites and trained specialists for promoting positive search results.
+Technologies: Python, Django, Django REST Framework, Celery, Selenium, Python Memcached, UnitTest (py.test), PostgreSQL, Redis, GIT, Twitter Bootstrap 3, jQuery, AJAX, Font Awesome, Gulp, SASS, Google ReCAPTCHA, PayPal API, Google API.
+
+Currently I am available for up to 40 hours per week. I’d like to know more about your project, let’s discuss it directly.
+
+Best wishes,
+
+-----------------------
+
+Hello
+
+I am very experienced Python developer who is versed in Flask and has very extensive experiences in this domain.
+So far, I participated in many Flask projects and developed many REST APIs
+
+In terms of flask technologies, I am very good at sqlalchemy, jinja2 template, blueprint, rest api development, wtform, authorization and authentication, deployment with apache/ngnix, and celery/rabbitmq, unittest, etc.
+
+I am confident that I can contribute great deal on your project with my experiences and proficient skills in this domain.
+All the development environment have already been installed so I can start right now.
+
+Hope to hear from you
+
+-----------------------
+Hi.
+
+I'm Django developer with 7yr experience and running an agency focused on building complex ecommerce projects and business automation using Python3 and Django.
+
+We have experience building complex eshops, ecommerce and marketing platforms, multi-vendor marketplaces (b2c and b2b), booking systems etc.
+
+If you are interested to discuss potential engagement - let me know.
+
+Thanks.
+
+------------
+I have experience in Flask, Python, Vagrant and MySQL. Examples of my previous experience include web platform for emagazine management, Web API for instant and real-time code sharing.
+
+
+Used Vagrant in Liberator where we had backend (Django/Python) and frontend part (AngularJS)
+Backend: https://github.com/fantastic001/liberator-api
+
+In code sharing platform, I have used Fask as framework for web API: https://github.com/fantastic001/CodeShare
+
+I write tests and quality code. This means code is very easily maintainable and expendable later. This is of huge importance to me.
+
+------------
+
+Hi,
+
+I am a full-stack Python developer with more than 7 years of experience in Solution Design and Development, Implementation, Business Analysis, Product Development/Management, Application Development and Application Maintenance.
+
+I have in-depth technical knowledge of Python, Flask, Django, JavaScript, PostgreSQL Administration, MySQL, MongoDB, XML-RPC services, stores, ERP/CRM portals and implement fully innovative and creative strategy to deliver with outstanding functionalities and user experiences. I can also manage Linux servers, AWS hosting server, DB-Engines, Odoo servers and most well known Linux tools and services.
+
+Please take a look at the Python work samples:
+
+http://carersdirect.org
+http://www.jamisbikes.com
+http://www.nirve.com
+http://dagnyogco.is
+
+I would appreciate if you could share the complete specification document for review based on that I can provide you with my suggestions & solution.
+
+Well, let's discuss more on this over the call to make sure we both are on the same page as I don't want to false commit anything which is not good for both of us.
+
+Please let me know your availability for the discussion.
+
+----------------
+
+I am extremely interested in your project and positive that my expertise can help bring it to the highest level of reliability and excellence.
+
+I have over 7 years of experience in creating websites and software of different complexity either from scratch or joining at some stage of developing and bringing it to the end. I've taken a part at developing cryprocurrency exchange, my role was a microservices developer.
+
+I have a strong background in cloud-based solutions, microservice architecture, API development/integration, payments processing, spider/scraper/bot developing, data mining, relational / non-relational databases, distributed computing, prototyping utilizing Python. My goal is to create simple and fast solutions, highly documented, so my client would be able to hire any person to maintain the code after my work is done.
+
+As confirmation of my skills, take a look at my cryptocurrency project:
+
+Fastcoinexchange - https://fastcoinexchange.com/
+
+Cryprocurrency exchange based on micro-service architecture. Services communicate with each other via the http protocol or with the help of Apache Kafka's distributed message broker.
+
+Technologies used: python, asyncio/aiohttp, cassandra, kafka, pynacl, docker, docker-compose, BitGo SDK, git, unittests, marshmallow, pyotp, aiohttp-swagger, passlib, cryptography.
+
+I am ready to take any technical tests and ready to start ASAP, dedicating up to 40 hours per week
+
+Feel free to get in touch with me.
+
+-------------
+Hello,
+
+10 years ago, diving into web application development, I was very interested in python, and I've worked on Web front-end/API development, distributed computing, and prototyping utilizing Python/Django Framework.
+Strong in HTML/ CSS/ Python/ Django/ AngularJS/ JQuery/ Redis/ Memcache/ Postgresql
+
+I've read your job requirements and I believe that I will be a great addition to existing team.
+Followings are prior relevant work ethics. Please review them.
+https://www.credibase.com/
+Backend: Django 1.8, Postgresql, ElasticSearch, Redis, Amazon S3, RQ, Pillow, Django Rest Framwork.
+Frontend: jQuery, Knockout.js, lodash, Typeahead, Masonry
+
+https://www.meistertask.com/
+Task Management Web App : Django 2.0, Mysql, Angular, Amazon Lambda
+
+Python / Django frameworks
+https://www.springboard.com/
+https://www.tribearound.com/
+http://hiire.co.uk/
+https://playenable.com/
+
+I've worked on many projects as a teammate in US based management/dev team, I'm fully available in EST working timezone.
+Also I'm agile/scrum master and familiar with git version control.
+Have well versed verbal and writing skills. 
+
+----------

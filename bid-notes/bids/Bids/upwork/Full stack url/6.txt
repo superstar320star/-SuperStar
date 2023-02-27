@@ -1,0 +1,51 @@
+Hello
+
+I'm Divyesh from Crest Infosystems I am a result-oriented full-stack developer and project manager. I have all the essential skills you've mentioned in the job post. I can provide you with the dedicated junior full stack developer to help you with your development. I have versatile coding skills using multiple JavaScript Frameworks and I have extensive knowledge of developing large-scale web applications, e-commerce web solutions, SaaS products, CRM, ERP, Management web systems, and Real-time solutions. I have strong Node.js, Angular, REST API, Firebase, AWS [EC2, S3, RDS, etc.] and GCP, SQL, PostgreSQL, skills and I'm available to be tested in a practical way before you hire me.
+
+I'll create a pixel-perfect web app with a customer-centric approach, beautiful functionality, platform optimization, search, dashboard, and everything that would make a user experience incredible. I have experience in Docker and Microservices.
+
+I've got a complete command of English both written and verbal. Can we schedule a quick call and expedite our discussion?
+
+I have my mind conceptually clear with ES6 (ECMA-6) JavaScript, testing libraries either Mocha, Jasmine, or Karma along with having experience across Redux, Babel, WebPack, Isomorphic React. I also have a solid foundation in HTML, HTML5, MaterialUI, jQuery, React JS,Angular JS, Node JS, Backbone JS, PHP, CSS, SCSS, CSS3, JavaScript, Bootstrap Twitter, AJAX, etc.
+
+Please check some of my successful work to understand my capabilities:
+
+NodeJS:
+https://omerse.com/ (React + Node | POS System)
+https://www.offsight.com/
+http://dev.inventory.autoglassdeal.com/ (ERP - React Js and Node JS)
+http://dev.ecom.autoglassdeal.com/ (B2B - React Js and Node JS)
+https://www.upmerch.com/ (Angluar 11, Node 12 & Firebase)
+https://www.starkid.com.hk/
+https://admin.prod.starkid.com.hk/
+https://student.prod.starkid.com.hk/ (React, Node + Postgres, Stripe, Twilio, Websocket)
+https://teacher.qa.starkid.com.hk/ (React, Node + Postgres, Twilio, Websocket)
+https://everythingwithink.com/
+https://www.pondir.com/ (React + Node)
+https://app.pondir.com/ (React & MobX + Node)
+
+ReactJS:
+https://www.bluebirdgroup.com/ (Taxi Booking App - ReactJS+Material UI+Go Lang)
+https://slingshow.co/ (React/Redux based Virtual Events & Webinars Platform)
+https://omerse.com/ (React + Node | POS System)
+https://timewise.com/ (Laravel + React) In Beta
+https://www.applebees.com/en
+https://www.pamtree.com/
+https://www.sitegiant.my/ (React,Next+Laravel)
+https://valuepad.com/ (Website)
+http://dev.inventory.autoglassdeal.com/ (ERP - React Js and Node JS)
+http://dev.ecom.autoglassdeal.com/ (B2B - React Js and Node JS)
+https://akoapp.com/ (SPA developed using Laravel+React)
+https://brightwebsitemaster.gtsb.io/ (React + WordPress)
+https://www.starkid.com.hk/
+https://admin.prod.starkid.com.hk/ (React, Node + Postgres)
+https://student.prod.starkid.com.hk/ (React, Node + Postgres, Stripe, Twilio, Websocket)
+
+I have a good practice of unit testing, code source documentation, API documentation and testing, TDD, token authentication, etc. I have knowledge of version control systems/source code control tools like GIT, Jira, Bitbucket, SVN, etc and my experience is not limited to these.
+
+I believe communication is the key to unlocking any successful outcome. Let's discuss the project in detail. Once done I will tell you the time estimation based on the exact requirement.
+
+Looking forward to your response and having a word with you.
+
+Thank you.
+

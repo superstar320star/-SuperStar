@@ -1,0 +1,193 @@
+-----------MERN
+
+        https://arunabhstore.in/
+        https://www.theshirttailor.com/
+        https://www.prodigygame.com/
+        https://facty.com/
+        https://www.msgsafe.io/
+        https://sms.hamropalika.org/
+        https://harion.hamropalika.org/
+        https://stampsy.com/
+        https://www.shutterstock.com/
+        https://www.hiltonhyland.com/
+-----------vue
+        https://yousign.com/
+        https://www.homekilo.com/
+        https://www.saraiva.com.br/
+        https://www.sports.ru/
+        http://homesolutions.johnlewis.com/
+        https://trackdmusic.com/
+        https://belmontbutchery.com/
+        https://theeternalfit.com/
+        https://travelnoire.com/
+        http://ammos.biz/
+        https://budgetgrocery.com.au/
+        https://sahalremit.com/
+        https://admin.sahalremit.com/
+        http://appset.co.il/
+        https://www.safariremit.com/
+----------shopify
+https://craftyourbar.myshopify.com
+
+https://calm-koala.myshopify.com
+
+-----------react
+        https://preview.themeforest.net/item/koki-restaurant-food-admin-dashboard-react-template/full_screen_preview/29868027?_ga=2.267129869.2013831204.1609983396-1230733830.1609983331
+        https://www.simmons-rockwell.com/
+        https://www.vandergriffchevrolet.com/
+        https://shopping.com/
+        https://www.petsmart.com/
+        https://www.airbnb.com/
+        https://www.thetiebar.com/
+        https://www.mm.xcapade.co/
+D_eryA2021!.com
+D_eryA2021!.com
+
+yonetici@deryakursunsatis.com
+dMwbIMoi7
+---------laravel
+https://www.superbrightleds.com/
+https://www.shopperapproved.com/
+https://www.persofoto.com/
+https://ifworlddesignguide.com/
+https://designnavigator.daimler.com/
+
+
+
+Learning 
+
+redux.js.org
+reactjs.org
+typescriptlang.org
+apollographql.com
+
+
+https://chipshop.finance/ 
+https://niftygateway.com/ 
+https://ageoffarming.com/ 
+http://bestnftmaker.com/ 
+http://moonharvest.net/ 
+https://playboy.bestnftmaker.com/ (token presale site) 
+https://dragonswap.app/
+
+
+Projects: Currently working as a Mobile full stack developer for our potential
+client Gokhana and handling following app (Customer ,
+restaurant , food court ) for food ordering business. (https://www.gokhana.com)
+Gokhan Restaurant App
+Allowing restaurants to interact with customers on the GoKhana platform.
+
+1. Menu Display with cart & Review Order Module with place order
+2. Bluetooth Printer integraton with cordova plugin & Slip Layout
+3. Wallet (Gokash) Transaction
+4. Delayed Takeway with Local Notification cordova for reminder
+5. 	Integration with cordova plugin to accept the credit/debit and other payment mode.
+6. Order Placed by Paytm Qr code and Phonpe Qr code
+7. And Under stand the all flow of the app
+
+
+Gokhana Customer App
+Customers visiting crowded food-courts often have to spend time waiting in line to place an order, and then wait even more for the order to be ready for pick-up.
+
+1 Local Notification Delayed Takeaway with cordova plugin.
+2.Delayed Takeaway UI tool for geting takeaway time.
+3.Paypal Payment Gateway Integration with Custom Tab.
+4.Amazon Payment Gateway Integration with Custom Tab.
+5.Paytm Payment Gateway Integration.
+6.GUI work on restaurant Display categories.
+7.Safari Browser cordova plugin integration for Custom Tab.
+8.Ionic Deeplink cordova plugin integration .
+9.Phone pe cordova plugin development.
+
+
+Gokhana Foodcourt (Partner Fm) App
+1.Mswipe Integration with cordova plugin to accept the credit/debit and other payment mode.
+2.Gokash transaction.
+3.Outlet display Gui..
+4.Menu Item searching.
+5.Dynamic Paytm QR code.
+5.Dynamic Phonepe Qr code.
+6.Bluetooth Serial printer cordova plugin intgration with slip layout.
+
+Platfrom Task with Mongodb Server & Elastic search Server
+1.Item wise Settlement Report with 3rd party commision and murchant final amount.
+2.Email Integration for summary for all settlement report.
+3.Settlement amount from bank
+4.Contruct the all mongodb query As for situation.
+
+
+Platfrom Api Server (loopback) with Mongodb Server & Elastic search Server
+1.Employee Park Api with mongodb query
+2.Categorized Restaurant Api with mongodb query
+3.Web hooks for paypal ,amazon,phonepe,paytm
+4.Record payment transaction which are resposible genrate transaction details from Gateway side
+5.Refund Api for Amazon pay,Paypal,phonepe and paytm.
+6.Gokash Transaction Api with mongodb query
+7.Auto refresh Api for Menu and Outlest according the active status with mongodb query
+8.Collection Report Api with elastic search
+
+
+ 
+Past projects
+[DEFI]
+http://exchange.anoswap.finance 
+http://gainpool.io/ 
+ 
+[ICO]
+https://rouge.network/ 
+http://greencointoken.com/ 
+ 
+https://www.bitrue.com/ 
+https://apps.apple.com/us/app/bitrue/id1435877386 
+ 
+[NFT Marketplace]
+ 
+- https://www.dropbox.com/s/5z26ofr50bf61vy/e5795296-fee5-4811-bf5a-4a8c1cd8ce29.webm?dl=0 
+ 
+- https://test.drypnft.com/ 
+ 
+- https://test.astraguild.io/# 
+ 
+- https://theme.bitrixinfotech.com/nft-marketplace/ 
+ 
+- https://nft-exchange.herokuapp.com/ 
+ 
+- https://imex-frontend.herokuapp.com/ 
+ 
+- https://niftydudes.com/ 
+ 
+[TTK] (ERC20)
+ 
+https://ropsten.etherscan.io/address/0xef1325c6d6ece4ad4df8638b12edbd85a968ef26 
+ 
+[NFT] (ERC721)
+ 
+https://ropsten.etherscan.io/address/0x8545d4edb962dae089a24acafadc35ecfd77c1bd 
+ 
+https://btclottery.io/ 
+ 
+https://warriders.com/ 
+ 
+https://twob.world/home 
+ 
+https://cryptocities.net/ 
+ 
+https://winxderby.com/ 
+ 
+https://www.catandmouse.game/ 
+ 
+[Crypto platforms]
+ 
+https://www.cryptomerchant.eu/ 
+https://exchangeindeed.com/ 
+https://koinon.io/ 
+ 
+[Crypto Wallet]
+ 
+https://play.google.com/store/apps/details?id=com.dryp.wallet 
+ 
+Crypto Web wallet:
+ 
+https://wallet.bitrixinfotech.com/homepage 
+ 
+https://www.dropbox.com/sh/3eavmo1cvhk93ga/AAClmGkd4wLI8kUsb0dD-IbXa?dl=0 

@@ -1,0 +1,58 @@
+I am a full stack blockchain, smart contract developer with rich experience.
+I have been working as a blockchain developer for 5 years and have gained deep knowledge and experience in Solidity on Ethereum, Rust on Solana, ICO, DAO, DEFI, ERC20, ERC721, ERC1155 token, Smart Contract Deployment, Truffle, MetaMask, web3.js Cryptocurrency and NFT.
+I am fully experienced in NFT websites including minting, staking, unstaking, uniswap, whitelist/backlist, presale, public sale, prevent snipping bot, fund distribution contract, integration with opensea, etc so whatever you want in your project I can handle successfully and quickly.
+
+Ethereum | Solana | Binance Smart Chain
+✓ Developing smart contracts by Solidity and Rust programming languages.
+✓ Developing RPC using client libraries such as Web3js.
+✓ Static analysis of smart contracts for gas consumption and optimization using Remix IDE.
+✓ Securing smart contracts using libraries like OpenZeppelin.
+✓ Developing Ethereum dApps using Truffle framework.
+✓ Integration with crypto wallets such as Metamask & Phantom.
+✓ Deploying smart contracts on test networks such as ropsten/rinkeby as well as ethereum/solana mainnet.
+
+Expertise in Private & Consortium Blockchain Platforms
+
+Hyperledger Fabric
+✓ Developing proof of concepts using Hyperledger Composer.
+✓ Integration with Fabric Java SDK.
+✓ Creating RESTful APIs for client applications to communicate with the blockchain network.
+✓ Creating channels, orderers, and peers.
+✓ Deployment and instantiation of Chaincode on channels on cloud services like IBM Bluemix and Amazon AWS.
+
+Web Technologies:
+✿ React.js, Next.js, Redux, Redux-Saga, React Bootstrap
+✿ Node.js, Express.js, MongoDB
+✿ Docker, Sequilize
+✿ JavaScript, TypeScript
+✿ Vue.js, Vuetify, Vuex
+✿ Angular.js. Angular 7,8
+✿ HTML 5, Bootstrap, CSS 3 and preprocessors (Sass or Less)
+✿ ECMAScript 6, ES2015
+✿ API Integrations (Context API)
+✿ Verion Contol Systems ( Git/ GitHub/ Bitbucket)
+✿ Task Management System (Jira/ Trello/ Clickup/ $lack and etc. )
+✿ Laravel, Zend, Symphony, Yii, CodeIgniter, CakePHP, Phalcon, Ruby on Rails
+✿Wordpress, Shopify, Magento, Prestashop, Drupal
+✿ ZOHO CRM, Podio CRM, Bitrix
+
+ Mobile Application Development:
+✿ React Native, IBM Worklight
+✿ Flutter
+✿ IOS Native, Xcode / Swift
+✿ Android Native
+✿ Hybrid App, Ionic / Phonegap / Framework 7
+
+ MY SPECIALIZATIONS:
+— UX/UI: Web design
+— UI/UX: Mobile design
+— E-commerce design
+— Landing page design
+— Web application / Mobile app (iOS and Android)
+— SaaS product design
+— Dashboard design
+MY Goal!!!!!
+I am passionate about providing innovative solutions to my clients.
+I guarantee “QUALITY” in the work which I do. I have a passionate mind to do work. I can assure you my task will not let you down, and you will be willing to do work with me in the future.
+
+I'm thankful to your eyeballs for viewing my profile and excited to collaborate with you for commencing our healthy business relations.

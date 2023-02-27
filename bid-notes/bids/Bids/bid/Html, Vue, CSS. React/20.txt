@@ -1,0 +1,60 @@
+As I front-end engineer I have strong experience of front-end libraries including React.js, RxJS, AngularJS, Vue.js, and Laravel.
+Well, I think the most important things in RxJS are Operators.
+An operator is simply a method that acts on an Observable and changes the stream in some way.
+The purpose of the operator, to modify or filter originally emitted values in the way we need for the project tasks.
+
+I am also familiar with React.
+One of the most valuable parts of React is its component lifecycle, I think.
+At the highest level, React components have lifecycle events that falls into three general categories:
+- Initialization
+- State/Property Updates
+- Destruction
+Understanding these three general categories should help you clearly visualize when certain logic needs to be applied.
+For example, a component may need to add event listeners to the DOM when it first mounts.
+However, it should probably remove those event listeners when the component unmounts from the DOM so that irrelevant processing does not occur.
+
+Best regards.
+Artem.
+
+
+ 
+ 
+ 
+Senior Front-End Developer
+$0.00/hr
+You will be very satisfied with my work quality and work speed.
+
+Thank you. Regards.
+Aretm Servetnyk.
+Skills
+Vue.js
+Vuetify
+HTML5
+ExpressJS
+Redux
+Node.js
+Vuex
+Laravel
+CSS 3
+React
+
+
+
+I know I am applying late, which is a pity, but I can feel in my heart that I am the right candidate for the project and I am ready to start RIGHT NOW, |
+
+Carrying more than 5 years of hands on experience in the field and knowing all the principles and patterns of JavaScript, Vue.js, React.js and CSS I am assured in handling each requirement of your project on the highest quality level and use the most well thought out ways and solutions.
+
+Here check some of my previous projects in the stated techstack and be sure of my expertise.
+
+https://trylikes.com
+
+https://hugeinc.com
+
+https://100asa.com
+
+I am full time available now and am ready to start working asap
+
+Reply me to discuss the details and let's start.
+
+Thanks
+Andranik

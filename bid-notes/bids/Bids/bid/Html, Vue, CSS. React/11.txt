@@ -1,0 +1,94 @@
+Hi there!
+Hice to meet you 🙂
+Stack: React, Redux, Saga, HTML, CSS, SCCS, Flex, GraphQL- Yaroslav
+Stack: React, Redux, Saga,Hook, HTML, CSS, SCCS, Flex- Vyacheslav
+I am Senior Front-end React developers, who fit your requirements and will be happy to work with you! I am available 40h/week and ready to start ASAP. I will fulfill (I am actually one of the most experienced developers we have, not taking CEO into account) and true masters at React, Google Firebase and responsive design. 
+
+Just a few facts about me:
+✅ 6 years in development
+✅ 8 successful startup projects
+✅ 34 successful enterprise projects as a developer
+
+I am an Even More- React-oriented developer with deep experience in React, JavaScript, Redux, Saga, HTML5, CSS3, SCCS, Flex, Node.js, ES6, to name just a few.
+Having experience in both website creation from scratch and constant maintenance and testing, I will be happy to help you with your website development.
+
+Have a look at some of my portfolio projects:
+✔️https://peanut.trade/hedge - Peanut Hedge allows liquidity providers to easily hedge risks of impermanent loss (IL) by providing access to CEX crypto options without the need for KYC.
+Deliverables I carried out:
+* Software designing, research, and analysis for system design;
+* UI components development;
+* Dashboard creation;
+* Communication with customers;
+* Development of database design;
+* User interface development;
+* Implementation of new API services;
+* Integration API service with existing core services. UI, Custom-development, back-end.
+Features I created and implemented:
+* Hedge calculation
+* Keys encryption
+* Remove and add hedge
+* Dashboard with available position and your position
+* Statistical data
+
+✔️ https://remme.io/keyhub - Remme Keyhub is a cloud platform to automatically discover, organize, and track all SSL/TLS certificates in the enterprise.
+My responsibilities:
+* Building a new application from the greenfield;
+* Direct communication with CEO and product owner;
+* Design and development of UI services;
+* Shared components libraries implementation;
+* Code quality maintenance;
+* Architecture improvement and refactoring;
+* Reviewing work of development team;
+* Creating workflow of features from design to production.
+Features I created and implemented:
+* SSL/TLS auto-discovery;
+* Subdomains scanning;
+* Inventory and Dashboard;
+* CT Logs monitoring;
+* Expiration alerts;
+* CSR decoder and generator.
+
+✔️https://www.rocket.do/ -Rocket builds digital wellness experiences that help people improve their wellbeing.
+My responsibilities:
+* Creating workflow of features from design to production;
+* Creating new UI architecture;
+* Creating the core of the infrastructure, code-base, and tech-stack;
+* Regular demonstration of results and resolution of stakeholders' problems;
+* Working on requirements;
+* Creating API core service on node js;
+* Implementing authentication with ath0.
+Features I created and implemented:
+* Main editor;
+* Mood diagram;
+* Diary;
+* Filtering and sorting;
+* Ability to change background and music;
+* Shortcuts for the editor;
+* Shortcuts for the editor;
+* Authentication by google.
+
+I'm also attaching the code sample.
+
+If you want to collaborate, should we discuss it more over the chat?
+Looking forward to hearing from you soon,
+Even More
+
+
+
+
+
+Hi there! I have high proficiency in coding. Also, I can initiate a project skillfully and maintain consistency. For the past 6 years, I'm a full-stack developer. I have solid hands-on HTML5/CSS3/JavaScript, in particular, and have extensive expertise with SASS(SCSS), Bootstrap3, and jQuery as well as with React.js/Redux and Vue.Js.
+
+Please have a look at some of the amazing ideas which I convert into running apps:
+
+- https://lawzebras.com
+- http://learn.allinacademy.com
+- http://operations19.com
+- https://d1jszq6oajydel.cloudfront.net/signin
+
+If any of the above sounds interesting let's have a quick call or chat for further discussion.
+
+Hopping for a good hearing from you soon.
+
+Best Regards,
+Zeeshan

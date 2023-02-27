@@ -1,0 +1,23 @@
+https://web.danceplug.com/ ---- {Vue.JS}
+
+1. http://choprinc.com/
+
+2. https://www.vanagain.com/
+
+3. https://www.pinpoint.promo/
+
+**Vue projects**
+
+1. http://choprinc.com/
+
+2. https://www.vanagain.com/
+
+3. https://www.pinpoint.promo/
+
+https://www.ohmconnect.com (Flask, VueJS, Mysql, Jinja2, Redshift, Celery)
+https://www.hipcooks.com (VueJS, Python/Flask)
+https://printnetwork.com (MEAN stack)
+https://rline.io (NodeJS, PostgreSQL)
+https://auav.com.au/insite/ (MERN stack)
+
+

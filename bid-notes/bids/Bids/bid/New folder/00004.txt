@@ -1,0 +1,65 @@
+Hello,
+I have reviewed your proposal and would like to be considered for the project. I currently have availability for this project and am available to start at your earliest convenience.
+
+Here are some projects that I have previously worked on:
+https://bitcoin-made-easy.com
+https://joshwoodcolour.com/
+https://lilledkoju.ee/
+https://zontjk.com
+https://heskethproperty.com
+https://www.compareme.co.uk/products/sip-trunking/
+https://changingeducation.co.uk/home/ App (iOS/Android)
+https://birdbox.film
+http://www.markortech.com
+https://www.emop.co.uk app (iOS/Android)
+
+This is how I do the development phase
+1. Project setup:
+Create issue tracking boards(I prefer ClickUp, but Jira, Asana, Trello).
+Create version control repository(needed to track changes history and deploy).
+Setup deployment environments, ideally go with 3:
+- staging
+- pre-prod
+- production
+2. Development process depends on the technology of your choice, I’m familiar with:
+Frontend:
+1) HTML, CSS, Bootstrap, BEM - 8 years
+2) JS, JQuery - 8 years
+3) React.js, Vue.js, Redux.js - 6 years
+4) GraphQL, Apollo - 3 years
+5) Gatsby.js, Next.js - 4 years
+6) TypeScript - 4 years
+Backend:
+1) Ruby (Ruby on Rails) - 2 years
+2) PHP (Laravel, GraphQL) - 8 years
+3) Shopify - 5 years
+4) MySQL, PostgreSQL - 5 years
+5) WordPress - 8 years
+6) (WooCommerce), OpenCart - 4 years
+3. Test coverage(optional, could be omitted to cut off the budget).
+4. QA + Documentation.
+5. Launch.
+
+I’m ready to start as soon as needed. I look forward to hearing from you if you choose me for the job.
+
+Kind regards,
+
+Hi. How are you and your business?
+I read your project description carefully and understood everything what you want.
+I have built more smart contracts using ERC-20 and ERC-721 custom tokens which will work on Ethereum, Binance Smart Chain, Solana, Algorand and I was responsible for building NFT Marketplace and created custom tokens using openzepplin, implemented MetaMask, Torus and other wallets to increase user experience.
+
+Special: Web3.js, React, TypeScript, Node, Vue, Angular, Solidity, Node, Rust, Pyteal and so on.
+I have developed some similar projects with your project before. So we can complete this project clear and fast.
+If you award this project to me, you can get a cool result.
+I am online most of our time, so can quickly communicate with you.
+
+*These are my past works.
+https://koalaintelligence.agency
+https://shroomz.cool
+https://ethereummax.org/
+
+Supports strong fashion and business style, you can build the perfect front end and back end.
+I provide my customers with the best products in which fashion, style, gorgeousness and delicacy are in harmony.
+Could you discuss your project with us now?
+I am waiting for your nice reply now.
+Thank you for your time

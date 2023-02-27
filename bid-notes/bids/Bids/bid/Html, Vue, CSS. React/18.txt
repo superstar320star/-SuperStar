@@ -1,0 +1,113 @@
+Hi there!
+I have a rockstar React Developer for your future website! You can find his CV in the attached files. 👀
+
+Serhii is a talented, hardworking, and responsible developer. He is passionate about learning new technologies and interesting tasks solving. His main competency is front-end web using React and back-end NodeJS web development.
+
+In order to check his level of expertise, I propose you view one of Serhii's React projects:
+1) Solution for simulation and management - https://academysmart.com/cases/solution-for-simulation-and-management/.
+
+To get to know Serhii a bit closer and overall to understand whether it is exactly that person whom you need, you can get acquainted with his professional skills:
+- 3 years of professional development;
+- deep knowledge of JavaScript/ Typescript languages;
+- wide experience with React.
+
+Other skills:
+- knowledge of English (Intermediate);
+- experience with HTML/CSS;
+- high level of reliability.
+
+Quick questions from me:
+Can you please share more detailed tech specifications for your future website?
+What will be the core responsibilities of the developer?
+How is the development process will be established during the project?
+
+I want to propose you have a short call to discuss all the details. For example next week, what do you think?
+
+Best regards,
+Iryna
+
+P.S. Maybe Serhii is exactly the person that you need, who knows😉
+
+Academy_Smart.+Let%27s+Develop+Smart%21.pdf (24 MB)
+SERHII+P.pdf (755 KB)
+
+
+🔥 🔥 Hi.
+
+I have 5+ years of website development experience and would be happy to build the best one for you.
+
+I'm a pixel-perfect Front-end Developer with JavaScript, CSS/HTML proficiency and strong Vue, React expertise.
+
+Please take a look at my recent projects:
+• Advanced payment gateway solution to process secure and safe payments
+Case study: https://codemotion.ninja/portfolios/acceptblue/
+Website: https://accept.blue/
+
+• Crypto banking with 50,000+ users
+Case study: https://codemotion.ninja/portfolio/#trastra
+Website: https://trastra.com/
+
+I suggest having a call to discuss further details and understand how I can assist you the best. What time works for you?
+
+All the best,
+Artem
+
+P.S. Codemotion is a team of 80 JavaScript Ninjas, 120+ launched MVPs, $9M+ on Upwork.
+Upwork profile here - https://www.upwork.com/ag/codemotion/
+More projects here - https://codemotion.ninja/case-studies/
+
+
+Hello,
+
+I reviewed your job application am glad to share that we have a team of experienced & dedicated developers in-house who have years of working experience with Vue.js, Vuetify.js, VueX, React.js, JavaScript, jQuery, CSS3, HTML5, Bootstrap4, Typescript, MySQL, PostgreSQL, REST, JSON, SOAP, WCF, Web API, etc and have built various large-scale enterprise-level **WEBSITES/WEB APPS** as per the clients' requirements in the past. We have both frontend and backend development skills.
+
+**Let's schedule a meeting to have a quick call to discuss your requirements in detail so we can come up with our feedback, recommendations, & estimated time along with the detailed proposal.**
+
+OUR TOP WEB APP EXAMPLES ARE:
+=============================
+>> https://boomcaster.com/ (Podcast, Vodcast, and Livestream Platform)
+Boomcaster has the ability to podcast, videocast, and Livestream while recording separate high-quality tracks for each participant for post-production. It records separate streams for each participant locally and uploads them to the cloud. Boomcaster also provides a Zoom/Skype-like recording as a backup.
+
+>> https://www.7founders.com/ (Capital Match-Making Application to connect investors & startup companies)
+**Features:**
+- Users (investors & startups) create a profile.
+- Startups can create the project on the portal for funding
+- Investors can find the projects/ startups
+- Investors can analyze the RoI using powerful tools
+- Tasks listing & Management
+- Investors can deploy their team to complete the task
+- Startups get funding for the same
+
+>> http://easywebinar.com/ (SaaS-based Webinar & Video Conferencing Application)
+We have recently developed a Webinar & Video Conferencing Application using Licode MCU (Multipoint control unit) based on WebRTC/ Voxeet technology to build a component for live streaming, chat rooms, and live to poll. etc. Users can do peer-peer text and video chat, screen sharing as well as also can do group chat too. There will be 4 presenters who can give a presentation simultaneously to many attendees.
+
+>> https://www.luxavie.fr/ (Financial assets platform of wealthy private investors)
+LUXAVIE to provide our clients with protection, performance, and transparency: life insurance in Luxembourg, fixed costs, and relevant and intelligible ETF-based management.
+
+>> https://www.easysuite.com/ (SaaS-based CRM and Lead Management System)
+It supplies you with leads, the ability to save and manage those leads, and gives you the ability to market to those leads through powerful marketing campaigns. We have also implemented the VOIP/ Predictive Dialer System using Twilio API to communicate or follow up with clients through Calling, SMS, and Emails.
+
+>> https://agentalive.tech/ (SaaS-based Insurance Application with Real-time Solution)
+This platform allows clients to connect with their agents through a live video chat using Tokbox. Users can scan documents and exchange them in real-time, Sign and exchange E-sign documents, make payments (Using stripe), view proposals from your agent, and even be rewarded for sending in referrals to your agent.
+
+>> https://www.clientpoint.net/ (SaaS-based Online Proposal Writing and Sharing Application)
+Client Point is a cloud-based proposal presentation and tracking software for Sales, Management, and Marketing. A user can write online PROPOSALS (QUOTATIONS, CONTRACTS) or create multi-media proposals and share them with their clients/prospects. It provides analytics on users and customers (time spent on a page, email collection).
+
+Further, we follow a well-documented development process starting with a hybrid approach in which we gather requirements, document them, work on UI/UX, and finally move to development, test planning & execution, and deployment. Here is a detailed breakdown of our deployment process:
+
+• **Requirement Gathering & Documentation**: Understanding your idea and preparing detailed documentation.
+
+• **User Experience & Design Thinking**: Bringing innovative solutions and the best customer experience onboard.
+
+• **Development**: Following an agile approach consisting of bi-weekly sprint planning, well-defined tasks, weekly reviews.
+
+• **Test Planning & Execution**: Writing unit test cases to reduce issues, and ship a stable product into the market.
+
+• **Deployment**: Building an end-to-end DevOps strategy. We follow the CI/CD approach to achieve continuous integration & deployment.
+
+We use tools like Azure DevOps, Jira, MS Team, and Confluence, and Bitbucket to plan smarter, collaborate better, and ensure continuity throughout the entire project. We also have expert teams working with cloud providers like Azure, AWS, and GCP.
+
+We look forward to working with you and building a long-lasting working relationship.
+
+Best Regards,
+Amneesh

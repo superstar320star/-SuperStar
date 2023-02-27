@@ -1,0 +1,73 @@
+Hi,
+My name is Mo, and I read your description carefully, and I still have a few questions regarding your job. Regarding me, I have a Ph.D. degree in Software engineering. I have in-depth experience in Rust blockchain programming, particularly DApps projects (integrating web3 APIs as well) in Rust for Solana and recently NEAR. I am also fully aware of blockchain-associated concepts,
+such as the pros and cons of various blockchain architectures (including Solana, NEAR, Ethereum, etc.) and Web3 integration in React and PHP. Designing SPL tokens and NFT contracts
+in Rust for the Solana SDK, and designing ERC20/721/1155 tokens for Ethereum and Binance Smart Chain, understanding trusted execution environment (TEE), the MEV inspection, and performing security audit and exploitation of various blockchain codes.
+In addition to NDA-signed commercial projects, I have also designed some FOSS projects in Rust for the Solana ecosystem, and you can later check out my GitHub repository here:
+https://github.com/mohammadreza-ashouri/
+
+
+Due to my cybersecurity background ( you can check my papers and videos), I often use customized libraries in order to sanitize malicious transactions and secure my tokens against cyber attacks.
+Moreover, I have been working as a full-stack web developer for several companies such as Berlin Digital Career Institute (Berlin DCI) for a few years. I have developed many commercial web applications via React and Node.js for different individual startups. Thus, I can contribute to your project in interface programming as well.
+
+In general, I am using full-stack technologies and protocols such as follows in my projects:
+
+Rust
+Solidity
+Graphql (querying data)
+Anchor (Solana)
+React
+Truffle
+Openzeppelin
+Ganache
+Web3.JS
+
+
+Apart from designing a high-quality blockchain program (token, NFTs, Dapp, DeFi. etc.), safety and security would be the next critical point in my designs. Because smart contracts (blockchain apps generally) are immutable, developers CANNOT fix any bugs/vulnerabilities after releasing the smart contract on a target blockchain.
+
+Accordingly, introducing a reliable and successful smart contract project requires sufficient programming knowledge and extensive knowledge and experience of security audit/fuzzing and understanding various security threats in this emerging ecosystem. In this regard, I always perform the following security vulnerabilities testing during my blockchain developments:
+
+Integer Overflow and Underflow
+Reentrancy
+Timestamp Dependence
+DoS with (Unexpected) revert
+Block Gas Limit Bug
+Unexpected Ether balance
+Incorrect Inheritance Order
+Sandwich Attack
+Front-running
+
+For more details regarding my security skills, please check my security service startup at the following link:
+https://securecontract.io
+
+In terms of code documentation, smart contract documentation is a critical part of a blockchain development lifecycle. It must be carried out
+to create a full-fledged and highly reputable piece of code. Note that in the absence of proper code documentation,
+if you hire a new developer who joins your team in the future, she won't be able to peak into the system and understand how it works efficiently.
+For my smart-contract projects, I often use cargo-docgen, which introduces one of the best forms for smart contract documentation.
+
+For further information, please browse my cv (blockchain projects for more details) and check out the following links:
+
+
+https://ashouri.us/ (my webpage)
+https://github.com/mohammadreza-ashouri/ [all my open-source projects]
+https://github.com/mohammadreza-ashouri?tab=repositories&q=rust&type=&language=&sort= [my Rust based projects]
+
+https://securecontract.io
+https://github.com/mohammadreza-ashouri?tab=repositories
+https://github.com/mohammadreza-ashouri/Multisig-Solana-Rust-Wallet
+http://persimmonweb.com (some of my old websites)
+https://dl.acm.org/doi/abs/10.1145/3341105.3374226?casa_token=g425J-iVtXEAAAAA:gNadBgqYJ49AzyMefMzh6ZIctoHFd74aEXflIgkZ0kC-Ilz7Zry0U6XW6JVbejhEt8CS99UTeqvm
+https://2019.splashcon.org/details/splash-2019-Posters/2/Etherolic-A-Concolic-Execution-System-for-Security-Analysis-of-Smart-Contracts
+https://sessionize.com/mohammadreza-ashouri
+https://2020.ecoop.org/profile/mohammadrezaashouri
+https://www.acsac.org/2019/files/web/acsac2019_thu_poster_ashouri.pdf
+https://hacktivity.com/index.php/speakers/dr-mohammadreza-ashouri/
+https://blog.deepsec.net/deepsec-2020-talk-taintspot-practical-taint-analysis-and-exploit-generation-for-java-dr-ing-mohammadreza-ashouri/
+https://www.youtube.com/channel/UCp2VCfFn13kXwJd1HFBCa7Q (this is my YouTube channel)
+https://www.udemy.com/course/how-to-make-a-cross-platform-ransomware-in-java-step-by-step/
+https://stackoverflow.com/users/5341528/ashouri
+
+If you have any questions please feel free to book a 15-minute meeting with me here: https://calendly.com/ashourics/meeting-mo-15
+
+MY CV: https://ashoury.net/CV/
+All the best,
+Mo

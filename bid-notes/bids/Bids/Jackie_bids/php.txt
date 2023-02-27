@@ -1,0 +1,93 @@
+
+I have around 3 years of experience working with the Laravel web framework. Also, I regularly contribute to open source projects on GitHub (http://github.com/adl1995).
+
+My current tool-set for front-end development includes BootStrap, VueJS, and JQuery. Having good design aesthetics, I can create attractive web pages. Having worked in this field for quite a while, I have analyzed how a user interface affects user experience, so, my aim is to keep all the design simple and user-friendly.
+
+Apart from my web development skills, I was also a participant of Google Summer of Code 2017 where I contributed to OpenAstronomy (an open source organization), and created a Python package for viewing astronomical figures (http://hips.readthedocs.io).
+
+I write clean and optimized code as evident from my GitHub projects. I also believe in software testing and good design principles, therefore, I think I would be a great fit for this job.
+
+Some of my projects are listed below:
+
+Klokker (Laravel + VueJS)
+----------------------------
+
+Klokker is used to keep track of your time (seconds, hours, minutes etc). Projects managers following the SCRUM workflow can enter in details for their project and assign a specific deadline to each task. Other information such as cost per hour is also provided, through which reports get generated. Other features such as adding / editing company details is also provided.
+
+The application is built with Laravel 5.3 and uses Vue.js as its front-end framework. The database is a standard MySQL. Data updating / querying is done through a independent API which makes the workflow more authentic.
+
+URL: https://dev.klokker.nl/login
+
+Amazon ASIN tracker (Laravel + VueJS)
+-------------------------------------------
+
+This is a minimal web application built using Vue.js components. The components use props for communicating in between. All files are independent and the data is embedded in the HTML using this information. API calls are made using jQuery. The tool that displays trend data for certain products on Amazon. The user enters an ASIN (essentially just an Amazon SKU) and the tool will load graphs relevant to that ASIN. Graph data is pulled in from Keepa and Google Trends. The Keepa graph is a simple image that is display using an <iframe>.
+
+Zoho portal (Laravel)
+-----------------------
+
+Zoho is a CRM for managing customer data. The application is built on top of Laravel 5.2 and uses a Google SQL server for storing the data. Zoho reports are automatically synced every 24 hours through cron jobs. API querying is done through PHP cURL. For charts generation 'consoletvs/charts' package is used. Other features include a secure login functionality and admin dashboard for viewing customer data, the contacts and verified emails are pulled in from the Zoho API and pie charts are generated using the previously mentioned package. Other features such as suspending a user is also provided for the administrator. 
+
+
+-----------------------------
+
+
+
+Hello
+
+I'm senior full-stack web+mobile developer - 10+ years of experience reflected in my Upwork reviews. Located in Eastern Europe(Minsk, Belarus), available for full-time(no day job) and ready to start immediately.
+I'm using OOP and MVC concepts and development patterns in my work and always willing to learn and try something new.
+
+Skills:
+1. PHP5.x/PHP7.x/MySQL backend development using frameworks like Symfony, Laravel, CodeIgniter, Yii and others
+2. Frontend development - Angular, React, Vue, AJAX/jQuery, Bootstrap and other related tools
+3. Hybrid apps development - Ionic, PhoneGap/Cordova, Appcelerator/Titanium.
+4. All related stuff - RESTful APIs, Git, Linux, Doctrine, Eloquent, PHPUnit, Jira, SCRUM, etc.
+
+My key features are experience, "I can do" and "I can solve this problem" attitude, responsibility, proactive position.
+Ready to sign NDA and/or do test task.
+
+Regards, 
+
+
+
+--------------------------
+
+
+Hi,
+
+I am interested in your job because we are looking for long-term projects that suit to our tech stack. I would like that my ASDins agency developers help you with WordPress installations at first.
+
+We are full cycled IT development product agency with the WordPress development experience of 5 years, we also created Woocommerce plugins. Our JavaScript and PHP programming experience is about 3-10 years. My SQL experience is about 7 years. CSS, CSS3, HTML, HTML5 and Bootstrap skills are inalienable. Every member of our team has both conversational and written English. Moreover, we are specialized in Big Data Processing and Complex Architecture of Mutually Connected Pages and Modules.
+
+Our intention is to accomplish our work in the best way and provide the quality web development. I have been working as the freelancer with TOP rated level and Job Success of 100% and I would like my team has the same achievements on Upwork as I.
+
+Have a look at our projects:
+
+https://thesourcebookonline.com/ (WP for blog)
+https://www.herbandsky.com/ (WP)
+http://journey.ctemf.com/
+https://bookingpal.com/en/
+http://suxeedo.de/ (WP)
+http://mortgagerates.icanbuy.com/?id=6958e75ba6b00b8b#
+
+I look forward to hearing from you.
+
+-------------------
+
+Hi, Han,
+
+Web Development is one of our main specializations, as well as Mobile Development and Design. We can work on wide range of tasks from a front-end to a back-end, storage, database, hosting, clouds. We have all the necessary resources, professional software, and skills to do this work.
+
+Mentalstack (http://mentalstack.com/) is the full-service digital production company. We have a solid team of 28 full-time professional web, mobile developers, QA, and designers. We prefer full-time, long-term projects. We are ready to sign NDA, and we never disclose information about the project.
+
+As a bug tracker, we use Jira, Trello. We prefer to use Agile (Scrum, Kanban), and short iterations together with CI/CD to minimize release risks. All our team members have fluent English. We will be glad to create an awesome product for you or provide you with a dedicated team.
+
+
+
+
+
+
+
+
+---------------------

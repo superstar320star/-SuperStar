@@ -1,0 +1,34 @@
+Dear Sir/Madam,
+
+My name is Anthony Vipond and I have a Junior Full-stack Developer available now who can work full-time. He is also highly skilled with PHP, HTML, CSS, JavaScript, and React. He has years of experience using the PHP framework and is able to provide you with a high-quality and robust backend that adheres to S.O.L.I.D. principles. Our developer is also a database designer and will ensure that your application runs on a database passing first, second and third normal form.
+
+Some full-stack projects he has worked on include:
+
+https://www.thepushupchallenge.com.au
+https://amon.tech
+https://ionicaid.com/
+https://rabbitcare.com/en
+https://simplyearth.com/
+https://oqea.com/
+https://staclar.com/
+https://onesocial.winterwind.com/
+
+Winterwind is a website and mobile app development agency based in Vancouver, Canada. We have further specialization in blockchain and payments integration such as Stripe. See more details about our company at https://www.winterwind.com. We have been Canada's most affordable IT consulting firm since 2018.
+
+Our agency is unique in that we are doing development six days per week. We also have strict processes in place here to ensure that our clients are updated on a daily basis. The end-of-day updates by your resource here will contain details on what was done, bringing up blockers or questions, along with accompanying photos or screencasts to make it easy for you to review the day's progress. Your staging environment is updated daily and your developer will always push their code at the end of the day.
+
+We have a zero-bug policy and we will set up error reporting for your application and squash any bugs as they come. We will also host a staging environment for you at no cost so you can test your application at any time.
+
+Winterwind differentiates itself from other agencies due to myself overseeing and managing your project at no extra cost. My oversight is built into the resource cost and you can reach out to me at any time. I will also function like an HR manager on your project, helping you add any other resources onto your team such as UI designers, CSS ninjas, Project Managers or DevOps on an as-needed basis.
+
+The other way that our company differentiates ourselves is by offering free managed hosting within AWS for both your staging and production environments. This is of USD $600 value and includes a shared XXL EC2, XL RDS, Cloudfront CDN as well as monitoring through CloudWatch.
+
+I would be more than happy to give you more details about our agency and the way we work over a call. I look forward to hearing from you!
+
+Regards,
+
+Anthony Vipond
+Founder & CEO
+Winterwind Inc.
+www.winterwind.com
+https://calendly.com/winterwind/discovery-call

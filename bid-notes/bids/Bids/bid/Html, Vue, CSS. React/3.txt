@@ -1,0 +1,56 @@
+Let's get things done! 🚀
+If you need A-grade development quality and HIGH-performance for your project - you've found the Senior Front-end developer who knows the best React Vue practices to provide you clean, efficient, and reusable code with pixel-perfect design implementation.
+
+✅ I developed 4 Enterprise large scale projects and 7 medium size with UI and Business Logic
+✅ 6 years of experience with React following best and most updated practices
+✅ Available 40+h/week for long term
+✅ Fluent English
+✅ My CV and React code sample is in the attached file.
+
+You will receive a competent expert with a Master's Degree in Computer Science and 6 years of successful experience using React and implementing, fixing, reviewing, and optimising any functionality with attention to details, quality, performance, architecture, and your budget.
+
+Briefly about my skills:
+✔️Javascript/Typescript/HTML/CSS (7 years)
+✔️React, Redux /redux toolkit(6 years)
+✔️ Vue.js
+✔️Hooks, Styled components / AntDesign/Material UI
+✔️API integration / REST APIs
+✔️Translating designs and wireframes into high-quality code
+✔️ Proficient understanding of cross-browser compatibility issues and ways to work around them
+✔️ Testing (Mocha, Jest, Cypress)
+✔️ Git
+
+For example, here you can see some of my relevant projects using React:
+💎 https://piedwork.com
+It's a SaaS solution that shows the team workload, financial KPI of the company, calculates revenue and reflects indexes of the monthly company work.
+In the attached files, you can see the screens of how the system works and React code sample.
+
+💎 https://knowi.com
+Its a complex Enterprise BI platform that unifies analytics across unstructured and structured data.
+
+💎 https://www.toornament.com
+The idea of the startup was to build a platform that will bring value for gamers, spectators and event organisers.
+
+I don't want just to do tasks without thinking of product performance and optimisation, as I'm obsessed with code quality.
+My goal for your project is to:
+🔹 Ensure that React components and the overall application are robust and easy to maintain.
+🔹Produce “clean” and well-structured code, with detailed specifications. This means that my code is commented, well structured, readable and comes with documentation.
+🔹 Identify, uphold and apply web engineering best practices
+🔹 Review existing web app code, new code and plan future app upgrades with the development team
+
+Mostly on all my serious remote projects, I was working in teams of up to 10 people.
+I've collaborated with project managers, designers, system engineers, architectures, other front-end developers and back-end developers in an Agile environment across the entire product lifecycle.
+
+What are the next steps?
+
+Anton_S_CV.pdf (64 KB)
+context%28TypeScript+_+React+_+Redux+_+Redux-Saga%29.tsx (10 KB)
+dashboard.png (122 KB)
+Contract+Page.png (442 KB)
+Plan.png (148 KB)
+
+
+
+Hi there! my name is Yurii, I'm a experienced developer with more than 3 years of React practice. I'd like to join your position and help with the developing processes of a single page app since I'm a really competent, motivated, and proactive developer.
+
+I have extensive experience working React and many other additional tools and programs such as Typescript, HTML, CSS, Bootstrap, Material UI, JQuery, Redux, etc.

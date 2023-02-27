@@ -1,0 +1,73 @@
+Hi,
+
+I need your actual requirements defined to estimate fixed price, by milestone.
+If I work hourly, it is $250/hour, if I work based on milestones effective rate is about $100/hour.
+I.e. to have fixed requirements is cheaper for you :-)
+
+see possible milestones of regular NFT collection sales site:
+1. server installation for NFT storage & site itself (linode: centos/nginx/security ..- $750
+2. minting smartcontract - $2000
+3. 'skeleton site' - only core user part (pay with Eth & get NFT), zero design..- $1500
+4. 'skeleton site' - admin part (manage smartcontracts), zero design - $2000
+(all above will work on testnet - Kovan, contracts will be verified on Kovan..)
+
+5. video with full explanations - $1500 [optional, only if you need it]
+
+[ after that will be frontend dev part (can recommend) - beatification of UI, testing..and when ready we will proceed to deploy on mainnet, guy I can recommend is $45 /hour]
+6. deploy on mainnet support (will be done via zoom - i.e. you will do deploy from your wallet, I will support and help) - $500 [optional, if you need it]
+7. verification on etherscan - free
+8. help to add collection to OpenSea (remote)- $500 [optional, if you need it]
+
+built a lot of NFT related smartcontracts (ERC721), also tokens as ERC20, also BEP20 (ERC20 on Binance Smart Chain), staking contracts, borrow.. and so on. Ethereum, BSC.. any Ethereum-compatible blockchain.
+https://nftgame.me, nft.etna.network , nonfungible-art.net, droplt.co & 10+ others
+
+
+See etna.network ecosystem - smartcontracts done by me. A lot of experience in the area.NFT maketplace - nft.etna.network, crypto bank - debank.etna.network, tokens, crowdsale.
+
+I have a lot of experience in blockchain, private blockchains, fintechs and banking ...you can google me - "sergey chekriy".
+Ph.D in computer science.
+Have implemented private corporate blockchains.
+
+
+forbes article mentioning me & my project: https://www.forbes.com/sites/kenrapoza/2018/04/29/meet-the-russians-behind-your-blockchain-and-cryptocurrency-too/#9860813b8687
+
+videos of last project
+https://www.youtube.com/watch?v=5qdgqhgSmN8
+https://www.youtube.com/watch?v=z8LYJ_OB7ns
+https://www.youtube.com/watch?v=0HDnEiKA2Zk
+https://www.youtube.com/watch?v=XtprF1nsm4s
+https://www.youtube.com/watch?v=G8tvvUkQYXs
+https://www.youtube.com/watch?v=usVx8KNqLdI
+https://www.youtube.com/watch?v=uxrnVCSskq0
+
+My stack-
+backend: node.js, C/C++ (if you want to build own blockhain..)
+frontend: pure javascript/html5/css
+databases: posgresql, mongo, mysql, leveldb..oracle
+also a lot of advanced architectures, i.e. with use of API Gateways, BPMs, BI servers, buses, queues
+
+I am experienced architect/software engineer, experience with LAMP, MERN, Linux administration,
+security hardening, databases, scalable architectures, penetration testing, experience with linode and other hosting platforms.
+I have huge experience in IT projects including startups in fintech & blockchain, platforms (B2B & B2C). Also have wide hands-on experience in backend and front-end technologies..
+
+regarding projects:
+latest project - enterprise blockchain platform.
+Also, e-ordering for Eli Lilly (web app btw manufacturer, distributors, logistic company)
+Supply chain system for British American Tobacco (btw distribution reps, marketing reps, shops,, thousands of users..)
+etc. etc. more than 30 platforms.
+Sites: cryptodigest.org, hrgolive.net, intrusionlab.com, wealthzone.ru, interiore.net, id-chain.net etc..
+
+References are available upon request.
+
+Key experience - enterprise-grade IT architecture, various IT platforms, last corporate position - chief enterprise IT architect in Societe Generale.
+Can suggest architecture to ensure vertical and horizontal scalability, cost-effective support, easiness of customization etc.
+
+
+See whitepaper - https://github.com/sergey-chekriy/i-chain.net/blob/master/i-chain.net.wpaper_rev_005.pdf
+see videos - https://www.youtube.com/channel/UCVH3qc1m99bgB014fJLnOmA?view_as=subscriber
+
+
+check my github: https://github.com/sergey-chekriy
+See attached CV, samples. See portfolio in my profile.
+https://github.com/sergey-chekriy/cv/blob/master/cv_sergey_chekriy_it_architect.pdf
+https://github.com/sergey-chekriy/cv/blob/master/sergey_chekriy_samples_all_in_one_min.pdf

@@ -1,0 +1,16 @@
+Hello, how are you?
+I have read your description very carefully and I am very interested in your project.
+I am a frontend developer that have skills such as react, redux, vue, vuetify, nuxt, vuex, and etc.
+I have developed many frontend projects with react, next, redux, vue, vuetify, nuxt, vuex and etc and integrated with rest api such as node, laravel and etc.
+These are my past vue projects.
+https://www.orangetheory.com/en-us/ (React.js, laravel, mysql)
+http://www.brescadc.com/ (React.js)
+http://www.romwe.co.in  (Vue.js)
+https://www.rudolfson.com/ (Vue.js, Nuxt.js, Node.js)
+And I have also rich exprience in git, jira, trello, slack and etc.
+If you feel I'm an appropriate fit to get this job done for you then please get in touch with me. Also, I would be happy to set up a convenient time to discuss more the application.
+Awaiting an affirmative response from your end.
+Hope to work with you for a long term.
+Thank you for your consideration.
+
+Best Regards.

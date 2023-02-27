@@ -1,0 +1,300 @@
+My major areas are Python/RoR/PHP/Android/iOS/React Native/front-end development, there are about 100 guys with strong skills and decent practical experience in these technologies.
+
+I'd like to find out more about the project to define the best options for its fulfillment. Do you need one dev for all - JS and Python programming? Or you consider possibility to separate backed from front end tasks and hire separate specialists for this project? According to our experience, hiring two good professionals can actually save a lot of time on development (and money, consequently)
+
+Does it work for you? If so, ping me to discuss further.
+
+Best wishes,
+
+---------------------------------
+
+I'm very happy after applying your job because I'm having similar experience in my past as you have mentioned in your job.
+
+I’m highly experienced with Nodejs, Express, MongoDB, Angular and ReactJS .
+
+I like going full-stack with most of the projects I work on, from server configuration to database design and back-end construction and constructing RESTful API's and always love to give my advice and recommendations on enhancing and optimizing current systems.
+
+My main focus is attention to details to achieve high accuracy and Quality to ease workflow.
+
+Skills I can offer you :
+
+Server side:
+-Node.js
+-Bash Scripting
+-Linux Administration
+
+Client side:
+-React & Redux.
+-Angular 2+
+-Javascript, jQuery
+-HTML5, CSS3
+
+Databases:
+-MySQL
+-MongoDB
+
+Cloud Solutions:
+-AWS: EC2, S3, Elastic beanstalk.
+-Heroku
+
+Other:
+-Social Media API's ( Facebook, Twitter, Linkedin )
+
+-------------------------
+
+I am a full-stack JavaScript/PHP/Python developer with expertise in Node/React/Vue/Angular, Symfony/Laravel/CodeIgniter, Django/Flask, etc.
+I have worked on a lot of projects with JavaScript/PHP/Python.
+And I am proficient in HTML/CSS, AWS, etc.
+
+I will be always available during project progress, and my full-time work will be dedicated to the project.
+
+Can we discuss a bit more details for the project?
+
+Waiting your response. 
+
+
+------------------
+
+Hello
+
+I have huge experience working with JS stack technologies especially ReactJS (Redux), MeteorJS, NodeJS and AngularJS.
+Worked on Coffeescript and Typescript too.
+
+I have recently contributed to a projects like:-
+
+http://lim.global/	(React)
+-- Language In Motion is a dynamic, innovative language learning tool. It connects language learners and tutors around the world for private, personalized language lessons, seek fast results. LIM provides customization, flexibility, in person social interaction.
+
+http://www.peopleticker.com/	(React.js, Python, Javascript, HTML5, PostGres, Mobx, GraphQL, ES6)
+-- A solution to empower Procurement, HR and SOW Project leaders with knowledge to take control of negotiations and effectively manage their labor spend. A tool that would provide clients with instant access to salary and labor market data, benchmarks and analysis for hiring permanent and contract workers in any industry, anywhere in the world.
+
+http://nichesportsappdev.herokuapp.com/login	(React.js , GraphCool, GraphQL)
+-- Objective of the platform is to create a database for athletes across all sports, identify athletic talent by creating profiles and highlights, create a database for coaches, managers and administrators, allow athletes, coaches and administrators to form relationships and linkages, to help, monitor and track a player’s and team’s progress(using data analysis from video) as well as be a platform that can help organise tournaments.
+
+http://www.gettaxshield.com/ ("React/Angular/Node /SASS , coffeescript, Devops")
+-- This is Saas which is used to provide customer advance while filling taxes. Taxshield helps companies like crosslink to give out cash before IRS processes the return which help crosslink to retain employees. I can best describe Taxshield via the following:
+Node js this is being used for storing data from Call Tracking Metrics server onto the Firebase database.
+Also, I have used React js for generating data that is stored on Call Tracking Metrics website.
+
+I have deployed my application on Heroku, Amazon servers, Rackspace using NGINX, Mongrel, Passenger, Unicorn, PUMA, Goliath servers and on JRuby to scale better.
+
+I have integrated various 3rd party API's such as Google, payment gateways (Stripe, Paypal, Authorize.net), social media (FB, Instagram, Twitter) & AWS (S3/EC2).
+
+-------------------
+Hope you are doing good!!
+
+I am an experienced Javascript developer and possess a very good experience working with Python. Also, I am well versed with technologies like Angular.js, Vue.js, React, AWS etc.
+
+Please go the below-provided reference work done by me in Python:-
+
+MEETGRADS : http://www.meetgrads.com/
+MeetGrads makes it easy to make friends in a new city by introducing students to seniors and grads from their university that is moving there too. MeetGrads partners with universities to keep current university friendships strong and help make new friendships
+with other grads
+
+XYZlegal : http://www.xyzlegal.com/
+This is a cloud-based document management system.
+
+It would be great if we can discuss the project requirements in detail.
+
+I shall be waiting for your response. 
+
+--------------------------
+I am a professional Full-Stack Developer, who has a lot more than 6 years of experience in Web development, working on International projects remotely. I have huge expertise working with React/Redux and Node.js and MySQL. Ready for a Full-time long-term work.
+
+I have Master's degree in Computer Science.I am a professional in GIT and JS ES6/TypeScript and had deep knowledge in OOP programming, Functional programming, and Software design patterns.
+
+I have deep knowledge in React. I understand in detail the component’ life cycle and all the hooks, unidirectional data flow and how to work with middlewares, how to create React stateless functional Components, Higher-order Components. I know how to implement D3 and complicated tables and charts as well, so you won’t have any problems with performance, give me right JSON and wait for the result.
+
+I use Node.js/Express on a professional level. I can deal with callback hell and create a Rest API. I Know how to work with such things as authentication, role permissions and security. I have deep knowledge of how to deal with high load as well.
+
+My Latest projects, with rich and complicated front-ends:
+
+1. https://www.trinet.com/
+Description:
+This is a huge HR platform build with Angular 2 on the front-end and with JAVA on the back-end
+(Spring framework) with Oracle database. I did all the job for the Web app using Angular 5 using
+Material Design. I’ve created a lot of custom logic to reach maximum speed and scalability.
+
+2. https://saleshero.ai
+
+Here I worked as a Lead Front-end developer creating a UI dashboards using React/Redux, doing PSD to HTML as well refactored all the existing code, wrote admin panels and the main app UI. The project is a Complicated Algorithm that helps user to work with Salesforce, schedule events, suggest contacts, update missing information etc
+
+------------------
+Hi there,
+
+I have gone through your requirement and wonder if you would like to get the solution done by an individual developer form my team, I am leading the team and having a seasoned full-stack developer with having more than 7 years of experience in the domain.
+
+He has recently worked on a fin-tech product for our US based client as a individual contributor, He has worked single-handedly on multiple projects and delivered the value to the customer, he has all the credentials you are looking for, you can find the profile attached below. His spectrum of experience includes, but are not limited to the following;
+• Strong background in Full Stack, Angular1-4, PHP, Python, CSS3, HTML5, Bootstrap, Mongo Db JavaScript, SQL, TSQL, Node Js, Express Js etc.
+• Experienced in integrating platforms together using the API and achieve the needed solution.
+• Experience using JavaScript Frameworks (Angular js, React js, etc.)
+• Experience using the AWS platform.
+• Experience using REST Service.
+• Experience in SQL Database Management protocol
+• Experience with revision control software such as Git and SVN
+• Experience working in an Agile development environment
+• Writing reusable, testable, and efficient code.
+• Possessing a convincing track record of work and referrals from the existing clients.
+• Having a well-deserved reputation for providing time and cost-efficient services.
+
+You can find some flagship projects developed by him below.
+https://koaplatform.com/
+http://www.corelearningexchange.com/
+
+I look forward to hearing from you soon.
+
+---------------
+Overall I have 10+ years of experience in Java/J2EE,Python and Javascript(NodeJS). I have 2+ year of experience working on different AWS technology (AWS lambda, RDS, Dynamo, API gateway, cloud watch, SNS, SQS, SES, cloud search, IoT, Cognito, Lex, Connect, Polly,Codebuild, Code pipeline) and Google Cloud platform along with serverless framework. I have created API endpoints using API gateway (with swagger integration) and lambda. I have used S3 for resource management like files in the system. Cloud watch to create background jobs and logging. Dynamo and RDS (mysql) for database management. I have also used AWS CLI for continuous build development and alias for release management. I have experience in GIT, JIRA, Trello, Pivot tracker etc for project management. Frontend Technology - HTML,CSS,JQuery, Bootstrap, Dojo,D3.js, AngularJS 1/2,NodeJS,ExpressJS and Javascript, React. Payment integration like Stripe, chargebee
+
+Good with MongoDB, PostgreSQL, Cucumber, rspec, Redis, Sphinx also . I have also familiarity with Git and Slack
+
+I have deployed my application on Heroku, Amazon servers, Rackspace using NGINX, Mongrel, Passenger, Unicorn, PUMA, Goliath.
+
+I have integrated various 3rd party API's such as Google, payment gateways (Stripe, Paypal, Authorize.net), social media (FB, Instagram, Twitter) & AWS (S3/EC2). 
+https://www.upwork.com/jobs/_~01182d78f70864bd31/
+
+--------------crypto currency---------
+Hi there,
+
+I’ve recently worked on a really similar project, so I believe that I am a perfect fit for your project.
+Please check it here:
+https://openbit.io/ - a platform for attracting investment from the market of crypto-currency, a platform for crowd-hosting and a system of multiplying their savings. (Python, Django, DigitalOcean (VPS Hosting), Node.js (Express), Neo4j, MongoDB, Vue.js, Gulp, socket.io, Blockchain, HTML5, CSS3, Sass, Javascript)
+
+I am a professional  developer with 6+year experience and I also had experience with creating cryptocurrency exchange trading platform, so you can be sure that I can complete this project successfully.
+
+Here you can check my another Python project:
+http://monastic.group/ - Online ERP platform for MLM marketing businesses (JavaScript, Python, Django, Node.js, MongoDB, Vue.js, Gulp)
+http://lionsheart.com.ua/en/ - is a website and online store for selling jewelry accessories (Python, Django, HTML5, CSS3, Sass, Gulp, Javascript.)
+
+I know you’ll probably get a bunch of low ball bids but if you want to complete your tasks successfully and in a timely manner, you will definitely need to work with an experienced developer and I can assure you that I am one of them.
+
+Let’s schedule a time when we can discuss all the details. 
+
+Looking forward to getting your reply,
+
+
+--------------
+We have reviewed your requirement and understand that you wish to develop a Market Trading Bot for Bitcoins.
+
+I have tried to figure out a solution as per your requirements:-
+
+We are assuming that you require a trading bot for crypto currencies via different exchanges. Hoping that our assumption is correct and here is a write up on how we can develop an excellent and intelligent bot for you.
+
+? Taxonomies
+
+TB in this email stands for Trading Bot.
+
+? Only the exchanges which have API
+
+The TB will work only with the exchanges which have API. This will allow the TB to fetch the prices at set intervals and initiate the buying and selling instantly.
+
+? Few Exchanges who have great APIs
+
+Poloniex and Bittrex are the top exchanges which provide APIs to trade.
+
+? Details over TB
+
+We would like to propose a TB which can fetch the MACD data, be able to read Bollinger bands and Stochastic to analyze the trend on its own. At the same time it can read the price fluctuations on the exchange and trade accordingly.
+
+The TB can work in two modes a) fully automatic b) semi automatic c) dependent on you to take decisions.
+
+The risk taking feature can also be programmed in TB. This also works in two modes – a) Do not proceed unless the previous purchase has been sold, b) Take risk if the proximity price is dropping heavily.
+
+The TB can be programmed to trade multiple crypto currencies at a time.
+
+The TB can be programmed to trade at a certain percentage. For e.g. you will be able to set the margin percentage as low as 1.3% so that you still make money after deducting the exchange fee.
+
+Fully automatic mode – This is where the reading and analysis of MACD data, Bollinger bands and Stochastic play a vital role. The bot will check the proximity of price and after 4 – 5 passes, it will take a decision to purchase or sell. A downward 2 hours MACD with future proximity of 10 minutes results in upward swing, the bot will purchase and then wait to sell. And when the prices are equal or above the expected margin, it will sell immediately. It sounds very good but with our experience, it can work with an accuracy of 80% only. But overall, it delivers the profits.
+
+Semi-automatic Mode – In this case, the bot is doing the analysis and telling you when is the right time to purchase or sell. You would be expected to do your own analysis and initiate the purchase or sell. Generally, the semi-automatic trading bots are deployed once and controlled remotely. For e.g. you will have the bot running and wherever you are, you will be able to control it remotely by just tapping buttons on your app.
+
+Dependent on you to take decisions – This is just a simple trading bot which is always waiting for you to know if the purchase or sales has to be initiated.
+
+Risk Feature – where bot is working on its own – This is the mode where TB will check the proximities and do the trade on its own. The success ratio is generally 50% but you still make money. But we do not recommend this.
+
+Risk Feature – Wait until the inventory is sold – In this case, once the purchase is initiated, the TB will keep on waiting until it can sell after the margin price has reached on the exchange.
+
+Both of these risk features can be applied in automatic or semi-automatic mode.
+
+We hope that we have been able to exhibit our experience and understanding very well.
+
+Please let me know if I can initiate a call with our expert who can give you a walk through.
+
+We’re a team of close-knit creatives of WSMAC (Web, Social, Mobile, Analytics, Cloud) technologists, strategists, and producers whose skills are matched only by our dedication.
+
+>>Mobiloitte Technologies | Since 2004 | 500+ Engineers | 3000+ projects | 2000+ clients.
+
+#Here you can find examples of our mobile apps: http://www.mobiloitte.com/portfolio/mobile
+
+#List of our references and feedback's of our customers: http://www.mobiloitte.com/testimonials
+
+I would be glad to chat in more details! 
+---------------------------
+I am freelancer. I am an experienced freelancer including Python, designer, PHP, Salesforce, Wordpres, coin developers. Also Expertise in various type of cryptocurrency solution like : coin creation, coin mining, bitcoin exchange software development, web wallet development, bitcoin wallet development services. I have rich experience and technical knowledge of all kinds cryptocurrency and bitcoin MLM software development. I'm always ready to take up new upcoming challenges and carefully understand your requirements & help you to find best solution for your business goals to the next level.
+
+Check demo link- https://www.paywaycoin.io
+
+We also develop coin for casino game software like teen patti, texas holdem, omaha poker, roulette and all type of card games as per client requirement.
+
+Our Cryptocurrency Development Services
+Bitcoin Wallet App Development for Android and iOS
+Crypto Coin Creation
+Crypto Coin Mining
+Bitcoin Pool Mining
+Crypto Coin Explorer
+Coin Admin Development
+Coin Web Wallet
+Initial coin offering (ICO) Development
+Bitcoin MLM Software Development
+Cryptocurrency Exchange Software Development
+Coin Development for Casino Game Software
+White Paper and Smart Contract Development
+
+
+-------------------
+1. MODULTRADE PRODUCT:
+https://modultrade.com, https://en.modultrade.io/
+
+Tech Stack:
+Ethereum Solidity Truffle ES6 Node.JS Express React Web3
+Team: Project Manager, Senior Blockchain Developer, Senior Web Developer, Senior QA
+
+Description:
+our dev team have created a website, the MVP and ICO
+architecture. The project is at the pre-ICO stage. The client started their marketing
+campaign and already have investors. Users can already participate in token Pre-Sales:
+https://en.modultrade.io/
+3 505 632 MTRc tokens are sold out. Nominal value ~ 1 552 494 USD
+
+ModulTrade connects small enterprises to global trade via four main components:
+- Blockchain based Smart-contract platform
+- Trade related services platform
+- Trade & Reputation bank
+- Marketplaces
+
+On the platform, a Seller and a Buyer set up a Smart Contract and the buyer deposits
+funds to the Smart Contract. Once goods have arrived at the destination, the funds are
+automatically transferred to the Seller.
+For this ICO project, we provided the following services: website development (frontend,
+backend), admin panel, tokens, purchasing tokens by BTC, ETH, fiat. 
+
+
+2. ZIOMI:
+http://ziomi.io
+
+Tech Stack:
+Ethereum, Solidity. Truffle. ES6, Node.JS, Express, React, Web3
+Team: Project Manager, Senior Blockchain Developer, Senior Web Developer, Senior QA
+
+Description:
+our dev team has implemented the ICO system including:
+- Landing page
+- Login/Registration
+- Investor's dashboard
+- Smart Contract with ICO terms
+- Purchasing tokens with ETH and BTC
+
+At the moment, it's still on the pre-ICO stage, since the Client is sourcing money for their
+marketing campaign. For this ICO project, we provided the following services: website
+development (frontend, backend), admin panel, tokens, purchasing tokens by BTC, ETH,
+fiat. 

@@ -1,0 +1,5 @@
+- Experience with eCommerce concepts such as SKUs, variants, order processing flows is nice to have
+- Experience with Docker
+- Experience with Varnish
+- Experience with NoSQL databases and queue systems (e.g. Elasticsearch, Redis, RabbitMQ, etc.)
+- Experience with popular JavaScript frameworks (jQuery, Vue.js etc)

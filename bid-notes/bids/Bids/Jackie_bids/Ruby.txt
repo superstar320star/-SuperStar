@@ -1,0 +1,174 @@
+After reading over your application this looks like a perfect fit for my skill sets.
+You are looking for a ruby on rails developer to update your current website with ruby on rails and I am ready for you.
+I have built a large number of corporate websites, specifically on the Ruby platform. 
+My name is Steve and I am a Canadian Web Developer and Ruby on rails expert.
+I love Ruby and I have a large portfolio of sites built specifically on this platform. 
+Below you can see a portfolio of my recent Ruby on rails projects.
+http://www.punchbowl.com
+https://lenoxapts.com
+https://www.homebinder.com
+https://lllooch.ru
+http://www.kiip.me/
+
+While I am certain there will be others who underbid me on this project, I can assure you several things. 
+1. I work extremely fast.
+2. I have a great design sense for American corporate design.
+3. I am a Canadian and a native English speaker. This means I can ensure quality communication in regards to the project.
+Thank you and I look forward to the opportunity to work with you. 
+---------------
+
+Hello,
+
+I've gone through your current site, https://recognizeapp.com/
+
+I have been working as web developer/designer for 6.5+ years and I've helped various business from start-ups to established companies in building web applications, enhancement, fix bugs, maintenance, design and deploy Rails/Django app.
+
+Technology stack I am familiar/good with:
+
+• Web-frameworks: Ruby on Rails, ReactJS, AngularJS
+• Great database toolkit for Ruby: PostgreSQL, MySQL, SQLite, MongoDB
+• REST API, TDD/BDD, RSpec
+• Authorization with Devise and OAuth
+• Deploy with Capistrano
+• Git (GitFlow, GitLab Flow)
+• Ubuntu server deployment, using Monit and Backup
+• Agile and Scrum methodology etc.
+
+Please have a look below :
+
+https://www.quantumsponsor .com/
+https://ekylibre .com/
+http://www.koopexpert .com/
+http://countrywidehomes .ca/
+http://n1-racing .com/
+https://www.sweetist .com/welcome
+https://amayraa .com/
+And many more......
+
+I look forward to working with you soon..
+
+Best Regards, 
+
+---------------
+Hello,
+
+I'm a Senior developer who can learn any language/framework very quickly. I'm also a craftsman, and I take pride in writing clean, well tested, and well documented code. I don't cut corners.
+Following references are my previous work with Ruby on Rails and React.
+
+https://tripwing.com (Ruby on Rails)
+https://scarpawine.com (RoR back end and React front end)
+http://rakam.io (Agile software development)
+https://www.helpwith.co (React front end)
+http://www.lucidoagency.com (Ruby on Rails)
+
+As a self-motivated solutions-based developer, I built the component-based web applications with Redux and MVC architecture, and I coded the features in Rails 5.0+ back end. Also I developed the responsive and pixel perfect front end with React, Haml, Jade, and HTML5.
+
+During the period, I focused on building the fast and reliable web applications with Ruby on Rails and React. I accomplished the state management with Redux structure and server-side rendering using rails and react-rails, webpack3.0 gems.
+As a test driven developer, I also implemented the Unit testing, functional testing, component testing and UI testing using Rspec, cucumber, Jest and Enzyme.
+
+I am flexible with working hours, so I can dedicate full time for this job on your timezone. And I can speak English fluently.
+I am looking forward to hearing from you. 
+
+---------------------
+Hello,
+
+I'm a senior web programmer who recently switched from PHP to Ruby (Ruby on Rails).
+Haven't mastered Ruby on Rails in all aspects (for example in testing) but I have a huge experience in building web application in general.
+I can help you faster finish your web application.
+
+I'm one of the most experienced freelancers on UpWork with 100% job success score and more then 6000 working hours.
+These are some of the web services that I developed:
+https://answercrowd.com/ (PHP)
+http://www.fileirsforms.com/ (Ruby on Rails) 
+
+-----------------
+Hi There,
+
+I am an experienced ROR developer having more than 3 years of experience in wide range of application development using ROR (Ruby on Rails 2.1), Ruby, PHP5, JavaScript, CSS, Ajax, and XHTML. As a part of my assignment, I have been into Solution Design and Development, Implementation, Business Analysis, Product Development/Management, Application Development and Application Maintenance.
+
+I can also manage Linux servers, AWS hosting server, and DB-Engines. All my developments run on Linux and Unix environment. Other areas of expertise are Website development, Client servicing, and experienced in both front-end as well as back-end development, Resource Management.
+
+My Technical expertise on ROR:
+------------------------------------
+
+Web Tools: ROR (Ruby on Rails 2.1), Ruby, PHP5, JavaScript, CSS, Ajax, XHTML
+Servers: Apache, Lighttpd, Nginx
+Databases: MySQL, SQL, PostgreSQL, Oracle, MS
+Access Protocols: TCP/IP, DNS, SMTP, HTTP, POP, IMAP, MIME
+Platforms: Mac OS X v10.5, Linux, UNIX, Windows XP/Vista
+
+Please take a look at few of the ROR web samples:
+
+https://mycompliance.me/
+http://www.test-runner.com/
+http://www.meegos.us/
+http://www.veryhome.de/
+https://bodyme.co.uk/
+http://vigoroom.com/
+http://tgs-network.herokuapp.com/
+
+I would request you to please share the specification document and access to the codebase so that we can have a detailed discussion on the same.
+
+I will be bringing my experience & skills set to assist you in your project. Moreover, you will love working with me as I am a team player & can coordinate with you easily. You can check my profile for more professional details about me.
+
+Being said that, I feel a strong connection for this project as I am confident about the end results. I would be happy to assist you with my quality of services and technicalities. I will be working as a dedicated resource (40 hrs/week) to work on your project.
+
+I am looking forward to speaking with you soon! 
+--------------------
+I carefully read and interested in your task. So, we can fulfill your task because have experience and expertise frontend support.
+
+Some our recent projects:
+
+HiYa - hiring platform for one of the London University - http://hiya.ustk.in.ua/.
+Technology stack: Ruby/JS/HTML/CSS/PostgreSQL
+2-month project from scratch.
+
+WoolBar - eCommerce web site - https://woolbar.com. Technology stack: Ruby/JS/HTML/CSS/ElasticSearch/MySQL
+
+Hoping for long-term cooperation with the reliable client and are looking forward to more information on your project.
+
+The more detailed information you can look in our portfolio attached file and some example of code - https://gist.github.com/InsilicoSoft.
+
+Best regards, 
+---------------
+’ve been programming web applications for more than 10 years. The past 6+ years I’ve specialized in SaaS platform development using rails.I have successfully delivered 40+ large-scale and minimum viable solutions.
+
+Please review my Work
+http://www.inkl.com
+http://www.vegman.org
+http://www.bookafy.com
+http://www.simplicant.com
+
+Moving forward, I can dedicate 40+ hours/week and my daily hours are negotiable. I’m very excited to start work with you. – Please feel free to contact me directly to discuss this position further.
+
+regards 
+
+--------------------
+
+Hello,
+
+I have extensive 5 years experience in Bootstrap, JavaScript, Angular, Node, Ruby on Rails, Postgres and GitHub.
+
+I am very comfortable with develop new and edit existing platform designs using the latest SASS/CSS3, HTML5, and Bootstrap technologies.
+
+I have worked in various roles with a strong focus on front-end development for web-based applications that are responsive and look great on both desktop and mobile.
+
+I do unit test coverage via RSpecs and UI test coverage via Selenium and Cucumber.
+
+I have:
+- HTML5/CSS3/Twitter-bootstrap
+- JavaScript, JQuery, React, Angular (1,2,4), Ionic, TypeScript
+- Ruby On Rails (3, 4, 5)
+- Elastic Search
+- Amazon Web Services (S3, EC2, RDS, Route 53)
+- Responsive Web Sits (mobile / tablet / desktop) PSD to HTML (pixel perfect) CSS3 animation Expert. Clean and comment code.
+
+Please find my previous works:
+https://getdispatchbot.com
+https://www.carserv.com
+http://dev.bobtrade.com/
+https://motivsandiego.org/
+
+It would be good if you give me a chance to chat/speak with you on Skype so that I can discuss with you in better way.
+
+I look forward to hearing from you. 

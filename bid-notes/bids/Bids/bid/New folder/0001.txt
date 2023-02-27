@@ -1,0 +1,64 @@
+Hello and Greetings from Mobiloitte!
+
+Solana for sure is a good choice as it provides throughput speeds of up to 50000 TPS and significantly reduced gas fees at $ 0.0015/transaction. The Solana platform has also been able to solve the blockchain trilemma to a great extent by being highly decentralized and secure while being very scalable. Happy to get on a chat/call with you and your team to discuss this opportunity at your earliest convenience along with our tech nerds.
+
+My Rust Experience:
+================
+- I usually support Rust for smart contract development and it's a flexible programming language like C++ with the ability to protect against memory safety issues and other common bugs.
+
+- I write general-purpose code with custom data structures and make use of third-party Rust libraries developed and maintained by the Rust community such as machine learning, data serialization, and other utilities.
+
+- I can help convert the Existing Rust into a smart contract, often with few modifications.
+
+- I have expertise in installing WebAssembly JavaScript API, and we use it to load a wasm module on a web page.
+
+Please find below current progress projects under Solana -
+===================
+https://solana-development.mobiloitte.org/
+https://nft-contract.mobiloitte.org/
+
+A few dApps that we have been building recently are as follows -
+===================
+https://bnbvault.finance/ (Staking and yield farming
+https://admantium.finance/ (IDO Launchpad
+https://dscvr.finance/ (DEX Analysis tool
+https://crosschain-farms.mobiloitte.org/ (AMM Platform
+
+There have been various other platforms that have also been developed by our team of experts into different verticals. Such as Supply chain tracking, invoice discounting, Blood bank solution, and many other similar platforms for enterprise and public use cases. Recently there has been a massive hype in the NFT space and we have catered the same as well with delivering various NFT platforms to the market.
+
+I will be helping you with:
+===================
+- System Architecture Design
+- System Development
+- Testing the system
+- Installing & deployment of software
+
+Blockchain Skills Include:
+===================
+- Smart Contract
+- Ethereum
+- Dapp Development
+- Token Wallet Development
+- Lending Bot Development for Cryptocurrency Exchange Marketplaces
+- AWS DevOps
+- Machine Learning
+
+Expertise & Work Deliverables in Blockchain:
+==================================
+- Worked on Protocols like Ethereum, IBM Hyperledger, Stellar
+- DApp implementation in Philanthropy
+- Implementation of Private, Public, and Permission-based network
+- DApp for Anti-Counterfeiting in the Pharmaceutical Industry
+- SetUp of a Permission-based Consortium Network
+- DApp for Supply Chain Management for Food Industry
+
+We have a team of almost 400 members and out of that, around 60 members have dedicated Blockchain developers wherein around 10 are good with Solana as we have trained them In-house. So, you get all support under the same roof, if we are working together.
+
+Approach at Mobiloitte -
+======================
+Post kick off Team allocation => Project discovery => Sprints Finalizations => Test server setup => UI/UX development as required => Smart Contracts and other program coding (Sprint wise) => QA/UAT => Bug Fixations => Final delivery and source code handover
+
+LET US KNOW YOUR AVAILABILITY FOR A MEETING TODAY OR TOMORROW AROUND 9 AM YOUR TIME. I BELIEVE, WE CAN SET UP A MEETING TO HAVE FURTHER DISCUSSION AND MOVE AHEAD IMMEDIATELY.
+
+Thanks,
+Jagdish AI

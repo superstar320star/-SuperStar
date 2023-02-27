@@ -1,0 +1,59 @@
+bid
+
+Dear client.
+----------------------------------------------------
+I read your job carefully and it is just suitable for my skills.
+I am so experienced on MERN+ redux-toolkit
+I prefer redux-toolkit(recent technology).
+It improves application perfermance such as page loading speed and make development easy and code clean.
+GraphQL+Apollo is very good for building complex system(backend).
+Recently Typescript+redux template get attention from developers.
+I have good experience of that as well.
+So your project is not hard for me.
+-------------------------------------------------
+If you hire me , I will provide a perfect work.
+Hope to discuss about project .
+Thank you.
+
+
+Dear client.
+I read your job carefully and I think your job needs a perfect and talented Vue and Vuex developer.
+Vuex is the pattern and library for managment of state on the application.
+The latest version of vue is 3.0.11 that was release April 2021.
+After releasing that version, I started converting all my vue project in to it.
+I have successfully worked out and it gives me the good experienced of converting the versions in vue.
+Some advices:
+    ---  I think it would be better for you to use NuxtJS framework because it support the server side rendering if possible.
+          The website by only vue and vuex works by client side rendering so it has some cons about SEO and other options.
+         Using Nuxt framework will make your website more flexible and refined.
+   ---  In regard to optimizing of performance of your website.
+         - Lazy Loading in Vue js
+         - Code splitting based on Routes
+         - Vue js Prefetch components
+         -Optimize Third-party Library
+         - Using Browser Cache
+         - Optimizing and Compressing Images and etc
+
+What I have to do ....
+     ---- review the project code.
+     ---- find the reason of slow performance and solution.
+     ---- let you know via video chat.
+     ---- making good performance in deadline.
+     ---- making NuxtJS for the better production if you want.
+I hope your business will be fine and I can be a great help....
+Thank you.
+         
+
+Dear client.
+----------------------------------------------------
+I read your job carefully and it is just suitable for my skills.
+I am so experienced on React + Redux Frontend Development.
+I recommend redux-toolkit(recent technology).
+It improves application performance such as page loading speed and make development easy and code clean.
+Recently Typescript+redux template get attention from developers.
+I have good experience of that as well.
+Since I am a professional frontend developer and your project is converting Figma to React Design, I am sure I can complete it perfectly
+-------------------------------------------------
+I hope you enjoy with my previous works(Frontend).
+Hope to discuss about project .
+Thank you.

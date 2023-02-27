@@ -1,0 +1,73 @@
+Hi,
+Greetings for the day!!
+
+I am a "FULL STACK Developer", having more than 6+ years of experience in development & Designing using React, Redux, Firebase, JavaScript, NodeJS.
+
+My Skills:
+
+- Front end development – Javascript, TypeScript, React.js, Redux, Redux-thunk || saga, Angular.js (Angular 2/6/8), HTML5, CSS, LESS, SCSS, Bootstrap,Material, Ant Design, jQuery.
+
+- Back-end development- NodeJS, Express, PHP, Laravel, WordPress, - Databases - MySQL, PostgreSQL, MongoDB, NoSQL - Azure, AWS, GCP (APIs and infrastructure setup), Docker, Kubernetes - REST APIs integration, design, and development.
+
+Some of My Recent Delivered and Developed Projects listed below:
+
+# https://www.fidelissd.com/our-team
+# https://oifend.com/contact
+
+Please let me know your availability so that we can discuss further regarding your project further.
+
+Warm Regards,
+Shaveta
+
+
+I am the owner of Winterwind Software Services, which is a fast-growing software agency based in the Philippines, specializing in integrating blockchain technology into websites and mobile apps. I am also an Ex-Youtube Programming Instructor (search Anthony Vipond on Youtube) with 14K subscribers, an ex-Disney developer and a Laravel framework expert. Within the company I function like a technical PM, ensuring that only the highest quality goes out the door.
+
+I am managing a team of developers and UI designers from my home in the Philippines. There are only senior developers within Winterwind and only the strong survive in this agency, whether they are developers, UI designers or project managers. Their work is all managed by me here and at no cost to you.
+
+I have been using Laravel full-time since 2014 (Laravel 3). I have contributed to the Laravel framework source code and developed libraries for it as well. My specialty is working as a full-stack or back-end developer on Laravel-based projects.
+
+Before I started Winterwind in 2018, I was a senior full-stack web developer. I also have extensive experience working with different blockchains such as BTC, Ethereum, EOS and more. I was the lead developer of LoyalCoin.io, the first cryptocurrency from the Philippines and Coinflyer.com, which is a cryptocurrency exchange that supports multiple different blockchains. I have also worked on high-traffic websites in the past including Disney.com and one of the busiest real-estate websites in the world, Juwai.com. Our specialties here at Winterwind are Laravel, PHP, MySQL, Vue.js, CSS and integrating any blockchain into mobile or website applications.
+
+Web Experience
+
+✓ 9 years of full stack web development experience
+✓ Relational DB design and optimization (can normalize your database)
+✓ AWS administration (EC2, RDS, S3, Elasticache, security configuration)
+✓ Laravel 4 & 5, Lumen, Code Architecture (Repository pattern, SOLID architecture)
+✓ Linux Administration (CentOS, Ubuntu)
+✓ MySQL and Postgres Administration
+✓ Front-end skills: Bootstrap 2-4, jQuery, Vanilla Javascript
+✓ Twitter Bootstrap 3 & 4
+
+Blockchain experience
+
+✓ Experience with EOS tech (Nodeos, Cleos, Keosd, EOS C++ API)
+✓ Experience with NEM mosaics and writing EOS smart contracts
+✓ Blockchain listeners (listen for BTC, NEM or EOS transactions)
+✓ Integrating blockchain with web or mobile apps
+
+Winterwind Software Services is one of the fastest-growing agencies in the world and we always put the focus on quality. Regardless if it about UI designs, getting pixel-perfect CSS or having a decoupled and robust backend, the focus here is delivering the highest-quality work to you as possible. Please message us or visit our website to know more.
+
+I am a full stack developer, and I create clean-coded, fast, and bugs free websites.
+I specialize:
+React.JS / Vue.js / Node.js / Laravel / Blockchain
+Expert understanding structure of framework and experience of use on any level of complexity. The ability to solve problems that go beyond those described in the Tutorial. Ability to write extensible code; Deep understanding of OOP Principles
+HTML / CSS (including Grid and CSS frameworks, W3C specifications, HTML5 / CSS3 Polyfills);
+Processors CSS (Sass, Less);
+ECMAScript 6+ / Typescript ( the Ability to write typed code );
+Popular frameworks and libraries: jQuery, Highcharts, BEM;
+Instruments for debugging (Chrome Dev Tools, Firebug, and others);
+Instruments for CVS (Git);
+Graphic editor (Photoshop);
+Adaptive and responsive layout;
+Cross-browser development;
+Principles of SEO optimization;
+Webpack;
+Have experience with Nodejs, MongoDB, Express, Nest js,
+
+You want your project to be fast, adaptive, bugs-free, easy to use that will convert your investments in it into income, attract people, promote through the web yourself.
+
+You need your web platform to provide the best user experience. You want results.
+
+Remember, I am the one guy who will be more even worried about the success of your project than you.
+Best Regards.

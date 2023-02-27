@@ -1,0 +1,32 @@
+I'm a Full-Stack Developer and a Blockchain Developer with experience of working in positions/roles of a senior developer, team lead, and system architect. Predominantly in my projects, I was using MS SQL Server, C# .NET, ASP.NET Web API, and AngularJS because with this stack it's relatively easy to get the good speed of development and high-quality result at the end. I also have work experience with Oracle, MySQL, MongoDB, Classic ASP, ASP.NET, ASP.NET MVC, jQuery, Knockout.js, and many more. I like creating fancy user interfaces as well as optimizing server code increasing services productivity. I'm familiar with design patterns and feel free to use them.
+
+🌟 SKILLS 🌟
+
+📍 Blockchain
+Binance Coin, Bitcoin, Blockchain, Cryptocurrency, Database, Exchange, Ethereum
+
+📍 Programming languages knowledge:
+C# – more than 8 years of development experience, good knowledge of the language and .NET;
+JavaScript – more than 5 years of development experience;
+C - generally, experience writing scripts for Mercury Load Runner for testing systems;
+C++, Java, Perl, PHP – general knowledge, experience in developing various small projects;
+SQL, PL/SQL, T-SQL – deep knowledge, extensive usage experience of more than 8 years.
+
+📍 Technologies:
+.NET – WinForms, ADO.NET, WPF, WCF, WF, ASP.NET, ASP.NET MVC, Web API, Entity Framework, NHibernate, Enterprise Library, Prism, DevExpress.
+JavaScript – AngularJS, jQuery, Knockout.js.
+TypeScript – Angular 2+ (from Angular 2 to Angular 7).
+
+📍 Experience with diverse protocols:
+TCP (through sockets), HTTP, HTTPS (SSL и TLS), SMTP, FTP, SOAP, UDP, Telnet, DNS, DHCP, RDP, SNMP и SMPP.
+
+📍 DBMS knowledge and experience:
+Oracle, MS SQL Server, MySQL, MongoDB, Azure Storage, MS Access.
+
+📍 Misc:
+Experience in developing using the TDD technique, deep knowledge, and understanding of design patterns.
+Knowledge of UML and experience composing various UML diagrams.
+Experience in the development of multithreaded applications.
+Skills in profiling applications productivity.
+
+I can complete tasks on a tight deadline with proper testing and well-written code with comments for better readability. I can deliver the quality work you are looking for. Let’s discuss the project?

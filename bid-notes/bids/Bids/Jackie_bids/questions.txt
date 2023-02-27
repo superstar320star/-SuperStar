@@ -1,0 +1,47 @@
+-------------------
+What challenging part of this job are you most experienced in?
+
+- The most challenging portion of this job is the work with React, primarily due to lack experience. I have only done proof of concept projects using react, and they have not been very deep.
+- Mixing backend and front-end tasks for one single developer. However, need more details in order to judge about the overall complexity of your project.
+- I'm having all types of matching skills.I have already worked on complex projects.About your challenging part I'll tell about after your software specification document
+- Full stack of JavaScript/Python, Both of Frontend and Backend development.
+- Front End if you accept GraphQL for the backend. I can instantly create your API based on your database. Just add some custom schema if you need it
+-----------------
+Why did you apply to this particular job?
+
+- With the exception of React (and to a lesser extent Vue), I have experience in all of the technologies you have described. I build application is Angular (AngularJS and Angular 5) and Vue. I develop backend API using Node and Python (Flask and Django), and I know HTML, CSS and Javascript. Additionally, I deploy nearly all of my applications to Amazon Web Services. I primarily use AWS Lambda, Elastic Beanstalk, Cloudfront, S3, and RDS, but I have used many of them over the last 4 years.
+- Because I am confident in my knowledge and experience and accurately understand my capabilities in relation to work. With react, HTML, angular I have been working for 5 years already. With the rest of the requirements put forward by you, I know a little less than 5 years. The most recent experience for me was working with Vue.
+- Because I'm having similar experience as per your job requirement.So,I have applied to this job
+- I have taken part in similar project and I am proud of providing my experiences and efforts to the client.
+- Because I am very well versed with all these technologies and consider myself a suitable fit for this position.
+-------------
+Why do you think you are a good fit for this particular project?
+
+- The technology stack is a good fit for my background and interests. I enjoy being a full stack developer and I am a quick learner.
+- Fitting your technical requirements, having enough time to devote to this project, being a good team-player, highly attentive to details and passionate about programming (I am not a money earning robot, I like programming as a hobby) - all this makes me a good fit for joining your team.
+- Because I'm a full stack developer and well versed as in the front end and in the back end.
+- Because being a senior I suggest you experience is golden factor with this type of project.
+- I have all skills and experiences for the project. Especially, I have experience with working on similar project. Here are my past works. https://www.couturecommunity.com http://www.activehealthpromotion.com.au http://adorefurniture.com.au https://www.closetblossom.com This is my Git profile.
+------------------
+Please list APIs you have developed with NodeJS.
+
+- I was working with the India's top automotive product & i was working for their Insurance Brokerage product where i had to integrate the SOAP API's of different Insurance Providers like HDFC, ICICI & i made the REST API's for mobile & web to provide insurance quotes in Node.js
+- I have developed a REST API for a multi-service e-sport gambling website, I can't provide you with a live link because the website is being migrated.
+- I have developed many API in 6 years. It is not possible to list down all. Some of the recent API which I developed with different technologies https://group-search.c2cschools.com/search/tre/1 API Built using: node.js, mysql, validator, docker stuffmapper.com API Built using: node.js, postgres, ec2 c2cschools.com On the main page, login and sign up rest api are deployed on aws lambda, api gateway
+- API for Lincoln Center internal services and data synchronization between LC Organizations. API for Web Portal for Merchant Loans by Cohen Group. API for Medical Product from Israel. API for Video Platform in LA.
+- I made with Node the MVP product based on ETH smart-contracts (our development) for https://www.mytravelbiz.com/#/ https://www.travelcoin.org/
+- We used Node JS and Express to make REST APIs for mobile applications. We did web services to connect with Json files/excel files/Google APIs and read/write files/database.
+
+---------------
+Do you have experience with AWS Lambda?
+
+- I have worked with AWS lambda to perform some tasks with AWS Redshift
+- Recently I developed a server less application in which I developed and deployed test and production environments on AWS using Lambda, API Gateway, S3, VPC, VPC Endpoint, RDS, Internet Gateway and NAT Instance. In another server less application project I used Amazon Cognito, Lambda functions and API Gateway to create an authentication app. The app would allow admin to create Cognito users. These users would then be able to access different web apps depending on their credentials. 
+- We used AWS Lambda for videos transcoding for one of our clients with Video content project.
+- Yes, I have good working experience of the AWS Lambda and API gateway. I have good working knowledge of serverless and micro-services architecture as well.
+
+
+------------
+Which part of this project do you think will take the most time?
+
+I request you to share complete scope and details and as per that I will provide complete estimates. I will be available for technical round to validate my experience and expertise related to the tasks.

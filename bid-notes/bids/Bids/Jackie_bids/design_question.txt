@@ -1,0 +1,27 @@
+--------------------
+Our Development Process
+We take a structured approach to web design. Our development process was created to ensure every project is delivered on-time and on-budget. Once your web design project kicks off, here’s what to expect:
+
+Initial Planning
+The first order of business is to sit down with your team and create a detailed set of design and technical specifications. These specifications serve as a roadmap for the rest of the web design process.
+
+Wireframing
+Wireframes are your first chance to visualize your website. While they’re not nearly as detailed as the final site will be, they give us a visual representation of the site’s overall layout.
+
+Mockups
+Once all site mockups are completed and approved, we’ll proceed with site mockups. These add color and a bit more detail to the initial wireframes, giving us a stronger visual representation of the final product.
+
+Copy & Graphics
+Once we’ve agreed on a final design based on the mockups, our team will proceed with development, kicking off two phases in unison. The first involves creating your site’s copy and graphics. Our team will get to work performing SEO and competitive research and come up with the copy and images that will flesh out your final site.
+
+Development
+At the same time, we’ll kick off the technical side of the web design process. This will include deploying your CMS, creating your custom theme and page designs, and setting up your website’s analytics.
+
+Testing
+Once our writers, designers, and developers have finished their work, our Quality Assurance team will get to work testing your site’s performance and reliability. We’ll use various tools to benchmark your site for loading, responsiveness, and speed, while also ensuring that it works reliably on all web browsers and mobile devices.
+
+Deployment & Optimization
+Once we’re sure that your site is ready to be released to the public, we’ll deploy it on your public domain. Then, we’ll shift into a monthly support process that will continue for 12 months. During that period, we’ll create monthly backups of your site, update scripts and plugins to maintain security and reliability, and perform layout and content updates at your request.
+
+-----------------
+

@@ -1,0 +1,55 @@
+-Why would you be a good fit for this position?
+Hello
+I just read your job detail carefully and it sounds like that I would be ideal match for this project. 
+I recently implemented same job with another client and so I feel confident in this area.
+Best
+
+-project
+1. Recognize the workflow and workload.
+2. Investigate the project current stage and quality of work
+3. If there is teammates who are already familiar with this project, then ask them if I have any trouble or unclear things
+4. Review them to my codebase and get their opinion
+
+
+Let me list the whole my area of expertise:
+- AngularJS 2+ ;
+- native JavaScript; JS-frameworks and libraries: ReactJS, ext.js, Express.js, JQuery;
+- PHP 5~7 custom development; LARAVEL 4~5 and YII 1~2 frameworks;
+- Node.js;
+- Bootstrap 2/3; HTML5/CSS3 on default;
+- technology web-socket (Socket.io), WebGL, Cordova (Ionic).
+- DB: MySQL, MongoDB, PostgreSQL
+- version control systems: Git, SVN;
+- tracking tools: JIRA; Trello; Asana; RedMine;
+- Unity development
+- Android Studio using JAVA, Kotlin, JNI 
+
+
+function autoincrement(a, b) {
+    let promise = new Promise((res, rej) => {
+        setTimeout(() => {
+            a++;
+	    console.log(a);
+        }, b);
+    }).then((result) => {
+        console.log(`Result: ${result}`);
+    });
+}
+autoincrement(0, 1000);
+
+function resolveAfter2Seconds() {
+  return new Promise(resolve => {
+    setTimeout(() => {
+      resolve('resolved');
+    }, 2000);
+  });
+}
+
+async function asyncCall() {
+  console.log('calling');
+  const result = await resolveAfter2Seconds();
+  console.log(result);
+  // expected output: "resolved"
+}
+
+asyncCall();

@@ -1,0 +1,79 @@
+Hello there, I have tremendous experience in Vuejs, React, Node and can surely help you in developing the site.
+
+Here are some samples you can check -
+
+# VueJs Samples -
+
+https://wildguanabana.com/ - Book your best trips
+Technologies:- nuxt.js, Bootstrap, jQuery , Laravel
+
+http://serva.com
+Technologies:- Front End :- nuxt.js, Bootstrap, jQuery , Laravel
+
+Ceflix - Streaming applicaiton
+-> http://ceflix.org/
+-> https://play.google.com/store/apps/details?id=com.imm.ceflix
+-> https://apps.apple.com/in/app/ceflix/id908737438
+
+# React Samples -
+1. Elabelz Shopping - With on-the-go access to more than 45,000 products and 500+ global brands for men and women.
+Web - https://elabelz.com/
+Android - https://play.google.com/store/apps/details?id=com.progos.elabelz
+IOS - https://apps.apple.com/us/app/elabelz-shopping-%D8%A5%D9%8A-%D9%84%D9%8A%D8%A8%D9%84%D8%B2/id1145303714
+
+2. KARMA - All in one shopping
+-> https://www.karmanow.com/
+Android - https://apps.apple.com/US/app/id1086670571?mt=8
+IOS - https://play.google.com/store/apps/details?id=com.shoptagr&referrer=af_tranid%3DbSl6k1fOwbnIyxYyL3ATeQ%26pid%3DBeta_Organic%26af_web_id%3Dc5c71c97-0286-44b4-b517-ab2ea4238954-c
+
+Features
+- Karma's browser extension meets you wherever you shop across the web.
+- Karma automatically finds and applies the best coupon for you, so you know you get the best value every time.
+- Karma uses clever technology to track if the price drops, or when it's back in stock, so you can buy at the right time.
+- You earn real cash every time you shop. Karma has your (cash) back as a verified PayPal partner.
+
+
+Let's connect and discuss your project requirements in detail.
+Best Regards
+
+
+
+
+
+Hello there, I have tremendous experience in Vuejs, React, Node and can surely help you in developing the site.
+
+Here are some samples you can check -
+
+# VueJs Samples -
+
+https://wildguanabana.com/ - Book your best trips
+Technologies:- nuxt.js, Bootstrap, jQuery , Laravel
+
+http://serva.com
+Technologies:- Front End :- nuxt.js, Bootstrap, jQuery , Laravel
+
+Ceflix - Streaming applicaiton
+-> http://ceflix.org/
+-> https://play.google.com/store/apps/details?id=com.imm.ceflix
+-> https://apps.apple.com/in/app/ceflix/id908737438
+
+# React Samples -
+1. Elabelz Shopping - With on-the-go access to more than 45,000 products and 500+ global brands for men and women.
+Web - https://elabelz.com/
+Android - https://play.google.com/store/apps/details?id=com.progos.elabelz
+IOS - https://apps.apple.com/us/app/elabelz-shopping-%D8%A5%D9%8A-%D9%84%D9%8A%D8%A8%D9%84%D8%B2/id1145303714
+
+2. KARMA - All in one shopping
+-> https://www.karmanow.com/
+Android - https://apps.apple.com/US/app/id1086670571?mt=8
+IOS - https://play.google.com/store/apps/details?id=com.shoptagr&referrer=af_tranid%3DbSl6k1fOwbnIyxYyL3ATeQ%26pid%3DBeta_Organic%26af_web_id%3Dc5c71c97-0286-44b4-b517-ab2ea4238954-c
+
+Features
+- Karma's browser extension meets you wherever you shop across the web.
+- Karma automatically finds and applies the best coupon for you, so you know you get the best value every time.
+- Karma uses clever technology to track if the price drops, or when it's back in stock, so you can buy at the right time.
+- You earn real cash every time you shop. Karma has your (cash) back as a verified PayPal partner.
+
+
+Let's connect and discuss your project requirements in detail.
+Best Regards

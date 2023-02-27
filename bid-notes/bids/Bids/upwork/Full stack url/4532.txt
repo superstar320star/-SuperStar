@@ -1,0 +1,38 @@
+I am Prabhash, and I am a Full Stack Developer for over ten years now. I work with a small team, and we have experience shipping out Full stack applications and SaaS platforms to production.
+
+Our primary stack is Angular/React with NodeJs as the backend to build mobile/web apps. We majorly work with SaaS companies & platforms and build various apps. Our frontend stack is Angular/React with TypeScript, RxJS, ngRx, Bootstrap, Tailwind, and Sass for our CSS. In the backend, we prefer to use NestJS with TypeScript and PostgreSQL/firebase. If needed we also offer end-to-end development of the product, including design. You can see our Dribbble profile at
+https://dribbble.com/itobuz
+
+We are a fast-paced team, we work with JIRA Agile and 3-week sprint cycles with proper QA and automated e2e tests using CodeceptJS. Let's connect and discuss!
+
+Some of our recent works are:
+
+Upfire ( It’s a 100% decentralized protocol for secure P2P file-sharing, where users can earn crypto by seeding files – leveraging Binance Smart Chain and to maximize earnings and minimize fees. )
+We have built its desktop app using ReactJs.
+https://upfire.com/
+
+Gust ( A platform for Advertisers and Influencers to connect and do business together )
+https://gust.io/
+Apps:
+https://play.google.com/store/apps/details?id=com.gust.app
+https://apps.apple.com/us/app/gust/id1508204799
+
+Venval - An app using react for Business assets bidding. It can also be used as a sale platform for liquidation. We are also working on mobile apps for the same. You can see it here:
+https://venval-dev.vercel.app/
+
+Ataata ( A managed employee training platform. It's a B2B SaaS Enterprise application with a Subscription model. It has different levels of users with dashboards, reporting, analytics, etc. Picked up $3M in funding and got acquired by Mimecast)
+https://www.ataata.com
+https://www.crunchbase.com/organization/ataata
+
+Smart Moving ( One-stop SAAS platform for Moving companies )
+https://www.smartmoving.com/
+Apps:
+https://play.google.com/store/apps/details?id=com.smartmoving.app&hl=en&gl=US
+https://apps.apple.com/us/app/smartmoving/id1448178293
+
+You can also see our profile; We are Top Rated with 100% Job Success. We are 100% reliable, and your project is in safe hands with us. We take our work seriously, and We are good at what we do.
+
+So, let me know. I would love to work on this.
+
+Thanks and Regards
+Prabhash C.

@@ -1,0 +1,87 @@
+Hi,
+
+Thank you for the job posting. I would like to work with your Vue JS|React|JavaScript requirements.
+
+✅✅✅Upwork Top Certified Vue JS Developer✅✅✅
+
+✅6+ years of full-time experience in Vue.js, Angular.js & Node.js
+✅Upwork Top 10 Certification for Vue.js
+✅Guaranteed Results Policy: Pay only if you are happy with the results
+✅Excellent communication and flexible availability (EDT/PST/GMT/)
+
+Client Reference Letters: https://goo.gl/wzaLWT
+
+I have worked on some of the most complex web applications developed in Angularjs, Angular 5 & Angular 7 leveraging node.js as back end support.
+
+Key Projects
+
+➽ GooruOffline
+http://gooru.org
+"A learning platform for students with a variety of study materials like multiple-choice exams,
+videos, maps etc. The application keeps track of the progress of each user in going through the
+topics. "
+Tech Stack:"Python/Django, Django REST API, sqlite",vue js,javascript,,bootstrap, webpack"
+
+➽ http://acculeap-analytics.com
+Project scope is data engine, based on the financial records like loans and advance, we are processing the data and showing as a visualization
+Tech Stack: Vue.js, Django
+
+➽Logitell
+Website: https://www.logitell.com
+This is a custom build platform for building web app, where the Contents for the pages, their publishments of textbooks can be managed. The latter phase includes online tutorials, class scheduling and examination conductions.
+Tech Stack: Node.js, Angular.JS and PostgreSQL.
+
+➽Ed-Admin+
+Website: http://www.ed-admin.com
+Ed-admin+ is a browser-based software application which streamlines and simplifies education management, integrating administrative, teaching and learning tasks into one user-friendly, custom-designed database that meets the need of all education establishments. Ed-admin was designed and developed by a core team of specialists in education, education managers and software developers to provide a versatile system that is flexible and customised to develop with growing needs, able to integrate into a corporate environment and suit a range of education establishments.
+Tech Stack: Node.js, Angular.Js and ColdFusion - ColdFusion to Node.js Conversion
+
+➽ BISTrainer
+Website: https://www.bistrainer.com/index.cfm?action=home.loginForm
+BIStrainer is an online learning management system developed by Business Improvement Solutions Inc., an Alberta-based training and development company. BIStrainer is used by multinational organizations to provide training to employees and clients in mand Germany. The keys to the success of this system include its advanced functionality and scalability. Currently listed as the Top 10 LMS in the World.
+Tech Stack: Node.js, Express.js, Angular.js
+
+➽ Easy Gifts
+Website: https://easygifts.sa/ar
+Ecommerce application mainly deals with different categories of gift items.
+Tech stack: Angular JS, Next JS, MongoDB, Node JS, Express JS, GraphQL, AWS
+
+➽Dleveral
+Website: https://dleveral.com/dashboard
+Training portal, connects coaches and trainees.
+Tech Stack: Angular 5, Node JS, Express JS, MongoDB, Stripe, AWS
+
+➽ Samscloud
+Website: https://web.samscloud.io/
+Organization based rescue management system, handling with cctv's, notifications.
+Tech Stack: Angular 7, Python, PostgreSQL
+
+➽ BrownEagle
+Website: https://www.brown-eagle.com/
+Ecommerce online market place for B2B
+Tech Stack: Angular 7, Node JS, Express JS, MongoDB, Stripe, AWS
+
+In case you have a much larger requirement and would like to work with multiple developers or projects; I have a team of 20 expert Vue.js / Node.js / Angular.js / Angular 5/Angular 7 developers that can take on projects of any size and complexity.
+
+Regards
+Rino
+
+
+
+Hi! I'd be glad to help. React/Vue is my expertise for about 5+ years. Here you can see some of my most recent projects - https://oc.plus/, https://www.boligportal.dk/, https://fitmo.com/. More projects and additional info you can find in my CV. I hope my skills can influence the success of your project :)
+
+My technical stack includes Javascript/ES6+ (JQuery, Vue / Vuex, React / Redux, Node), Bootstrap, Material-UI, TailwindCSS, TypeScript, ajax, JSON, REST, Jest, Cypress, AWS, Webpack, CI/CD, GraphQL, HTML, Sass/Less, CSS/SCSS, JSON, SQL/NoSQL (MySQL, PostgreSQL, MariaDB, MongoDB), version control (GIT, Bitbucket), Jira, Trello, SCRUM.
+I'm interested in long-term work!
+
+Do you have the docs I can explore?
+When you'd like to start?
+How would you like to communicate (daily meetings/calls or text chat on Slack)?
+Thanks!
+
+Do you have any questions for me? Feel free to ask!
+
+I’d be glad to discuss your project in detail!
+
+Best wishes,
+Oles
+OLES+CV.pdf (194 KB)

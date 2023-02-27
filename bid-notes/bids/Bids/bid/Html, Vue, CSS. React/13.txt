@@ -1,0 +1,205 @@
+6+ YEARS EXPERIENCE AS A FULL-STACK DEVELOPER WITH REACT.JS
+(Great upwork profile at https://www.upwork.com/ag/queppelin/ )
+
+
+Hello,
+
+This is Karnika here from Queppelin, with 6+ years of experience as a Full-stack developer.
+
+We specialize in creating Scalable applications (web, desktop, modules, and mobile) for Client-side JavaScript Technology Stack for Developing Robust Enterprise Applications. We have developed 70+ web apps based on NodeJs, React and have expertise in the following:
+
+>> React( 4+ years ), Vue.js, Redux,
+>> HTML, CSS, JavaScript( 6+ years)
+>> Process related tools: Github, Jira & Slack
+>> Communication Tools: Trello, Scrum/Agile
+>> Excellent verbal and written communication skills in English.
+
+Here I have mentioned part of our work portfolio based on REACT.JS and VUE.JS for your reference:
+
+1. https://expo.dev/
+2. https://www.revolut.com/ ( The UK's fastest-growing financial super app)( FINTECH )
+3. https://www.munchado.biz/ ( Online Restaurant WebApp, USA )
+4. https://gujarati.news18.com/ (India's largest news channel/website, backed by Reliance group).
+5. https://waysapp.in/ ( Automated Next-Generation Tolling Platform, Web App)
+6. https://hashnode.com/
+7. https://www.ticketswap.com/ ( E-Ticket buy and Selling Platform)
+8. https://next-ecommerce-front.vercel.app/ ( E-Commerce Web App )
+9. https://showcased.org
+
+Let's connect to discuss your project in-depth.
+
+Regards,
+
+Karnika P.
+https://clutch.co/profile/queppelin
+
+Resume+-+Full+stack+MERN+dev+6%2B+years+-+Queppelin.pdf (219 KB)
+
+
+Hi there!
+
+My name is Vitaliy, and I am a CTO and Founder of Upplabs - a software development company. I saw in your requirements that you are looking for experienced Front-End developer.
+
+We will be glad to allocate one of our devs and to help you with development. We have a strong engineering team, with 8+ years of experience in Vue.js, React, JavaScript,CSS and website development.
+
+Adding our portfolio for your reference - https://upplabs.com/portfolio/
+And here is our Clutch profile - https://clutch.co/profile/upplabs
+
+I would be glad to discuss in more details your project and help you out. Do you have free time to chat this week?
+
+
+Hi,
+
+I just reviewed your job description and understand that you're looking for an experienced developer (I can start working immediately)
+
+I have 9+ years of experience as a Full-stack developer
+
+Skills:-
+● Front end: Angular, Vue, React, Express, Typescript, Material, Kendo, Bootstrap, HTML 5, CSS3, JavaScript, jQuery, AJAX
+● Back-end: PHP, WordPress, Laravel, Node
+● Database : SQL, Mysql, MongoDB, DynamoDB, Firebase, PostgreSQL, GraphQL, MariaDB
+● Cloud services: AWS and Azure
+● Teamwork & Collaboration tool: Git, JIRA, Bitbucket, $lack, Web-Ex, and Trello
+
+● Strong foundation in computer science fundamentals – distributed systems, data structures, algorithms, object-oriented design, etc.
+● Bachelor's degree in Computer Science Engineering
+
+Work Reference:-
+Vue/Nuxt
+● https://di-museum.ch/
+● https://aboutmarco.com/
+● https://metime.com/
+● https://www.rossmann.pl/
+
+Angular
+● https://webapp.quantifyninja.com/
+● https://www.landsend.com/
+
+React/Next
+● https://www.rentalcars.com/
+● https://www.findprices.com/
+● https://www.konga.com/
+
+Node/Nest
+● http://www.mobifans.com.br/
+● http://qparts2u.com/
+
+PHP / Laravel
+● http://titlist.net/
+● https://trouvetonalternance.com/
+
+● Git: https://github.com/Jalpesh009
+
+Your business is unique. It deserves a bespoke strategy,I look forward to connecting with you shortly,
+Thx!
+
+
+ 
+ 
+ 
+View profile
+
+Back-End Development
+
+Mobile App Development
+
+All work
+$20k+
+Total Earnings
+3
+Total Jobs
+1,167
+Total Hours
+Hours per week
+More than 30 hrs/week
+Languages
+English: Fluent
+Education
+Gujarat Technological University
+Computer science
+2006-2010
+Associated with
+Albiorix Technology Pvt. Ltd
+Albiorix Technology Pvt. Ltd
+10,888 hours
+98% Job Success
+TOP RATED
+FullStack developer - Angular, React, Next, Vue, Node, PHP, Laravel
+$35.00/hr
+Hello Everyone,
+
+I am Malay, a full stack developer with 9+ years of experience in enterprise-level database, mobile application and software development.
+
+My primary goal is business success & customer satisfaction. 100% quality work and prompt response guaranteed from my end.
+
+My expertise and experience:
+Building & maintaining web and mobile applications using modern technologies
+- React.js (Redux, Saga), Angular, Vue, Node
+- HTML/CSS, SASS, SCSS, LESS
+- Bootstrap, Material UI, React Bootstrap
+- JavaScript, TypeScript
+- REST and GraphQL APIs, based on Express, Koa and NestJS frameworks
+
+Mobile Technology:
+- React Native, Flutter, Swift.
+
+Databases:
+- Relational (PostgreSQL, MySQL, SQL Server)
+- NoSQL (DynamoDB, MongoDB)
+
+If you have an idea, I would be happy to discuss it further! Thank you so much for being so attentive to my profile!
+
+more
+Work History 
+Completed jobs (4)
+Development of a multi-platform web app for a digital investing platform.
+Jul 8, 2019 - Sep 24, 2019
+No feedback given
+
+$4,516.66
+$25.00 / hr
+181 hours
+Looking for experienced Web Application developer to create a web-based application
+Rating is 5 out of 5.
+ 5.00 Feb 11, 2018 - Feb 23, 2018
+$200.00
+Fixed Price
+ASP.NET MVC/C#/jQuery/Javascript Website Upgrades, Optimizations and Function Development
+May 25, 2017 - Feb 6, 2018
+No feedback given
+
+$6,112.49
+$25.00 / hr
+241 hours
+Senior .Net core/Angular2 developer
+Rating is 5 out of 5.
+ 5.00 Jun 30, 2017 - Aug 9, 2017
+"Good job done!"
+
+$3,891.66
+$25.00 / hr
+156 hours
+Skills
+AngularJS
+Vue.js
+React
+Node.js
+TypeScript
+JavaScript
+Ionic
+C#
+.NET Core
+RESTful API
+Software Architecture & Design
+SQL
+Material Design
+Mobile App
+AngularDart
+Employment history
+Senior Full-Stack Developer | Albiorix Technology Pvt. Ltd
+May 2018 - Present
+Senior Software Developer | Conceptive Technology Pvt LTD
+July 2010 - April 2018
+Other Experiences
+Project Manager
+Requirement gathering, setting up a project, both front-end, and Back-end development. Developing negotiating strategies and positions by studying the integration of new venture with company strategies and operations; examining risks and potentials; estimating partners' needs and goals.

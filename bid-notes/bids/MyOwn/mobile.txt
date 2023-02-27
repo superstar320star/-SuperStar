@@ -1,0 +1,24 @@
+Need growing for your business via Online?
+I'm pretty happy to bid on this interesting project.
+I read your description carefully and I think that I am the developer you are looking for and are suitable for this task.
+I am inquisitive and driven developer who is passionate about agile methodologies and enjoys working on exciting and challenging projects with like-minded, talented and passionate people.
+My experiences range from building responsive software design that work well cross-browser to Business Goal.
+I am glad to provide full solution to you.
+⭕ Single App(Java, C, C++, C#, QT, Python)
+⭕ Website App Front-End and Backend Development(Nextjs, Nuxtjs, Express, Node JS, Angular, ReactJS, Vuejs, D3js, Redux)
+⭕ Mobile App(Flutter, Android,Xamarine, Xcode, Swift, ObjectC, React Native)
+⭕ Website App Backend Development(Nodejs, Symfony Laravel, Codeigniter, Smarty, Twillo, Ionix)
+I've spent my entire career specializing in web development, web design, and template design. I've gone from intern at a small company to project manager of a consulting firm working with potential customers through a larger PR agency. Now I've started my own consultancy and am always looking for a new challenge.
+Let's discuss your project further in private chat soon.
+Thanks.
+
+var i = 1;
+
+var interval = setInterval( increment, 1000);
+
+function increment(){
+    i = (i + 1)%10;
+	console.log(i)
+}
+
+https://www.webopedia.com/reference/text-abbreviations/
